@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Types of house]]></f>
+    <b><![CDATA[Tipos de vivienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flat (inner/outer)]]></f>
+    <b><![CDATA[un piso (interior / exterior) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[apartment]]></f>
+    <b><![CDATA[un apartamento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[single family house]]></f>
+    <b><![CDATA[una vivienda unifamiliar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[villa]]></f>
+    <b><![CDATA[un chalé]]></b>
+  </c>
+  <c>
+    <f><![CDATA[two family house]]></f>
+    <b><![CDATA[una vivienda bifamiliar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[semi-detached]]></f>
+    <b><![CDATA[un pareado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[semi-detached or terrace]]></f>
+    <b><![CDATA[un adosado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[block of flats]]></f>
+    <b><![CDATA[un inmueble / una casa / un bloque de pisos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skyscraper]]></f>
+    <b><![CDATA[un rascacielos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Situation of the house]]></f>
+    <b><![CDATA[Situación de la vivienda ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to live in…]]></f>
+    <b><![CDATA[vivir en...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ground floor]]></f>
+    <b><![CDATA[la planta baja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[first floor]]></f>
+    <b><![CDATA[el primer piso / en la primera planta ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the second/third… floor]]></f>
+    <b><![CDATA[el segundo / tercer... piso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[urbanization]]></f>
+    <b><![CDATA[una urbanización]]></b>
+  </c>
+  <c>
+    <f><![CDATA[residential zone]]></f>
+    <b><![CDATA[una zona residencial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[green zone]]></f>
+    <b><![CDATA[una zona verde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[an expensive/poor/central/on the outskirts... district]]></f>
+    <b><![CDATA[un barrio caro / pobre / céntrico / a las afueras...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the outskirts (of the city)]]></f>
+    <b><![CDATA[las afueras (de la ciudad)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in the suburbs]]></f>
+    <b><![CDATA[en el extrarradio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the center (of the city)]]></f>
+    <b><![CDATA[el centro (de la ciudad)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the country]]></f>
+    <b><![CDATA[el campo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of the house]]></f>
+    <b><![CDATA[Descripción de la vivienda ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[large]]></f>
+    <b><![CDATA[grande]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spacious]]></f>
+    <b><![CDATA[amplio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[extensive]]></f>
+    <b><![CDATA[espacioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[immense]]></f>
+    <b><![CDATA[inmenso ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small]]></f>
+    <b><![CDATA[pequeño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tiny]]></f>
+    <b><![CDATA[enano o diminuto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[narrow]]></f>
+    <b><![CDATA[estrecho ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comfortable]]></f>
+    <b><![CDATA[confortable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[uncomfortable]]></f>
+    <b><![CDATA[incómodo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modern]]></f>
+    <b><![CDATA[moderno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[old]]></f>
+    <b><![CDATA[antiguo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pretty]]></f>
+    <b><![CDATA[bonito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ugly]]></f>
+    <b><![CDATA[feo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shabby, seedy (slang)]]></f>
+    <b><![CDATA[cutre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[isolated]]></f>
+    <b><![CDATA[aislado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[well situated]]></f>
+    <b><![CDATA[bien comunicado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(made) of mud/clay]]></f>
+    <b><![CDATA[(hecho) de barro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[of brick]]></f>
+    <b><![CDATA[de ladrillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[of wood]]></f>
+    <b><![CDATA[de madera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[of stone]]></f>
+    <b><![CDATA[de piedra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[with tile roof with two slopes]]></f>
+    <b><![CDATA[con tejado a dos vertientes ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[with slate tile roof]]></f>
+    <b><![CDATA[con tejado de pizarra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[House alterations]]></f>
+    <b><![CDATA[Reformas de la vivienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to need alteration(s)]]></f>
+    <b><![CDATA[necesitar reforma(s)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make alteration(s)]]></f>
+    <b><![CDATA[hacer reforma(s)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to alter (a flat/a house)]]></f>
+    <b><![CDATA[reformar (un piso / una casa)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lay new floors]]></f>
+    <b><![CDATA[poner suelo nuevo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to change the floor/the bathroom/the kitchen]]></f>
+    <b><![CDATA[cambiar el suelo / el baño / la cocina ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make another bathroom]]></f>
+    <b><![CDATA[hacer otro baño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fix the garden/the tile roof]]></f>
+    <b><![CDATA[arreglar el jardín / el tejado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to throw up partitions]]></f>
+    <b><![CDATA[tirar tabiques]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to knock down walls(?)]]></f>
+    <b><![CDATA[picar paredes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to paint]]></f>
+    <b><![CDATA[pintar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to decorate]]></f>
+    <b><![CDATA[decorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to paper]]></f>
+    <b><![CDATA[empapelar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Parts of a house]]></f>
+    <b><![CDATA[Partes de una vivienda ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vestibule]]></f>
+    <b><![CDATA[el portal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elevator]]></f>
+    <b><![CDATA[el ascensor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stairs]]></f>
+    <b><![CDATA[la escalera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[entrance]]></f>
+    <b><![CDATA[la entrada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hall]]></f>
+    <b><![CDATA[el hall]]></b>
+  </c>
+  <c>
+    <f><![CDATA[entrance hall]]></f>
+    <b><![CDATA[el recibidor ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hallway]]></f>
+    <b><![CDATA[el zaguán ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lobby]]></f>
+    <b><![CDATA[el vestíbulo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[kitchen]]></f>
+    <b><![CDATA[la cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bedroom]]></f>
+    <b><![CDATA[el dormitorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rooms]]></f>
+    <b><![CDATA[las habitaciones ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bathroom]]></f>
+    <b><![CDATA[el cuarto de baño ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bath]]></f>
+    <b><![CDATA[el baño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toilet]]></f>
+    <b><![CDATA[el aseo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toilet]]></f>
+    <b><![CDATA[el retrete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the washroom]]></f>
+    <b><![CDATA[el sanitario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lounge]]></f>
+    <b><![CDATA[el salón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dining room]]></f>
+    <b><![CDATA[el salón comedor ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dining room]]></f>
+    <b><![CDATA[el comedor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[living room]]></f>
+    <b><![CDATA[el cuarto de estar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[writing-desk/room]]></f>
+    <b><![CDATA[el escritorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[library]]></f>
+    <b><![CDATA[la biblioteca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[patio]]></f>
+    <b><![CDATA[el patio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[terrace]]></f>
+    <b><![CDATA[la terraza ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[balcony]]></f>
+    <b><![CDATA[el balcón ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[roof]]></f>
+    <b><![CDATA[la azotea ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[attic]]></f>
+    <b><![CDATA[el ático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tile roof]]></f>
+    <b><![CDATA[el tejado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[garage]]></f>
+    <b><![CDATA[el garaje ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cellar]]></f>
+    <b><![CDATA[el sótano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine cellar]]></f>
+    <b><![CDATA[la bodega ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[garden]]></f>
+    <b><![CDATA[el jardín ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orchard]]></f>
+    <b><![CDATA[la huerta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Parts of a room and furniture]]></f>
+    <b><![CDATA[Partes de una habitación y mobiliario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wall]]></f>
+    <b><![CDATA[la pared]]></b>
+  </c>
+  <c>
+    <f><![CDATA[partition]]></f>
+    <b><![CDATA[el tabique]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ceiling]]></f>
+    <b><![CDATA[el techo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[door]]></f>
+    <b><![CDATA[la puerta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[window]]></f>
+    <b><![CDATA[la ventana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[blind]]></f>
+    <b><![CDATA[la persiana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[curtains]]></f>
+    <b><![CDATA[las cortinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chimney]]></f>
+    <b><![CDATA[la chimenea]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pipes]]></f>
+    <b><![CDATA[las tuberías]]></b>
+  </c>
+  <c>
+    <f><![CDATA[heating]]></f>
+    <b><![CDATA[la calefacción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gas]]></f>
+    <b><![CDATA[el gas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cupboard/wardrobe (built-in)]]></f>
+    <b><![CDATA[el armario (empotrado) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bed]]></f>
+    <b><![CDATA[la cama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mirror]]></f>
+    <b><![CDATA[el espejo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[light]]></f>
+    <b><![CDATA[la luz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lamp]]></f>
+    <b><![CDATA[la lámpara ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small table]]></f>
+    <b><![CDATA[la mesilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[night-stand]]></f>
+    <b><![CDATA[la mesilla de noche ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wing-backed armchair]]></f>
+    <b><![CDATA[el sillón de oreja ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[furniture]]></f>
+    <b><![CDATA[un mueble]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stage furniture, props]]></f>
+    <b><![CDATA[los trastos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Types of regional houses]]></f>
+    <b><![CDATA[Tipos de casas regionales ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rural house]]></f>
+    <b><![CDATA[la casa rural]]></b>
+  </c>
+  <c>
+    <f><![CDATA[large house]]></f>
+    <b><![CDATA[la casona]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Andalusian farmhouse]]></f>
+    <b><![CDATA[el cortijo andaluz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Asturian and Galician raised granary-style house]]></f>
+    <b><![CDATA[el hórreo asturiano y gallego]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Basque country house]]></f>
+    <b><![CDATA[el caserío vasco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Catalan farm]]></f>
+    <b><![CDATA[la masía catalana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Murcian and Valencian cabin]]></f>
+    <b><![CDATA[la barraca murciana y valenciana ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonial house]]></f>
+    <b><![CDATA[la casa colonial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[house made from clay and straw]]></f>
+    <b><![CDATA[la casa chorizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[farm, smallholding]]></f>
+    <b><![CDATA[la finca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Buying a house]]></f>
+    <b><![CDATA[Adquisición de la vivienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look for a flat/house]]></f>
+    <b><![CDATA[buscar piso / casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to buy a flat/house]]></f>
+    <b><![CDATA[comprar piso / casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rent a flat/house]]></f>
+    <b><![CDATA[alquilar piso / casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[estate  agency]]></f>
+    <b><![CDATA[la (agencia) inmobiliaria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[estate agent]]></f>
+    <b><![CDATA[el agente inmobiliario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the buyer]]></f>
+    <b><![CDATA[el comprador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the owner of the house]]></f>
+    <b><![CDATA[el propietario de la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the seller of the house]]></f>
+    <b><![CDATA[el vendedor de la casa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the renter]]></f>
+    <b><![CDATA[el inquilino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the neighbors]]></f>
+    <b><![CDATA[los vecinos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the price of the house]]></f>
+    <b><![CDATA[el precio de la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the value of the house]]></f>
+    <b><![CDATA[el valor de la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the appraisal value]]></f>
+    <b><![CDATA[el valor de tasación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the rent of the house]]></f>
+    <b><![CDATA[el alquiler de la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cost much/little money /X million]]></f>
+    <b><![CDATA[costar mucho / poco dinero / X millones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the legal proceedings for the purchase of the house]]></f>
+    <b><![CDATA[los trámites legales para la compra de la vivienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the forms]]></f>
+    <b><![CDATA[los impresos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the dominion certificate(?)]]></f>
+    <b><![CDATA[el certificado de dominio ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to register the property]]></f>
+    <b><![CDATA[registrar la propiedad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the registry of the property]]></f>
+    <b><![CDATA[el registro de la propiedad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the deeds of the house/of the property]]></f>
+    <b><![CDATA[las escrituras de la vivienda / de la propiedad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the tax burden of the house/of the property(?)]]></f>
+    <b><![CDATA[las cargas de la vivienda / de la finca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the mortgage]]></f>
+    <b><![CDATA[la hipoteca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[credit (banking)]]></f>
+    <b><![CDATA[el crédito (bancario) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the entry fee for the house]]></f>
+    <b><![CDATA[la entrada para la casa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to amortize the house]]></f>
+    <b><![CDATA[amortizar la casa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amortization]]></f>
+    <b><![CDATA[amortización]]></b>
+  </c>
+  <c>
+    <f><![CDATA[income]]></f>
+    <b><![CDATA[los ingresos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pay the banking credit]]></f>
+    <b><![CDATA[pagar el crédito bancario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Banking terms]]></f>
+    <b><![CDATA[Términos bancarios ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bank]]></f>
+    <b><![CDATA[el banco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[savings bank]]></f>
+    <b><![CDATA[la caja de ahorros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[banking account]]></f>
+    <b><![CDATA[la cuenta bancaria / del banco ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[saving account]]></f>
+    <b><![CDATA[la cuenta de ahorro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[current account]]></f>
+    <b><![CDATA[la cuenta corriente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[interest]]></f>
+    <b><![CDATA[los intereses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[commission (for a service)]]></f>
+    <b><![CDATA[la comisión (por un servicio) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[installment(?)]]></f>
+    <b><![CDATA[la cuota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to withdraw money]]></f>
+    <b><![CDATA[sacar dinero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to exchange]]></f>
+    <b><![CDATA[cambiar dinero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the receipt]]></f>
+    <b><![CDATA[el recibo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traveler's checks]]></f>
+    <b><![CDATA[los cheques de viajero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[automatic teller]]></f>
+    <b><![CDATA[el cajero automático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cash card]]></f>
+    <b><![CDATA[la tarjeta de cajero automático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[interpersonal communication]]></f>
+    <b><![CDATA[la comunicación interpersonal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to suggest (something) to (somebody)]]></f>
+    <b><![CDATA[sugerir (algo) a (alguien) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to negotiate (a situation/a subject)]]></f>
+    <b><![CDATA[negociar (una situación / un tema) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to exchange impressions on (something)]]></f>
+    <b><![CDATA[intercambiar impresiones sobre (algo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to speak about (something) with (somebody)]]></f>
+    <b><![CDATA[hablar de (algo) con (alguien)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to communicate (well/badly)]]></f>
+    <b><![CDATA[comunicarse (bien / mal)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to raise a discussion]]></f>
+    <b><![CDATA[surgir una discusión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to discuss with (somebody) about (something)]]></f>
+    <b><![CDATA[discutir con (alguien) sobre (algo) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to begin a discussion]]></f>
+    <b><![CDATA[empezar una discusión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a confrontation with (somebody)]]></f>
+    <b><![CDATA[tener un enfrentamiento con (alguien)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to avoid confrontation]]></f>
+    <b><![CDATA[evitar los enfrentamientos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to clarify an idea/a situation]]></f>
+    <b><![CDATA[aclarar una idea / una situación ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to approach a subject]]></f>
+    <b><![CDATA[abordar un tema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bring up a subject (?)]]></f>
+    <b><![CDATA[sacar un tema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to hang out your dirty washing (?)]]></f>
+    <b><![CDATA[sacar los trapos sucios ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be mistaken]]></f>
+    <b><![CDATA[estar equivocado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be in error]]></f>
+    <b><![CDATA[estar en un error]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be right]]></f>
+    <b><![CDATA[tener razón ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to blind oneself to something]]></f>
+    <b><![CDATA[obcecarse en algo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be patient]]></f>
+    <b><![CDATA[ser paciente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be tolerant]]></f>
+    <b><![CDATA[ser tolerante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[patience]]></f>
+    <b><![CDATA[la paciencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tolerance]]></f>
+    <b><![CDATA[la tolerancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have patience]]></f>
+    <b><![CDATA[tener paciencia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be impatient with (somebody)]]></f>
+    <b><![CDATA[impacientarse con (alguien) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to agree]]></f>
+    <b><![CDATA[estar de acuerdo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to reach an agreement]]></f>
+    <b><![CDATA[llegar a un acuerdo]]></b>
+  </c>
+</root>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[What time does it open?]]></f>
+    <b><![CDATA[¿A qué hora abre?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time does it close?]]></f>
+    <b><![CDATA[¿A qué hora cierra?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[At 9:30 in the morning]]></f>
+    <b><![CDATA[A las nueve y media de la mañana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Does it close at midday?]]></f>
+    <b><![CDATA[¿Cierra a mediodia?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Does it open in the afternoon?]]></f>
+    <b><![CDATA[¿Abre por la tarde?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What day is it today?]]></f>
+    <b><![CDATA[¿Qué día es hoy?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Today is Monday]]></f>
+    <b><![CDATA[Hoy es lunes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Today is Tuesday]]></f>
+    <b><![CDATA[Hoy es martes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What is your favourite day?]]></f>
+    <b><![CDATA[¿Cuál es tu día preferido?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[My favourite day is Monday]]></f>
+    <b><![CDATA[Mi día preferido es el lunes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[My favourite day is Saturday]]></f>
+    <b><![CDATA[Mi día preferido es el sábado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do you like doing in your spare time?]]></f>
+    <b><![CDATA[¿Qué te gusta hacer en tu tiempo libre?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I like surfing the net]]></f>
+    <b><![CDATA[Me gusta navegar por internet]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I like playing sport]]></f>
+    <b><![CDATA[Me gusta hacer deporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How do you go to work?]]></f>
+    <b><![CDATA[¿Cómo vas al trabajo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I walk]]></f>
+    <b><![CDATA[Voy andando]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I go by bus]]></f>
+    <b><![CDATA[Voy en autobús]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How long does it take to get to work?]]></f>
+    <b><![CDATA[¿Cuánto tarda en ir al trabajo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How long does it take (you)?]]></f>
+    <b><![CDATA[¿Cuánto tardas? (informal)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It takes (me) twenty minutes]]></f>
+    <b><![CDATA[Tardo veinte minutos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time do you get up?]]></f>
+    <b><![CDATA[¿A qué hora te levantas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I get up at 8]]></f>
+    <b><![CDATA[Me levanto a las ocho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time do you go to bed?]]></f>
+    <b><![CDATA[¿A qué hora te acuestas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I go to bed at 11]]></f>
+    <b><![CDATA[Me acuesto a las once]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do you do in the mornings?]]></f>
+    <b><![CDATA[¿Qué haces por las mañanas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[In the mornings I take the children to school]]></f>
+    <b><![CDATA[Por las mañanas llevo a los niños al colegio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do you do in the afternoons?]]></f>
+    <b><![CDATA[¿Qué haces por las tardes?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[In the afternoons I pick the children up from school]]></f>
+    <b><![CDATA[Por las tardes recojo a los niños del colegio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello (on the telephone)]]></f>
+    <b><![CDATA[¡Dígame! / ¿Sí? / Diga (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Speaking]]></f>
+    <b><![CDATA[Al habla (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello? (LAm)]]></f>
+    <b><![CDATA[¿Aló?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can I speak to...?]]></f>
+    <b><![CDATA[Por favor, ¿puedo hablar con el señor Gonazalo Reina?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you put me through to...?]]></f>
+    <b><![CDATA[¿Me pone con el señor Gonzalo Reina? / ¿Con el señor Gonzalo Reina, por favor?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who is calling?]]></f>
+    <b><![CDATA[¿De parte de quién? / ¿Quién llama?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who am I speaking to?]]></f>
+    <b><![CDATA[¿Con quién hablo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Just a second, I'm putting you through]]></f>
+    <b><![CDATA[Sí, un momento, le pongo / le paso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There's no Señora Villalobos here]]></f>
+    <b><![CDATA[Aquí no hay ninguna señora Villalobos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[You have the wrong number]]></f>
+    <b><![CDATA[Se ha equivocado de número]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The line's enaged]]></f>
+    <b><![CDATA[Está comunicando]]></b>
+  </c>
+  <c>
+    <f><![CDATA[S/he is not in right now]]></f>
+    <b><![CDATA[En este momento no está]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can I leave a message?]]></f>
+    <b><![CDATA[¿Puedo dejar un mensaje?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What's the weather like today?]]></f>
+    <b><![CDATA[¿Qué tiempo hace hoy?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's sunny]]></f>
+    <b><![CDATA[Hace sol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's hot]]></f>
+    <b><![CDATA[Hace calor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's cold]]></f>
+    <b><![CDATA[Hace frío]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's windy]]></f>
+    <b><![CDATA[Hace viento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's 20 degrees]]></f>
+    <b><![CDATA[Hace veinte grados]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The weather's nice]]></f>
+    <b><![CDATA[Hace buen tiempo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The weather's bad]]></f>
+    <b><![CDATA[Hace mal tiempo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's raining]]></f>
+    <b><![CDATA[Llueve]]></b>
+  </c>
+</root>

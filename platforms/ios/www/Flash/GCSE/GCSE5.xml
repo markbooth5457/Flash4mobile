@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[customs]]></f>
+<b><![CDATA[la aduana]]></b>
+</c><c>
+<f><![CDATA[airport]]></f>
+<b><![CDATA[el aeropuerto]]></b>
+</c><c>
+<f><![CDATA[travel agent]]></f>
+<b><![CDATA[la agencia de viajes]]></b>
+</c><c>
+<f><![CDATA[seat]]></f>
+<b><![CDATA[el asiento]]></b>
+</c><c>
+<f><![CDATA[motorway]]></f>
+<b><![CDATA[la autopista]]></b>
+</c><c>
+<f><![CDATA[hitchhiking]]></f>
+<b><![CDATA[el autostop]]></b>
+</c><c>
+<f><![CDATA[ticket]]></f>
+<b><![CDATA[el billete]]></b>
+</c><c>
+<f><![CDATA[single ticket]]></f>
+<b><![CDATA[el billete de ida]]></b>
+</c><c>
+<f><![CDATA[return ticket]]></f>
+<b><![CDATA[billete de ida y vuelta]]></b>
+</c><c>
+<f><![CDATA[bag]]></f>
+<b><![CDATA[la bolsa]]></b>
+</c><c>
+<f><![CDATA[canal]]></f>
+<b><![CDATA[el canal]]></b>
+</c><c>
+<f><![CDATA[road]]></f>
+<b><![CDATA[la carretera]]></b>
+</c><c>
+<f><![CDATA[road junction]]></f>
+<b><![CDATA[el cruce]]></b>
+</c><c>
+<f><![CDATA[dangerous bend]]></f>
+<b><![CDATA[curva peligrosa]]></b>
+</c><c>
+<f><![CDATA[delay]]></f>
+<b><![CDATA[demora]]></b>
+</c><c>
+<f><![CDATA[heading for]]></f>
+<b><![CDATA[con destino a]]></b>
+</c><c>
+<f><![CDATA[bus station]]></f>
+<b><![CDATA[estación de autobuses]]></b>
+</c><c>
+<f><![CDATA[service station]]></f>
+<b><![CDATA[estación de servicio]]></b>
+</c><c>
+<f><![CDATA[abroad]]></f>
+<b><![CDATA[extranjero]]></b>
+</c><c>
+<f><![CDATA[brochure]]></f>
+<b><![CDATA[folleto]]></b>
+</c><c>
+<f><![CDATA[border]]></f>
+<b><![CDATA[frontera]]></b>
+</c><c>
+<f><![CDATA[diesel oil]]></f>
+<b><![CDATA[gas-oil]]></b>
+</c><c>
+<f><![CDATA[guide]]></f>
+<b><![CDATA[guía]]></b>
+</c><c>
+<f><![CDATA[guide or guidebook]]></f>
+<b><![CDATA[guía]]></b>
+</c><c>
+<f><![CDATA[timetable]]></f>
+<b><![CDATA[horario]]></b>
+</c><c>
+<f><![CDATA[strike]]></f>
+<b><![CDATA[huelga]]></b>
+</c><c>
+<f><![CDATA[airline]]></f>
+<b><![CDATA[la línea aérea]]></b>
+</c><c>
+<f><![CDATA[arrival]]></f>
+<b><![CDATA[la llegada]]></b>
+</c><c>
+<f><![CDATA[suitcase]]></f>
+<b><![CDATA[la maleta]]></b>
+</c><c>
+<f><![CDATA[underground train]]></f>
+<b><![CDATA[el metro]]></b>
+</c><c>
+<f><![CDATA[roadworks]]></f>
+<b><![CDATA[las obras]]></b>
+</c><c>
+<f><![CDATA[motorway toll]]></f>
+<b><![CDATA[el peaje]]></b>
+</c><c>
+<f><![CDATA[speed]]></f>
+<b><![CDATA[la prisa]]></b>
+</c><c>
+<f><![CDATA[reservation]]></f>
+<b><![CDATA[la reserva]]></b>
+</c><c>
+<f><![CDATA[delay]]></f>
+<b><![CDATA[el retraso]]></b>
+</c><c>
+<f><![CDATA[transport]]></f>
+<b><![CDATA[el transporte]]></b>
+</c><c>
+<f><![CDATA[holidays]]></f>
+<b><![CDATA[las vacaciones]]></b>
+</c><c>
+<f><![CDATA[journey]]></f>
+<b><![CDATA[el viaje]]></b>
+</c><c>
+<f><![CDATA[traveller]]></f>
+<b><![CDATA[el/la viajeroja]]></b>
+</c><c>
+<f><![CDATA[flight]]></f>
+<b><![CDATA[el vuelo]]></b>
+</c><c>
+<f><![CDATA[return]]></f>
+<b><![CDATA[la vuelta]]></b>
+</c><c>
+<f><![CDATA[customs officer]]></f>
+<b><![CDATA[el aduanero]]></b>
+</c><c>
+<f><![CDATA[hitchhiker]]></f>
+<b><![CDATA[el autostopista]]></b>
+</c><c>
+<f><![CDATA[flight attendant]]></f>
+<b><![CDATA[la azafata]]></b>
+</c><c>
+<f><![CDATA[ticket collector]]></f>
+<b><![CDATA[el cobrador]]></b>
+</c><c>
+<f><![CDATA[smoker]]></f>
+<b><![CDATA[el fumador]]></b>
+</c><c>
+<f><![CDATA[garage attendant]]></f>
+<b><![CDATA[el garajista]]></b>
+</c><c>
+<f><![CDATA[inhabitant]]></f>
+<b><![CDATA[el habitante]]></b>
+</c><c>
+<f><![CDATA[passenger]]></f>
+<b><![CDATA[el pasajero]]></b>
+</c><c>
+<f><![CDATA[ticket inspector]]></f>
+<b><![CDATA[el revisor]]></b>
+</c><c>
+<f><![CDATA[bus]]></f>
+<b><![CDATA[el autobús]]></b>
+</c><c>
+<f><![CDATA[coach]]></f>
+<b><![CDATA[el autocar]]></b>
+</c><c>
+<f><![CDATA[plane]]></f>
+<b><![CDATA[el avión]]></b>
+</c><c>
+<f><![CDATA[lorry]]></f>
+<b><![CDATA[el camión]]></b>
+</c><c>
+<f><![CDATA[taxi]]></f>
+<b><![CDATA[el taxi]]></b>
+</c><c>
+<f><![CDATA[tram]]></f>
+<b><![CDATA[la tranvía]]></b>
+</c><c>
+<f><![CDATA[oil]]></f>
+<b><![CDATA[el aceite]]></b>
+</c><c>
+<f><![CDATA[seat]]></f>
+<b><![CDATA[el asiento]]></b>
+</c><c>
+<f><![CDATA[car]]></f>
+<b><![CDATA[el auto]]></b>
+</c><c>
+<f><![CDATA[breakdown]]></f>
+<b><![CDATA[la avería]]></b>
+</c><c>
+<f><![CDATA[battery]]></f>
+<b><![CDATA[la batería]]></b>
+</c><c>
+<f><![CDATA[driving licence]]></f>
+<b><![CDATA[carnet de conducir]]></b>
+</c><c>
+<f><![CDATA[safety belt]]></f>
+<b><![CDATA[cinturón de seguridad]]></b>
+</c><c>
+<f><![CDATA[fuel tank]]></f>
+<b><![CDATA[el depósito]]></b>
+</c><c>
+<f><![CDATA[detour]]></f>
+<b><![CDATA[el desvío]]></b>
+</c><c>
+<f><![CDATA[traffic jam]]></f>
+<b><![CDATA[el embotellamiento]]></b>
+</c><c>
+<f><![CDATA[headlight]]></f>
+<b><![CDATA[el faro]]></b>
+</c><c>
+<f><![CDATA[brakes]]></f>
+<b><![CDATA[los frenos]]></b>
+</c><c>
+<f><![CDATA[petrol]]></f>
+<b><![CDATA[la gasolina]]></b>
+</c><c>
+<f><![CDATA[petrol station]]></f>
+<b><![CDATA[la gasolinera]]></b>
+</c><c>
+<f><![CDATA[windscreen wipers]]></f>
+<b><![CDATA[limpiaparabrisas]]></b>
+</c><c>
+<f><![CDATA[boot]]></f>
+<b><![CDATA[el maletero]]></b>
+</c><c>
+<f><![CDATA[road map]]></f>
+<b><![CDATA[el mapa de carreteras]]></b>
+</c><c>
+<f><![CDATA[make]]></f>
+<b><![CDATA[la marca]]></b>
+</c><c>
+<f><![CDATA[mechanic]]></f>
+<b><![CDATA[el mecánico]]></b>
+</c><c>
+<f><![CDATA[model]]></f>
+<b><![CDATA[el modelo]]></b>
+</c><c>
+<f><![CDATA[engine]]></f>
+<b><![CDATA[el motor]]></b>
+</c><c>
+<f><![CDATA[tyre]]></f>
+<b><![CDATA[el neumático]]></b>
+</c><c>
+<f><![CDATA[windscreen]]></f>
+<b><![CDATA[el parabrisas]]></b>
+</c><c>
+<f><![CDATA[driving licence]]></f>
+<b><![CDATA[permiso de conducir]]></b>
+</c><c>
+<f><![CDATA[puncture]]></f>
+<b><![CDATA[el pinchazo]]></b>
+</c><c>
+<f><![CDATA[repair]]></f>
+<b><![CDATA[la reparación]]></b>
+</c><c>
+<f><![CDATA[wheel]]></f>
+<b><![CDATA[la rueda]]></b>
+</c><c>
+<f><![CDATA[unleaded]]></f>
+<b><![CDATA[sin plomo]]></b>
+</c><c>
+<f><![CDATA[high-grade petrol]]></f>
+<b><![CDATA[el súper]]></b>
+</c><c>
+<f><![CDATA[speed]]></f>
+<b><![CDATA[la velocidad]]></b>
+</c><c>
+<f><![CDATA[platform]]></f>
+<b><![CDATA[el andén]]></b>
+</c><c>
+<f><![CDATA[seat]]></f>
+<b><![CDATA[el asiento]]></b>
+</c><c>
+<f><![CDATA[single ticket]]></f>
+<b><![CDATA[el billete sencillo]]></b>
+</c><c>
+<f><![CDATA[sleeping car]]></f>
+<b><![CDATA[el coche cama]]></b>
+</c><c>
+<f><![CDATA[dining car]]></f>
+<b><![CDATA[el coche restaurante]]></b>
+</c><c>
+<f><![CDATA[left-Iuggage office]]></f>
+<b><![CDATA[la consigna]]></b>
+</c><c>
+<f><![CDATA[compartment]]></f>
+<b><![CDATA[el departamento]]></b>
+</c><c>
+<f><![CDATA[ticket office]]></f>
+<b><![CDATA[despacho de billetes]]></b>
+</c><c>
+<f><![CDATA[station]]></f>
+<b><![CDATA[la estación]]></b>
+</c><c>
+<f><![CDATA[railway station]]></f>
+<b><![CDATA[estación del ferrocarril]]></b>
+</c><c>
+<f><![CDATA[porter]]></f>
+<b><![CDATA[el mozo]]></b>
+</c><c>
+<f><![CDATA[first class]]></f>
+<b><![CDATA[la primera clase]]></b>
+</c><c>
+<f><![CDATA[coming from]]></f>
+<b><![CDATA[procedente de]]></b>
+</c><c>
+<f><![CDATA[rack (in train)]]></f>
+<b><![CDATA[la red]]></b>
+</c><c>
+<f><![CDATA[Spanish Railways]]></f>
+<b><![CDATA[RENFE]]></b>
+</c><c>
+<f><![CDATA[waiting room]]></f>
+<b><![CDATA[la sala de espera]]></b>
+</c><c>
+<f><![CDATA[second class]]></f>
+<b><![CDATA[la segunda clase]]></b>
+</c><c>
+<f><![CDATA[supplement]]></f>
+<b><![CDATA[el suplemento]]></b>
+</c><c>
+<f><![CDATA[ticket office]]></f>
+<b><![CDATA[ la taquilla]]></b>
+</c><c>
+<f><![CDATA[connection]]></f>
+<b><![CDATA[el transbordo]]></b>
+</c><c>
+<f><![CDATA[train]]></f>
+<b><![CDATA[el tren]]></b>
+</c><c>
+<f><![CDATA[express train]]></f>
+<b><![CDATA[el tren expreso]]></b>
+</c><c>
+<f><![CDATA[track]]></f>
+<b><![CDATA[la vía]]></b>
+</c><c>
+<f><![CDATA[Germany]]></f>
+<b><![CDATA[la Alemania]]></b>
+</c><c>
+<f><![CDATA[South America]]></f>
+<b><![CDATA[América del Sur]]></b>
+</c><c>
+<f><![CDATA[Argentina]]></f>
+<b><![CDATA[la Argentina]]></b>
+</c><c>
+<f><![CDATA[Australia]]></f>
+<b><![CDATA[la Australia]]></b>
+</c><c>
+<f><![CDATA[Austria]]></f>
+<b><![CDATA[la Austria]]></b>
+</c><c>
+<f><![CDATA[Belglum]]></f>
+<b><![CDATA[la Bélgica]]></b>
+</c><c>
+<f><![CDATA[Ganada]]></f>
+<b><![CDATA[el Canadá]]></b>
+</c><c>
+<f><![CDATA[Chile]]></f>
+<b><![CDATA[el Chile]]></b>
+</c><c>
+<f><![CDATA[Denmark]]></f>
+<b><![CDATA[la Dinamarca]]></b>
+</c><c>
+<f><![CDATA[Scotland]]></f>
+<b><![CDATA[la Escocia]]></b>
+</c><c>
+<f><![CDATA[Spain]]></f>
+<b><![CDATA[España]]></b>
+</c><c>
+<f><![CDATA[USA]]></f>
+<b><![CDATA[Estados Unidos]]></b>
+</c><c>
+<f><![CDATA[Europe]]></f>
+<b><![CDATA[la Europa]]></b>
+</c><c>
+<f><![CDATA[France]]></f>
+<b><![CDATA[la Francia]]></b>
+</c><c>
+<f><![CDATA[Wales]]></f>
+<b><![CDATA[el Gales]]></b>
+</c><c>
+<f><![CDATA[Great Britain]]></f>
+<b><![CDATA[la Gran Bretaña]]></b>
+</c><c>
+<f><![CDATA[Greece]]></f>
+<b><![CDATA[la Grecia]]></b>
+</c><c>
+<f><![CDATA[Holland]]></f>
+<b><![CDATA[la Holanda]]></b>
+</c><c>
+<f><![CDATA[England]]></f>
+<b><![CDATA[la Inglaterra]]></b>
+</c><c>
+<f><![CDATA[Ireland]]></f>
+<b><![CDATA[la Irlanda]]></b>
+</c><c>
+<f><![CDATA[Northern Ireland]]></f>
+<b><![CDATA[Irlanda del Norte]]></b>
+</c><c>
+<f><![CDATA[Italy]]></f>
+<b><![CDATA[la Italia]]></b>
+</c><c>
+<f><![CDATA[Japan]]></f>
+<b><![CDATA[el Japón]]></b>
+</c><c>
+<f><![CDATA[Luxembourg]]></f>
+<b><![CDATA[la Luxemburgo]]></b>
+</c><c>
+<f><![CDATA[Morocco]]></f>
+<b><![CDATA[el Marruecos]]></b>
+</c><c>
+<f><![CDATA[Mexico]]></f>
+<b><![CDATA[el Méjico/México]]></b>
+</c><c>
+<f><![CDATA[Wales]]></f>
+<b><![CDATA[el País de Gales]]></b>
+</c><c>
+<f><![CDATA[Peru]]></f>
+<b><![CDATA[el Perú]]></b>
+</c><c>
+<f><![CDATA[Portugal]]></f>
+<b><![CDATA[el Portugal]]></b>
+</c><c>
+<f><![CDATA[United Kingdom]]></f>
+<b><![CDATA[el Reino Unido]]></b>
+</c><c>
+<f><![CDATA[Russia]]></f>
+<b><![CDATA[la Rusia]]></b>
+</c><c>
+<f><![CDATA[Sweden]]></f>
+<b><![CDATA[la Suecia]]></b>
+</c><c>
+<f><![CDATA[Switzerland]]></f>
+<b><![CDATA[la Suiza]]></b>
+</c><c>
+<f><![CDATA[Venezuela]]></f>
+<b><![CDATA[la Venezuela]]></b>
+</c><c>
+<f><![CDATA[German]]></f>
+<b><![CDATA[alemán]]></b>
+</c><c>
+<f><![CDATA[American]]></f>
+<b><![CDATA[americano]]></b>
+</c><c>
+<f><![CDATA[Argentinian]]></f>
+<b><![CDATA[argentino]]></b>
+</c><c>
+<f><![CDATA[Australian]]></f>
+<b><![CDATA[australiano]]></b>
+</c><c>
+<f><![CDATA[Austrian]]></f>
+<b><![CDATA[austríaco]]></b>
+</c><c>
+<f><![CDATA[Belgian]]></f>
+<b><![CDATA[belga]]></b>
+</c><c>
+<f><![CDATA[British]]></f>
+<b><![CDATA[británico]]></b>
+</c><c>
+<f><![CDATA[Canadian]]></f>
+<b><![CDATA[canadiense]]></b>
+</c><c>
+<f><![CDATA[Chilean]]></f>
+<b><![CDATA[chileno]]></b>
+</c><c>
+<f><![CDATA[Danish]]></f>
+<b><![CDATA[dinamarqués]]></b>
+</c><c>
+<f><![CDATA[Scottish]]></f>
+<b><![CDATA[escocés ]]></b>
+</c><c>
+<f><![CDATA[Spanish]]></f>
+<b><![CDATA[español]]></b>
+</c><c>
+<f><![CDATA[European]]></f>
+<b><![CDATA[europeo]]></b>
+</c><c>
+<f><![CDATA[foreigner]]></f>
+<b><![CDATA[extranjero]]></b>
+</c><c>
+<f><![CDATA[French]]></f>
+<b><![CDATA[francés]]></b>
+</c><c>
+<f><![CDATA[Welsh]]></f>
+<b><![CDATA[galés]]></b>
+</c><c>
+<f><![CDATA[Greek]]></f>
+<b><![CDATA[griego]]></b>
+</c><c>
+<f><![CDATA[Dutch]]></f>
+<b><![CDATA[holandés]]></b>
+</c><c>
+<f><![CDATA[English]]></f>
+<b><![CDATA[inglés]]></b>
+</c><c>
+<f><![CDATA[Irish]]></f>
+<b><![CDATA[irlandés]]></b>
+</c><c>
+<f><![CDATA[Italian]]></f>
+<b><![CDATA[italiano]]></b>
+</c><c>
+<f><![CDATA[Japanese]]></f>
+<b><![CDATA[japonés]]></b>
+</c><c>
+<f><![CDATA[Luxembourgeois]]></f>
+<b><![CDATA[luxemburgués]]></b>
+</c><c>
+<f><![CDATA[Moroccan]]></f>
+<b><![CDATA[marrueco/marroquí]]></b>
+</c><c>
+<f><![CDATA[Mexican]]></f>
+<b><![CDATA[mejicano/mexicano]]></b>
+</c><c>
+<f><![CDATA[American]]></f>
+<b><![CDATA[norteamericano]]></b>
+</c><c>
+<f><![CDATA[Peruvian]]></f>
+<b><![CDATA[peruano]]></b>
+</c><c>
+<f><![CDATA[Portuguese]]></f>
+<b><![CDATA[portugués ]]></b>
+</c><c>
+<f><![CDATA[Russian]]></f>
+<b><![CDATA[ruso]]></b>
+</c><c>
+<f><![CDATA[South American]]></f>
+<b><![CDATA[sudamericano]]></b>
+</c><c>
+<f><![CDATA[Swedish]]></f>
+<b><![CDATA[sueco]]></b>
+</c><c>
+<f><![CDATA[Swiss]]></f>
+<b><![CDATA[suizo]]></b>
+</c><c>
+<f><![CDATA[Venezuelan]]></f>
+<b><![CDATA[venezolano]]></b>
+</c><c>
+<f><![CDATA[to camp]]></f>
+<b><![CDATA[acampar]]></b>
+</c><c>
+<f><![CDATA[to save]]></f>
+<b><![CDATA[ahorrar]]></b>
+</c><c>
+<f><![CDATA[to stay (e.g. in a hotel)]]></f>
+<b><![CDATA[alojarse]]></b>
+</c><c>
+<f><![CDATA[to hire]]></f>
+<b><![CDATA[alquilar]]></b>
+</c><c>
+<f><![CDATA[to park]]></f>
+<b><![CDATA[aparcar]]></b>
+</c><c>
+<f><![CDATA[to break down]]></f>
+<b><![CDATA[averiarse]]></b>
+</c><c>
+<f><![CDATA[to bathe]]></f>
+<b><![CDATA[bañarse]]></b>
+</c><c>
+<f><![CDATA[to get a tan, to sunbathe]]></f>
+<b><![CDATA[broncearse]]></b>
+</c><c>
+<f><![CDATA[to get sunstroke]]></f>
+<b><![CDATA[coger una insolación]]></b>
+</c><c>
+<f><![CDATA[to check]]></f>
+<b><![CDATA[comprobar]]></b>
+</c><c>
+<f><![CDATA[to drive]]></f>
+<b><![CDATA[conducir]]></b>
+</c><c>
+<f><![CDATA[to stop]]></f>
+<b><![CDATA[detenerse]]></b>
+</c><c>
+<f><![CDATA[to sleep]]></f>
+<b><![CDATA[dormir]]></b>
+</c><c>
+<f><![CDATA[to last]]></f>
+<b><![CDATA[durar]]></b>
+</c><c>
+<f><![CDATA[to embark]]></f>
+<b><![CDATA[embarcarse]]></b>
+</c><c>
+<f><![CDATA[to enter]]></f>
+<b><![CDATA[entrar]]></b>
+</c><c>
+<f><![CDATA[to wait, to hope, to expect]]></f>
+<b><![CDATA[esperar]]></b>
+</c><c>
+<f><![CDATA[to park]]></f>
+<b><![CDATA[estacionar]]></b>
+</c><c>
+<f><![CDATA[to sign]]></f>
+<b><![CDATA[firmar]]></b>
+</c><c>
+<f><![CDATA[to brake]]></f>
+<b><![CDATA[frenar]]></b>
+</c><c>
+<f><![CDATA[to spend (money)]]></f>
+<b><![CDATA[gastar]]></b>
+</c><c>
+<f><![CDATA[to go camping]]></f>
+<b><![CDATA[hacer camping]]></b>
+</c><c>
+<f><![CDATA[to pack]]></f>
+<b><![CDATA[hacer las maletas]]></b>
+</c><c>
+<f><![CDATA[to find out]]></f>
+<b><![CDATA[informarse]]></b>
+</c><c>
+<f><![CDATA[to go camping]]></f>
+<b><![CDATA[ir de camping]]></b>
+</c><c>
+<f><![CDATA[to go fishing]]></f>
+<b><![CDATA[ir de pesca]]></b>
+</c><c>
+<f><![CDATA[to go on holiday]]></f>
+<b><![CDATA[ir de vacaciones]]></b>
+</c><c>
+<f><![CDATA[to arrive]]></f>
+<b><![CDATA[llegar]]></b>
+</c><c>
+<f><![CDATA[to be late]]></f>
+<b><![CDATA[llegar tarde]]></b>
+</c><c>
+<f><![CDATA[to fill (e.g. the fuel tank)]]></f>
+<b><![CDATA[llenar]]></b>
+</c><c>
+<f><![CDATA[to swim]]></f>
+<b><![CDATA[nadar]]></b>
+</c><c>
+<f><![CDATA[to spend (time), to happen]]></f>
+<b><![CDATA[pasar]]></b>
+</c><c>
+<f><![CDATA[to stay]]></f>
+<b><![CDATA[quedar(se)]]></b>
+</c><c>
+<f><![CDATA[to fill in a form]]></f>
+<b><![CDATA[rellenar un formulario]]></b>
+</c><c>
+<f><![CDATA[to book]]></f>
+<b><![CDATA[reservar]]></b>
+</c><c>
+<f><![CDATA[to take photos]]></f>
+<b><![CDATA[sacar fotos]]></b>
+</c><c>
+<f><![CDATA[to sunbathe]]></f>
+<b><![CDATA[tomar el sol]]></b>
+</c><c>
+<f><![CDATA[to change trains]]></f>
+<b><![CDATA[transbordar]]></b>
+</c><c>
+<f><![CDATA[to travel]]></f>
+<b><![CDATA[viajar]]></b>
+</c><c>
+<f><![CDATA[to fly]]></f>
+<b><![CDATA[volar]]></b>
+</c><c>
+<f><![CDATA[lodgings]]></f>
+<b><![CDATA[el alojamiento]]></b>
+</c><c>
+<f><![CDATA[rent]]></f>
+<b><![CDATA[el alquiler]]></b>
+</c><c>
+<f><![CDATA[camera]]></f>
+<b><![CDATA[la cámara]]></b>
+</c><c>
+<f><![CDATA[suncream]]></f>
+<b><![CDATA[la crema bronceadora]]></b>
+</c><c>
+<f><![CDATA[rest]]></f>
+<b><![CDATA[el descanso]]></b>
+</c><c>
+<f><![CDATA[difficulty]]></f>
+<b><![CDATA[la dificultad]]></b>
+</c><c>
+<f><![CDATA[annoyance, bother]]></f>
+<b><![CDATA[el disgusto]]></b>
+</c><c>
+<f><![CDATA[entertainment]]></f>
+<b><![CDATA[la distracción]]></b>
+</c><c>
+<f><![CDATA[document]]></f>
+<b><![CDATA[el documento]]></b>
+</c><c>
+<f><![CDATA[stay]]></f>
+<b><![CDATA[la estancia]]></b>
+</c><c>
+<f><![CDATA[trip]]></f>
+<b><![CDATA[la excursión]]></b>
+</c><c>
+<f><![CDATA[expenses]]></f>
+<b><![CDATA[los gastos]]></b>
+</c><c>
+<f><![CDATA[information]]></f>
+<b><![CDATA[la información]]></b>
+</c><c>
+<f><![CDATA[map]]></f>
+<b><![CDATA[el mapa]]></b>
+</c><c>
+<f><![CDATA[camera]]></f>
+<b><![CDATA[la máquina de fotos]]></b>
+</c><c>
+<f><![CDATA[rucksack]]></f>
+<b><![CDATA[la mochila]]></b>
+</c><c>
+<f><![CDATA[present]]></f>
+<b><![CDATA[el regalo]]></b>
+</c><c>
+<f><![CDATA[return]]></f>
+<b><![CDATA[el regreso]]></b>
+</c><c>
+<f><![CDATA[postcard]]></f>
+<b><![CDATA[la tarjeta postal]]></b>
+</c><c>
+<f><![CDATA[journey]]></f>
+<b><![CDATA[el trayecto]]></b>
+</c><c>
+<f><![CDATA[tourist]]></f>
+<b><![CDATA[el turista]]></b>
+</c><c>
+<f><![CDATA[holiday maker]]></f>
+<b><![CDATA[el veraneante]]></b>
+</c><c>
+<f><![CDATA[bottle opener]]></f>
+<b><![CDATA[el abrebotellas]]></b>
+</c><c>
+<f><![CDATA[tin opener]]></f>
+<b><![CDATA[el abrelatas]]></b>
+</c><c>
+<f><![CDATA[toilets]]></f>
+<b><![CDATA[los aseos]]></b>
+</c><c>
+<f><![CDATA[campsite]]></f>
+<b><![CDATA[el camping]]></b>
+</c><c>
+<f><![CDATA[camper]]></f>
+<b><![CDATA[el campista]]></b>
+</c><c>
+<f><![CDATA[caravan]]></f>
+<b><![CDATA[la caravana]]></b>
+</c><c>
+<f><![CDATA[match]]></f>
+<b><![CDATA[cerilla]]></b>
+</c><c>
+<f><![CDATA[space, pitch]]></f>
+<b><![CDATA[espacio]]></b>
+</c><c>
+<f><![CDATA[gas]]></f>
+<b><![CDATA[gas]]></b>
+</c><c>
+<f><![CDATA[campfire]]></f>
+<b><![CDATA[hoguera de campamento]]></b>
+</c><c>
+<f><![CDATA[battery]]></f>
+<b><![CDATA[la pila]]></b>
+</c><c>
+<f><![CDATA[sleeping bag]]></f>
+<b><![CDATA[el saco de dormir]]></b>
+</c><c>
+<f><![CDATA[games room]]></f>
+<b><![CDATA[la sala de juegos]]></b>
+</c><c>
+<f><![CDATA[place, spot]]></f>
+<b><![CDATA[el sitio]]></b>
+</c><c>
+<f><![CDATA[shop]]></f>
+<b><![CDATA[la tienda]]></b>
+</c><c>
+<f><![CDATA[tent]]></f>
+<b><![CDATA[la tienda de campaña]]></b>
+</c><c>
+<f><![CDATA[lift]]></f>
+<b><![CDATA[el ascensor]]></b>
+</c><c>
+<f><![CDATA[with a view of]]></f>
+<b><![CDATA[con vista a]]></b>
+</c><c>
+<f><![CDATA[owner]]></f>
+<b><![CDATA[el dueño]]></b>
+</c><c>
+<f><![CDATA[luggage]]></f>
+<b><![CDATA[el equipaje]]></b>
+</c><c>
+<f><![CDATA[form]]></f>
+<b><![CDATA[la ficha]]></b>
+</c><c>
+<f><![CDATA[signature]]></f>
+<b><![CDATA[la firma]]></b>
+</c><c>
+<f><![CDATA[room]]></f>
+<b><![CDATA[la habitación]]></b>
+</c><c>
+<f><![CDATA[double room]]></f>
+<b><![CDATA[la habitación doble]]></b>
+</c><c>
+<f><![CDATA[single room]]></f>
+<b><![CDATA[la habitación individual]]></b>
+</c><c>
+<f><![CDATA[single room]]></f>
+<b><![CDATA[la habitación sencilla]]></b>
+</c><c>
+<f><![CDATA[form]]></f>
+<b><![CDATA[la hoja]]></b>
+</c><c>
+<f><![CDATA[hotel]]></f>
+<b><![CDATA[el hotel]]></b>
+</c><c>
+<f><![CDATA[hotel owner]]></f>
+<b><![CDATA[el hotelero]]></b>
+</c><c>
+<f><![CDATA[key]]></f>
+<b><![CDATA[la llave]]></b>
+</c><c>
+<f><![CDATA[luxury]]></f>
+<b><![CDATA[el lujo]]></b>
+</c><c>
+<f><![CDATA[half board]]></f>
+<b><![CDATA[la media pensión]]></b>
+</c><c>
+<f><![CDATA[nationality]]></f>
+<b><![CDATA[la nacionalidad]]></b>
+</c><c>
+<f><![CDATA[(first) name]]></f>
+<b><![CDATA[el nombre (de pila)]]></b>
+</c><c>
+<f><![CDATA[country of origin]]></f>
+<b><![CDATA[el país de origen]]></b>
+</c><c>
+<f><![CDATA[passport]]></f>
+<b><![CDATA[el pasaporte]]></b>
+</c><c>
+<f><![CDATA[boarding house]]></f>
+<b><![CDATA[la pensión]]></b>
+</c><c>
+<f><![CDATA[full board]]></f>
+<b><![CDATA[la pensión completa]]></b>
+</c><c>
+<f><![CDATA[hotel porter]]></f>
+<b><![CDATA[el portero]]></b>
+</c><c>
+<f><![CDATA[no entry]]></f>
+<b><![CDATA[prohibida la entrada]]></b>
+</c><c>
+<f><![CDATA[owner]]></f>
+<b><![CDATA[el propietario]]></b>
+</c><c>
+<f><![CDATA[complaint]]></f>
+<b><![CDATA[la queja]]></b>
+</c><c>
+<f><![CDATA[reception]]></f>
+<b><![CDATA[la recepción]]></b>
+</c><c>
+<f><![CDATA[receptionist]]></f>
+<b><![CDATA[el recepcionista]]></b>
+</c><c>
+<f><![CDATA[toilet]]></f>
+<b><![CDATA[el retrete]]></b>
+</c><c>
+<f><![CDATA[exit]]></f>
+<b><![CDATA[la salida]]></b>
+</c><c>
+<f><![CDATA[address]]></f>
+<b><![CDATA[las señas]]></b>
+</c><c>
+<f><![CDATA[toilets]]></f>
+<b><![CDATA[los servicios]]></b>
+</c><c>
+<f><![CDATA[view]]></f>
+<b><![CDATA[la vista]]></b>
+</c><c>
+<f><![CDATA[sand]]></f>
+<b><![CDATA[la arena]]></b>
+</c><c>
+<f><![CDATA[fishing boat]]></f>
+<b><![CDATA[la barca de pesca]]></b>
+</c><c>
+<f><![CDATA[boat]]></f>
+<b><![CDATA[el barco]]></b>
+</c><c>
+<f><![CDATA[villa]]></f>
+<b><![CDATA[el chalet]]></b>
+</c><c>
+<f><![CDATA[coast]]></f>
+<b><![CDATA[la costa]]></b>
+</c><c>
+<f><![CDATA[sea]]></f>
+<b><![CDATA[el mar]]></b>
+</c><c>
+<f><![CDATA[wave]]></f>
+<b><![CDATA[la ola]]></b>
+</c><c>
+<f><![CDATA[parasol]]></f>
+<b><![CDATA[el parasol]]></b>
+</c><c>
+<f><![CDATA[beach]]></f>
+<b><![CDATA[la playa]]></b>
+</c><c>
+<f><![CDATA[port]]></f>
+<b><![CDATA[el puerto]]></b>
+</c></root>

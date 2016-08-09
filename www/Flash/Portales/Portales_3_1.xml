@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[To open]]></f>
+    <b><![CDATA[abrir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to close]]></f>
+    <b><![CDATA[cerrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[post office]]></f>
+    <b><![CDATA[Correos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to begin, start]]></f>
+    <b><![CDATA[empezar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chemist]]></f>
+    <b><![CDATA[la farmacia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to play]]></f>
+    <b><![CDATA[jugar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bookshop]]></f>
+    <b><![CDATA[la librería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[baker's]]></f>
+    <b><![CDATA[la panadería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to want]]></f>
+    <b><![CDATA[querer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to return]]></f>
+    <b><![CDATA[volver]]></b>
+  </c>
+  <c>
+    <f><![CDATA[subject]]></f>
+    <b><![CDATA[la asignatura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[class]]></f>
+    <b><![CDATA[la clase]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to give]]></f>
+    <b><![CDATA[dar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[homework]]></f>
+    <b><![CDATA[los deberes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rest]]></f>
+    <b><![CDATA[descansar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[day]]></f>
+    <b><![CDATA[el día]]></b>
+  </c>
+  <c>
+    <f><![CDATA[today]]></f>
+    <b><![CDATA[hoy]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put]]></f>
+    <b><![CDATA[poner]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(school) break]]></f>
+    <b><![CDATA[el recreo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave, go out]]></f>
+    <b><![CDATA[salir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[week]]></f>
+    <b><![CDATA[la semana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to come]]></f>
+    <b><![CDATA[venir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[horse]]></f>
+    <b><![CDATA[el caballo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sport]]></f>
+    <b><![CDATA[el deporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[book]]></f>
+    <b><![CDATA[el libro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ride (horse)]]></f>
+    <b><![CDATA[montar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to surf (the net)]]></f>
+    <b><![CDATA[navegar (por internet)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[canoeing]]></f>
+    <b><![CDATA[el piragüismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to walk]]></f>
+    <b><![CDATA[andar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bus]]></f>
+    <b><![CDATA[el autobús]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aeroplane]]></f>
+    <b><![CDATA[el avión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ticket]]></f>
+    <b><![CDATA[el billete (Sp) el boleto (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[car]]></f>
+    <b><![CDATA[el carro (LAm) el coche (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[underground]]></f>
+    <b><![CDATA[el metro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bus stop]]></f>
+    <b><![CDATA[la parada (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ticket office]]></f>
+    <b><![CDATA[la taquilla (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take (time)]]></f>
+    <b><![CDATA[tardar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go to bed]]></f>
+    <b><![CDATA[acostarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have dinner]]></f>
+    <b><![CDATA[cenar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[course (of lessons)]]></f>
+    <b><![CDATA[el curso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have breakfast]]></f>
+    <b><![CDATA[desayunar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wake up]]></f>
+    <b><![CDATA[despertarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a shower]]></f>
+    <b><![CDATA[ducharse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get up]]></f>
+    <b><![CDATA[levantarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take (with you)]]></f>
+    <b><![CDATA[llevar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to collect, pick up]]></f>
+    <b><![CDATA[recoger]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get dressed]]></f>
+    <b><![CDATA[vestirse]]></b>
+  </c>
+  <c>
+    <f><![CDATA['usually' (verb)]]></f>
+    <b><![CDATA[acostumbrar (a) / soler]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sandwich]]></f>
+    <b><![CDATA[el bocadillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[meat]]></f>
+    <b><![CDATA[la carne]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sweet pastry]]></f>
+    <b><![CDATA[el dulce]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salad]]></f>
+    <b><![CDATA[la ensalada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fruit]]></f>
+    <b><![CDATA[la fruta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fish]]></f>
+    <b><![CDATA[el pescado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[course (of a meal)]]></f>
+    <b><![CDATA[el plato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dessert]]></f>
+    <b><![CDATA[el postre]]></b>
+  </c>
+  <c>
+    <f><![CDATA['usually' verb]]></f>
+    <b><![CDATA[soler / acostumbrar (a)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[soup]]></f>
+    <b><![CDATA[la sopa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[omelette]]></f>
+    <b><![CDATA[la tortilla (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hello (LAm)]]></f>
+    <b><![CDATA[aló]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be engaged (telephone)]]></f>
+    <b><![CDATA[comunicar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave (a message)]]></f>
+    <b><![CDATA[dejar (un recado, un mensaje)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hello (literally, tell me)]]></f>
+    <b><![CDATA[dígame]]></b>
+  </c>
+  <c>
+    <f><![CDATA[right away]]></f>
+    <b><![CDATA[enseguida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wrong]]></f>
+    <b><![CDATA[equiivocado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[message]]></f>
+    <b><![CDATA[el mensaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put... through]]></f>
+    <b><![CDATA[pasar / poner]]></b>
+  </c>
+  <c>
+    <f><![CDATA[heat]]></f>
+    <b><![CDATA[el calor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[season]]></f>
+    <b><![CDATA[la estación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cold]]></f>
+    <b><![CDATA[el frío]]></b>
+  </c>
+  <c>
+    <f><![CDATA[degree]]></f>
+    <b><![CDATA[el grado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[winter]]></f>
+    <b><![CDATA[el invierno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rain]]></f>
+    <b><![CDATA[llover]]></b>
+  </c>
+  <c>
+    <f><![CDATA[month]]></f>
+    <b><![CDATA[el mes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to snow]]></f>
+    <b><![CDATA[nevar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cloudy]]></f>
+    <b><![CDATA[nublado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[autumn]]></f>
+    <b><![CDATA[el otoño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spring]]></f>
+    <b><![CDATA[la primavera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sun]]></f>
+    <b><![CDATA[el sol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[summer]]></f>
+    <b><![CDATA[el verano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wind]]></f>
+    <b><![CDATA[el viento]]></b>
+  </c>
+</root>

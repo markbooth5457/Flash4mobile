@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Physical description]]></f>
+    <b><![CDATA[Descripción física]]></b>
+  </c>
+  <c>
+    <f><![CDATA[attractive]]></f>
+    <b><![CDATA[atractivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elegant]]></f>
+    <b><![CDATA[elegante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[svelte]]></f>
+    <b><![CDATA[esbelto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[strong]]></f>
+    <b><![CDATA[fuerte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lady's man]]></f>
+    <b><![CDATA[guapo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clean]]></f>
+    <b><![CDATA[limpio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colored person]]></f>
+    <b><![CDATA[moreno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[blonde]]></f>
+    <b><![CDATA[rubio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[virile]]></f>
+    <b><![CDATA[viril]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of character]]></f>
+    <b><![CDATA[Descripción de carácter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[open]]></f>
+    <b><![CDATA[abierto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[active]]></f>
+    <b><![CDATA[activo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amiable]]></f>
+    <b><![CDATA[amable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[attractive]]></f>
+    <b><![CDATA[atractivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[affectionate]]></f>
+    <b><![CDATA[cariñoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[courteous]]></f>
+    <b><![CDATA[cortés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cultured]]></f>
+    <b><![CDATA[culto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[diplomatic]]></f>
+    <b><![CDATA[diplomático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amusing]]></f>
+    <b><![CDATA[divertido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[courteous]]></f>
+    <b><![CDATA[educado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elegant]]></f>
+    <b><![CDATA[elegante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[expressive]]></f>
+    <b><![CDATA[expresivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[extrovert]]></f>
+    <b><![CDATA[extrovertido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[frank]]></f>
+    <b><![CDATA[franco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[strong]]></f>
+    <b><![CDATA[fuerte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[humble]]></f>
+    <b><![CDATA[humilde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[independent]]></f>
+    <b><![CDATA[independiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[intelligent]]></f>
+    <b><![CDATA[inteligente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[introvert]]></f>
+    <b><![CDATA[introvertido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sensitive]]></f>
+    <b><![CDATA[sensible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sincere]]></f>
+    <b><![CDATA[sincero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sociable]]></f>
+    <b><![CDATA[sociable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tender]]></f>
+    <b><![CDATA[tierno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[timid]]></f>
+    <b><![CDATA[tímido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Social behavior]]></f>
+    <b><![CDATA[El comportamiento social]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amiability]]></f>
+    <b><![CDATA[la amabilidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[courtesy]]></f>
+    <b><![CDATA[la cortesía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elegance]]></f>
+    <b><![CDATA[la elegancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[frankness]]></f>
+    <b><![CDATA[la franqueza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hypocrisy]]></f>
+    <b><![CDATA[la hipocresía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[affection]]></f>
+    <b><![CDATA[la simpatía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[timidity]]></f>
+    <b><![CDATA[la timidez]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Subjects]]></f>
+    <b><![CDATA[Las asignaturas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Biology]]></f>
+    <b><![CDATA[la biología]]></b>
+  </c>
+  <c>
+    <f><![CDATA[philosophy]]></f>
+    <b><![CDATA[la filosofía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[physics]]></f>
+    <b><![CDATA[la física]]></b>
+  </c>
+  <c>
+    <f><![CDATA[French]]></f>
+    <b><![CDATA[el francés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[history]]></f>
+    <b><![CDATA[la historia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[English]]></f>
+    <b><![CDATA[el inglés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[language]]></f>
+    <b><![CDATA[la lengua]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Literature]]></f>
+    <b><![CDATA[la literatura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mathematics]]></f>
+    <b><![CDATA[las matemáticas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[business studies]]></f>
+    <b><![CDATA[los procesos administrativos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chemistry]]></f>
+    <b><![CDATA[la química]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The professions]]></f>
+    <b><![CDATA[Las profesiones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lawyer]]></f>
+    <b><![CDATA[el abogado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[archaeologist]]></f>
+    <b><![CDATA[el arqueólogo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company director]]></f>
+    <b><![CDATA[el director de empresa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[physicist]]></f>
+    <b><![CDATA[ el físico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[engineer]]></f>
+    <b><![CDATA[el ingeniero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[judge]]></f>
+    <b><![CDATA[el juez ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[G.P.]]></f>
+    <b><![CDATA[el médico general]]></b>
+  </c>
+  <c>
+    <f><![CDATA[journalist]]></f>
+    <b><![CDATA[el periodista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[psychologist]]></f>
+    <b><![CDATA[el psicólogo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[technician]]></f>
+    <b><![CDATA[el técnico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[social worker]]></f>
+    <b><![CDATA[el trabajador social]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Looking for work]]></f>
+    <b><![CDATA[Buscando trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la empresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la compañía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[curriculum vitae]]></f>
+    <b><![CDATA[el currículum vital]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personal file (SpAm)]]></f>
+    <b><![CDATA[el historial personal (SpAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[C.V. (SpSm)]]></f>
+    <b><![CDATA[la hoja de vida (SpAm) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[C.V. (SpAm)]]></f>
+    <b><![CDATA[el currículo (SpAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job application]]></f>
+    <b><![CDATA[la solicitud de empleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[preselection]]></f>
+    <b><![CDATA[la preselección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job interview]]></f>
+    <b><![CDATA[la entrevista de trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[work experience]]></f>
+    <b><![CDATA[la experiencia laboral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[working hours]]></f>
+    <b><![CDATA[el horario de trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[monthly pay]]></f>
+    <b><![CDATA[el sueldo mensual]]></b>
+  </c>
+  <c>
+    <f><![CDATA[monthly wage]]></f>
+    <b><![CDATA[el salario mensual]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(to be) in unemployment]]></f>
+    <b><![CDATA[(estar) en paro]]></b>
+  </c>
+</root>

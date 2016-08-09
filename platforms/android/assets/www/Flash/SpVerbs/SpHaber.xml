@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>he</td><td>habemos</td></tr><tr><td>has</td><td>habéis</td></tr><tr><td>ha</td><td>han</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to have" (I had, you had, etc.)]]></f>
+    <b><![CDATA[<table><tr><td>hube</td><td>hubimos</td></tr><tr><td>hubiste</td><td>hubisteis</td></tr><tr><td>hubo</td><td>hubieron</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to have" (I used to have, he was having)]]></f>
+    <b><![CDATA[<table><tr><td>había</td><td>habíamos</td></tr><tr><td>habías</td><td>habíais</td></tr><tr><td>había</td><td>habían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>habré</td><td>habremos</td></tr><tr><td>habrás</td><td>habréis</td></tr><tr><td>habrá</td><td>habrán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to have" (had)]]></f>
+    <b><![CDATA[habido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to have" (having)]]></f>
+    <b><![CDATA[habiendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>haya</td><td>hayamos</td></tr><tr><td>hayas</td><td>hayáis</td></tr><tr><td>haya</td><td>hayan</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to have" (I would have)]]></f>
+    <b><![CDATA[<table><tr><td>habría</td><td>habríamos</td></tr><tr><td>habrías</td><td>habríais</td></tr><tr><td>habría</td><td>habrían</td></tr></table>]]></b>
+  </c>
+</root>

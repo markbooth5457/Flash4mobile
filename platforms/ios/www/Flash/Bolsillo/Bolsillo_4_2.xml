@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Hi, how are you?]]></f>
+    <b><![CDATA[¿Qué tal? ¿Cómo estás?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm very well, I'm on holiday]]></f>
+    <b><![CDATA[Estoy muy bien. Estoy de vacaciones.]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How lucky!]]></f>
+    <b><![CDATA[¡Qué suerte!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How do you feel?]]></f>
+    <b><![CDATA[¿Cómo te encuentras?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[So-so. I don't feel very well]]></f>
+    <b><![CDATA[Estoy regular. No me encuentro bien]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Excuse me, can you tell me how to get to the Peñiscula campsite?]]></f>
+    <b><![CDATA[Por favor, ¿para ir al camping de Peñiscula?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, you need to take the A7 motorway]]></f>
+    <b><![CDATA[Sí, mire, tiene que tomar la autopista A7]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Take the first road]]></f>
+    <b><![CDATA[Tome la primera carretera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Then carry on till you get to the petrol station]]></f>
+    <b><![CDATA[Luego siga todo recto hasta la gasolinera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good afternoon, (could I speak to) Mr. Rodriquez, please]]></f>
+    <b><![CDATA[Buenas tardes, ¿con el señor Rodriquez?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Just a moment, please]]></f>
+    <b><![CDATA[Un momento, por favor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who's calling, please?]]></f>
+    <b><![CDATA[¿Quién le llama?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'll go and check]]></f>
+    <b><![CDATA[Voy a ver]]></b>
+  </c>
+  <c>
+    <f><![CDATA[He can't come to the phone]]></f>
+    <b><![CDATA[No se puede poner]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello? (Mexico)]]></f>
+    <b><![CDATA[¿Bueno?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm driving (LAm)]]></f>
+    <b><![CDATA[Estoy manejando]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What are you doing?]]></f>
+    <b><![CDATA[¿Qué estás haciendo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm listening to music]]></f>
+    <b><![CDATA[Estoy escuchando música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What's Raquel doing?]]></f>
+    <b><![CDATA[¿Qué está haciendo Raquel?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[She's playing cards]]></f>
+    <b><![CDATA[Está jugando a las cartas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do you use your mobile phone for?]]></f>
+    <b><![CDATA[¿Para qué utiliza el móvil?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[To send e-mails]]></f>
+    <b><![CDATA[Para enviar e-mails]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who do you talk to?]]></f>
+    <b><![CDATA[¿Con quién habla?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[To my friends]]></f>
+    <b><![CDATA[Con mis amigos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What have you done/did you do this morning?]]></f>
+    <b><![CDATA[¿Qué has hecho esta mañana?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've been/I went shopping]]></f>
+    <b><![CDATA[He ido de compras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What did you do at lunchtime?]]></f>
+    <b><![CDATA[¿Qué has hecho al mediodía?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I had fish for lunch]]></f>
+    <b><![CDATA[He comido pescado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What have you done this month?]]></f>
+    <b><![CDATA[¿Qué has hecho este mes?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I can't remember]]></f>
+    <b><![CDATA[No me acuerdo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How long have you played golf?]]></f>
+    <b><![CDATA[¿Desde cuándo juegas al golf?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've been playing golf since the year 2000]]></f>
+    <b><![CDATA[Juego al golf desde el 2000]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How long have you been studying Spanish (for)]]></f>
+    <b><![CDATA[¿Desde cuándo estudias español?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've been studying Spanish since November]]></f>
+    <b><![CDATA[Estudio español desde noviembre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How many days a week do you practise?]]></f>
+    <b><![CDATA[¿Cuántos días a la semana ensayas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[One day a week]]></f>
+    <b><![CDATA[Un día a la semana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How many hours do you play a day?]]></f>
+    <b><![CDATA[¿Cuántas horas tocas al día?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I play for about two hours]]></f>
+    <b><![CDATA[Toco alrededor de dos horas]]></b>
+  </c>
+</root>

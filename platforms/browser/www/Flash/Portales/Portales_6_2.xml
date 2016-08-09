@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[between]]></f>
+    <b><![CDATA[entre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[next to]]></f>
+    <b><![CDATA[al lado de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in front of]]></f>
+    <b><![CDATA[delante de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[behind]]></f>
+    <b><![CDATA[detrás de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[opposite]]></f>
+    <b><![CDATA[enfrente de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[near to]]></f>
+    <b><![CDATA[cerca de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[far from]]></f>
+    <b><![CDATA[lejos de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yesterday]]></f>
+    <b><![CDATA[ayer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[last week]]></f>
+    <b><![CDATA[la semana pasada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[last year]]></f>
+    <b><![CDATA[el año pasado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[three months agos]]></f>
+    <b><![CDATA[hace tres meses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in 1975]]></f>
+    <b><![CDATA[en mil novecientos setenta y cinco]]></b>
+  </c>
+</root>

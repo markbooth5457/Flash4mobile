@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[garlic]]></f>
+<b><![CDATA[el ajo]]></b>
+</c><c>
+<f><![CDATA[rice]]></f>
+<b><![CDATA[el arroz]]></b>
+</c><c>
+<f><![CDATA[onion]]></f>
+<b><![CDATA[la cebolla]]></b>
+</c><c>
+<f><![CDATA[mushroom]]></f>
+<b><![CDATA[el champiñon]]></b>
+</c><c>
+<f><![CDATA[cabbage]]></f>
+<b><![CDATA[la col]]></b>
+</c><c>
+<f><![CDATA[sprouts]]></f>
+<b><![CDATA[las coles de Bruselas]]></b>
+</c><c>
+<f><![CDATA[cauliflower]]></f>
+<b><![CDATA[la coliflor]]></b>
+</c><c>
+<f><![CDATA[salad]]></f>
+<b><![CDATA[la ensalada]]></b>
+</c><c>
+<f><![CDATA[asparagus]]></f>
+<b><![CDATA[el espárrago]]></b>
+</c><c>
+<f><![CDATA[spinach]]></f>
+<b><![CDATA[las espinacas]]></b>
+</c><c>
+<f><![CDATA[pea]]></f>
+<b><![CDATA[el guisante]]></b>
+</c><c>
+<f><![CDATA[bean]]></f>
+<b><![CDATA[el haba]]></b>
+</c><c>
+<f><![CDATA[green beans]]></f>
+<b><![CDATA[las judías verdes]]></b>
+</c><c>
+<f><![CDATA[lettuce]]></f>
+<b><![CDATA[la lechuga]]></b>
+</c><c>
+<f><![CDATA[vegetables]]></f>
+<b><![CDATA[las legumbres]]></b>
+</c><c>
+<f><![CDATA[potato]]></f>
+<b><![CDATA[la patata]]></b>
+</c><c>
+<f><![CDATA[chips]]></f>
+<b><![CDATA[las patatas fritas]]></b>
+</c><c>
+<f><![CDATA[cucumber]]></f>
+<b><![CDATA[el pepino]]></b>
+</c><c>
+<f><![CDATA[pepper]]></f>
+<b><![CDATA[la pimienta]]></b>
+</c><c>
+<f><![CDATA[tomato]]></f>
+<b><![CDATA[el tomate]]></b>
+</c><c>
+<f><![CDATA[vegetables]]></f>
+<b><![CDATA[las verduras]]></b>
+</c><c>
+<f><![CDATA[carrot]]></f>
+<b><![CDATA[la zanahoria]]></b>
+</c><c>
+<f><![CDATA[apricot]]></f>
+<b><![CDATA[el albaricoque]]></b>
+</c><c>
+<f><![CDATA[cherry]]></f>
+<b><![CDATA[la cereza]]></b>
+</c><c>
+<f><![CDATA[plum]]></f>
+<b><![CDATA[la ciruela]]></b>
+</c><c>
+<f><![CDATA[raspberry]]></f>
+<b><![CDATA[la frambuesa]]></b>
+</c><c>
+<f><![CDATA[strawberry]]></f>
+<b><![CDATA[la fresa]]></b>
+</c><c>
+<f><![CDATA[fruit]]></f>
+<b><![CDATA[la fruta]]></b>
+</c><c>
+<f><![CDATA[lemon]]></f>
+<b><![CDATA[el limón]]></b>
+</c><c>
+<f><![CDATA[apple]]></f>
+<b><![CDATA[la manzana]]></b>
+</c><c>
+<f><![CDATA[peach]]></f>
+<b><![CDATA[el melocotón]]></b>
+</c><c>
+<f><![CDATA[melon]]></f>
+<b><![CDATA[el melón]]></b>
+</c><c>
+<f><![CDATA[orange]]></f>
+<b><![CDATA[la naranja]]></b>
+</c><c>
+<f><![CDATA[pear]]></f>
+<b><![CDATA[la pera]]></b>
+</c><c>
+<f><![CDATA[pineapple]]></f>
+<b><![CDATA[la piña]]></b>
+</c><c>
+<f><![CDATA[banana]]></f>
+<b><![CDATA[el plátano]]></b>
+</c><c>
+<f><![CDATA[grape]]></f>
+<b><![CDATA[la uva]]></b>
+</c><c>
+<f><![CDATA[steak]]></f>
+<b><![CDATA[el bistec]]></b>
+</c><c>
+<f><![CDATA[meat]]></f>
+<b><![CDATA[la carne]]></b>
+</c><c>
+<f><![CDATA[beef]]></f>
+<b><![CDATA[la carne de vaca]]></b>
+</c><c>
+<f><![CDATA[pork]]></f>
+<b><![CDATA[el cerdo]]></b>
+</c><c>
+<f><![CDATA[lamb]]></f>
+<b><![CDATA[el cordero]]></b>
+</c><c>
+<f><![CDATA[garlic sausage]]></f>
+<b><![CDATA[el chorizo]]></b>
+</c><c>
+<f><![CDATA[chop]]></f>
+<b><![CDATA[la chuleta]]></b>
+</c><c>
+<f><![CDATA[ham]]></f>
+<b><![CDATA[el jamón]]></b>
+</c><c>
+<f><![CDATA[chicken]]></f>
+<b><![CDATA[el pollo]]></b>
+</c><c>
+<f><![CDATA[veal]]></f>
+<b><![CDATA[la ternera]]></b>
+</c><c>
+<f><![CDATA[breakfast]]></f>
+<b><![CDATA[el desayuno]]></b>
+</c><c>
+<f><![CDATA[lunch]]></f>
+<b><![CDATA[el almuerzo]]></b>
+</c><c>
+<f><![CDATA[food or main (afternoon) meal]]></f>
+<b><![CDATA[la comida]]></b>
+</c><c>
+<f><![CDATA[snack or picnic]]></f>
+<b><![CDATA[la merienda]]></b>
+</c><c>
+<f><![CDATA[evening meal]]></f>
+<b><![CDATA[la cena]]></b>
+</c><c>
+<f><![CDATA[sugar]]></f>
+<b><![CDATA[el azúcar]]></b>
+</c><c>
+<f><![CDATA[bowl]]></f>
+<b><![CDATA[el ból]]></b>
+</c><c>
+<f><![CDATA[coffeepot]]></f>
+<b><![CDATA[la cafetera]]></b>
+</c><c>
+<f><![CDATA[cutlery, place setting]]></f>
+<b><![CDATA[el cubierto]]></b>
+</c><c>
+<f><![CDATA[spoon]]></f>
+<b><![CDATA[la cuchara]]></b>
+</c><c>
+<f><![CDATA[knife]]></f>
+<b><![CDATA[el cuchillo]]></b>
+</c><c>
+<f><![CDATA[tablecloth]]></f>
+<b><![CDATA[el mantel]]></b>
+</c><c>
+<f><![CDATA[table]]></f>
+<b><![CDATA[la mesa]]></b>
+</c><c>
+<f><![CDATA[mustard]]></f>
+<b><![CDATA[la mostaza]]></b>
+</c><c>
+<f><![CDATA[pepper]]></f>
+<b><![CDATA[el pimiento]]></b>
+</c><c>
+<f><![CDATA[saucer]]></f>
+<b><![CDATA[el platillo]]></b>
+</c><c>
+<f><![CDATA[dish]]></f>
+<b><![CDATA[el plato]]></b>
+</c><c>
+<f><![CDATA[salt]]></f>
+<b><![CDATA[la sal]]></b>
+</c><c>
+<f><![CDATA[sauce, gravy]]></f>
+<b><![CDATA[la salsa]]></b>
+</c><c>
+<f><![CDATA[serviette, napkin]]></f>
+<b><![CDATA[la servilleta]]></b>
+</c><c>
+<f><![CDATA[cup]]></f>
+<b><![CDATA[la taza]]></b>
+</c><c>
+<f><![CDATA[fork]]></f>
+<b><![CDATA[el tenedor]]></b>
+</c><c>
+<f><![CDATA[glass]]></f>
+<b><![CDATA[el vaso]]></b>
+</c><c>
+<f><![CDATA[vinegar]]></f>
+<b><![CDATA[el vinagre]]></b>
+</c><c>
+<f><![CDATA[loaf]]></f>
+<b><![CDATA[la barra]]></b>
+</c><c>
+<f><![CDATA[biscuit]]></f>
+<b><![CDATA[el bizcocho]]></b>
+</c><c>
+<f><![CDATA[sandwich]]></f>
+<b><![CDATA[el bocadillo]]></b>
+</c><c>
+<f><![CDATA[sweets]]></f>
+<b><![CDATA[los bombones]]></b>
+</c><c>
+<f><![CDATA[sweets]]></f>
+<b><![CDATA[los caramelos]]></b>
+</c><c>
+<f><![CDATA[chocolate]]></f>
+<b><![CDATA[el chocolate]]></b>
+</c><c>
+<f><![CDATA[fritter]]></f>
+<b><![CDATA[el churro]]></b>
+</c><c>
+<f><![CDATA[biscuit]]></f>
+<b><![CDATA[la galleta]]></b>
+</c><c>
+<f><![CDATA[hamburger]]></f>
+<b><![CDATA[la hamburguesa]]></b>
+</c><c>
+<f><![CDATA[flour]]></f>
+<b><![CDATA[la harina]]></b>
+</c><c>
+<f><![CDATA[egg]]></f>
+<b><![CDATA[el huevo]]></b>
+</c><c>
+<f><![CDATA[roll]]></f>
+<b><![CDATA[el panecillo ]]></b>
+</c><c>
+<f><![CDATA[crisps]]></f>
+<b><![CDATA[las papas fritas]]></b>
+</c><c>
+<f><![CDATA[hot dog]]></f>
+<b><![CDATA[el perrito caliente]]></b>
+</c><c>
+<f><![CDATA[sausage]]></f>
+<b><![CDATA[la salchicha]]></b>
+</c><c>
+<f><![CDATA[omelette]]></f>
+<b><![CDATA[la tortilla]]></b>
+</c><c>
+<f><![CDATA[squid]]></f>
+<b><![CDATA[los calamares]]></b>
+</c><c>
+<f><![CDATA[crab]]></f>
+<b><![CDATA[el cangrejo]]></b>
+</c><c>
+<f><![CDATA[prawns]]></f>
+<b><![CDATA[las gambas]]></b>
+</c><c>
+<f><![CDATA[lobster]]></f>
+<b><![CDATA[la langosta]]></b>
+</c><c>
+<f><![CDATA[seafood]]></f>
+<b><![CDATA[los mariscos]]></b>
+</c><c>
+<f><![CDATA[mussels]]></f>
+<b><![CDATA[los mejillones]]></b>
+</c><c>
+<f><![CDATA[fish]]></f>
+<b><![CDATA[el pescado]]></b>
+</c><c>
+<f><![CDATA[salmon]]></f>
+<b><![CDATA[el salmón]]></b>
+</c><c>
+<f><![CDATA[sardine]]></f>
+<b><![CDATA[la sardina]]></b>
+</c><c>
+<f><![CDATA[trout]]></f>
+<b><![CDATA[la trucha]]></b>
+</c><c>
+<f><![CDATA[ice-cream]]></f>
+<b><![CDATA[el helado]]></b>
+</c><c>
+<f><![CDATA[cream]]></f>
+<b><![CDATA[la nata]]></b>
+</c><c>
+<f><![CDATA[cake]]></f>
+<b><![CDATA[el pastel]]></b>
+</c><c>
+<f><![CDATA[dessert]]></f>
+<b><![CDATA[el postre]]></b>
+</c><c>
+<f><![CDATA[cheese]]></f>
+<b><![CDATA[el queso]]></b>
+</c><c>
+<f><![CDATA[cake]]></f>
+<b><![CDATA[la tarta]]></b>
+</c><c>
+<f><![CDATA[yogurt]]></f>
+<b><![CDATA[el yogur]]></b>
+</c><c>
+<f><![CDATA[cereals]]></f>
+<b><![CDATA[los cereales]]></b>
+</c><c>
+<f><![CDATA[boiled egg]]></f>
+<b><![CDATA[el huevo pasado por agua]]></b>
+</c><c>
+<f><![CDATA[butter]]></f>
+<b><![CDATA[la mantequilla]]></b>
+</c><c>
+<f><![CDATA[jam]]></f>
+<b><![CDATA[la mermelada]]></b>
+</c><c>
+<f><![CDATA[marmalade]]></f>
+<b><![CDATA[la mermelada de naranja]]></b>
+</c><c>
+<f><![CDATA[honey]]></f>
+<b><![CDATA[la miel]]></b>
+</c><c>
+<f><![CDATA[bread]]></f>
+<b><![CDATA[el pan]]></b>
+</c><c>
+<f><![CDATA[toast]]></f>
+<b><![CDATA[el pan tostado o la tostada]]></b>
+</c><c>
+<f><![CDATA[water]]></f>
+<b><![CDATA[el agua]]></b>
+</c><c>
+<f><![CDATA[mineral water (fizzy)]]></f>
+<b><![CDATA[el agua mineral con gas]]></b>
+</c><c>
+<f><![CDATA[mineral water (still)]]></f>
+<b><![CDATA[el agua mineral sin gas]]></b>
+</c><c>
+<f><![CDATA[drink]]></f>
+<b><![CDATA[la bebida]]></b>
+</c><c>
+<f><![CDATA[coffee]]></f>
+<b><![CDATA[el café]]></b>
+</c><c>
+<f><![CDATA[beer]]></f>
+<b><![CDATA[la cerveza]]></b>
+</c><c>
+<f><![CDATA[coca-cola]]></f>
+<b><![CDATA[la coca-cola]]></b>
+</c><c>
+<f><![CDATA[lemonade]]></f>
+<b><![CDATA[la gaseosa]]></b>
+</c><c>
+<f><![CDATA[fruit juice]]></f>
+<b><![CDATA[el jugo de fruta]]></b>
+</c><c>
+<f><![CDATA[milk]]></f>
+<b><![CDATA[la leche]]></b>
+</c><c>
+<f><![CDATA[lemonade]]></f>
+<b><![CDATA[la limonada]]></b>
+</c><c>
+<f><![CDATA[orangeade]]></f>
+<b><![CDATA[la naranjada]]></b>
+</c><c>
+<f><![CDATA[soft drink]]></f>
+<b><![CDATA[el refresco]]></b>
+</c><c>
+<f><![CDATA[tea]]></f>
+<b><![CDATA[el té]]></b>
+</c><c>
+<f><![CDATA[red wine]]></f>
+<b><![CDATA[el tinto]]></b>
+</c><c>
+<f><![CDATA[wine]]></f>
+<b><![CDATA[el vino]]></b>
+</c><c>
+<f><![CDATA[fruit juice]]></f>
+<b><![CDATA[el zumo de fruta]]></b>
+</c><c>
+<f><![CDATA[orange juice]]></f>
+<b><![CDATA[el zumo de naranja]]></b>
+</c><c>
+<f><![CDATA[toilets]]></f>
+<b><![CDATA[los aseos]]></b>
+</c><c>
+<f><![CDATA[waiter]]></f>
+<b><![CDATA[el camarero]]></b>
+</c><c>
+<f><![CDATA[food]]></f>
+<b><![CDATA[la comida]]></b>
+</c><c>
+<f><![CDATA[speciality]]></f>
+<b><![CDATA[la especialidad]]></b>
+</c><c>
+<f><![CDATA[menu of the day]]></f>
+<b><![CDATA[el menú del día]]></b>
+</c><c>
+<f><![CDATA[set meal]]></f>
+<b><![CDATA[el plato combinado]]></b>
+</c><c>
+<f><![CDATA[this way]]></f>
+<b><![CDATA[por aquí]]></b>
+</c><c>
+<f><![CDATA[recipe]]></f>
+<b><![CDATA[la receta]]></b>
+</c><c>
+<f><![CDATA[restaurant]]></f>
+<b><![CDATA[el restaurante]]></b>
+</c><c>
+<f><![CDATA[flavour]]></f>
+<b><![CDATA[el sabor]]></b>
+</c><c>
+<f><![CDATA[service]]></f>
+<b><![CDATA[el servicio]]></b>
+</c><c>
+<f><![CDATA[toilets]]></f>
+<b><![CDATA[los servicios]]></b>
+</c><c>
+<f><![CDATA[vegetarian]]></f>
+<b><![CDATA[el vegetariano]]></b>
+</c><c>
+<f><![CDATA[tray]]></f>
+<b><![CDATA[la bandeja]]></b>
+</c><c>
+<f><![CDATA[white coffee]]></f>
+<b><![CDATA[el café con leche]]></b>
+</c><c>
+<f><![CDATA[black coffee]]></f>
+<b><![CDATA[el café solo]]></b>
+</c><c>
+<f><![CDATA[café]]></f>
+<b><![CDATA[la cafetería]]></b>
+</c><c>
+<f><![CDATA[blll]]></f>
+<b><![CDATA[la cuenta]]></b>
+</c><c>
+<f><![CDATA[ice]]></f>
+<b><![CDATA[el hielo]]></b>
+</c><c>
+<f><![CDATA[counter]]></f>
+<b><![CDATA[el mostrador]]></b>
+</c><c>
+<f><![CDATA[that's all]]></f>
+<b><![CDATA[nada más]]></b>
+</c><c>
+<f><![CDATA[tip]]></f>
+<b><![CDATA[la propina]]></b>
+</c><c>
+<f><![CDATA[partían]]></f>
+<b><![CDATA[la ración]]></b>
+</c><c>
+<f><![CDATA[shade]]></f>
+<b><![CDATA[la sombra]]></b>
+</c><c>
+<f><![CDATA[bar snacks]]></f>
+<b><![CDATA[las tapas]]></b>
+</c><c>
+<f><![CDATA[glass]]></f>
+<b><![CDATA[el vaso]]></b>
+</c><c>
+<f><![CDATA[to have lunch]]></f>
+<b><![CDATA[almorzar]]></b>
+</c><c>
+<f><![CDATA[to drink]]></f>
+<b><![CDATA[beber]]></b>
+</c><c>
+<f><![CDATA[to have dinner]]></f>
+<b><![CDATA[cenar]]></b>
+</c><c>
+<f><![CDATA[to eat]]></f>
+<b><![CDATA[comer]]></b>
+</c><c>
+<f><![CDATA[to have breakfast]]></f>
+<b><![CDATA[desayunar]]></b>
+</c><c>
+<f><![CDATA[to have a snack/picnic]]></f>
+<b><![CDATA[merendar]]></b>
+</c><c>
+<f><![CDATA[to pay]]></f>
+<b><![CDATA[pagar]]></b>
+</c><c>
+<f><![CDATA[to ask for, to order]]></f>
+<b><![CDATA[pedir]]></b>
+</c><c>
+<f><![CDATA[to try out]]></f>
+<b><![CDATA[probar]]></b>
+</c><c>
+<f><![CDATA[travel agent]]></f>
+<b><![CDATA[la agencia de viajes]]></b>
+</c><c>
+<f><![CDATA[library]]></f>
+<b><![CDATA[la biblioteca]]></b>
+</c><c>
+<f><![CDATA[butcher's]]></f>
+<b><![CDATA[la carnicería]]></b>
+</c><c>
+<f><![CDATA[post office]]></f>
+<b><![CDATA[el correos]]></b>
+</c><c>
+<f><![CDATA[chemist's]]></f>
+<b><![CDATA[la farmacia]]></b>
+</c><c>
+<f><![CDATA[fruit shop]]></f>
+<b><![CDATA[la frutería]]></b>
+</c><c>
+<f><![CDATA[hamburger outlet]]></f>
+<b><![CDATA[la hamburguesería]]></b>
+</c><c>
+<f><![CDATA[jeweller's]]></f>
+<b><![CDATA[la joyería]]></b>
+</c><c>
+<f><![CDATA[bookshop]]></f>
+<b><![CDATA[la librería]]></b>
+</c><c>
+<f><![CDATA[market]]></f>
+<b><![CDATA[el mercado]]></b>
+</c><c>
+<f><![CDATA[baker's]]></f>
+<b><![CDATA[la panadería]]></b>
+</c><c>
+<f><![CDATA[stationer's]]></f>
+<b><![CDATA[la papelería]]></b>
+</c><c>
+<f><![CDATA[cake shop]]></f>
+<b><![CDATA[la pastelería]]></b>
+</c><c>
+<f><![CDATA[hairdresser's]]></f>
+<b><![CDATA[la peluquería]]></b>
+</c><c>
+<f><![CDATA[perfume shop]]></f>
+<b><![CDATA[la perfumería]]></b>
+</c><c>
+<f><![CDATA[fishmonger's]]></f>
+<b><![CDATA[la pescadería]]></b>
+</c><c>
+<f><![CDATA[watch maker's]]></f>
+<b><![CDATA[la relojería]]></b>
+</c><c>
+<f><![CDATA[tobacconist's]]></f>
+<b><![CDATA[la tabacalera]]></b>
+</c><c>
+<f><![CDATA[grocer's]]></f>
+<b><![CDATA[la tienda de comestibles]]></b>
+</c><c>
+<f><![CDATA[record shop]]></f>
+<b><![CDATA[la tienda de discos]]></b>
+</c><c>
+<f><![CDATA[souvenir shop]]></f>
+<b><![CDATA[la tienda de recuerdos]]></b>
+</c><c>
+<f><![CDATA[grocer's]]></f>
+<b><![CDATA[la tienda de ultramarinos]]></b>
+</c><c>
+<f><![CDATA[greengrocer's]]></f>
+<b><![CDATA[la verdulería]]></b>
+</c><c>
+<f><![CDATA[shoe shop]]></f>
+<b><![CDATA[la zapatería]]></b>
+</c><c>
+<f><![CDATA[food]]></f>
+<b><![CDATA[la alimentación]]></b>
+</c><c>
+<f><![CDATA[stores]]></f>
+<b><![CDATA[los almacenes]]></b>
+</c><c>
+<f><![CDATA[bag]]></f>
+<b><![CDATA[la bolsa]]></b>
+</c><c>
+<f><![CDATA[bag]]></f>
+<b><![CDATA[el bolso]]></b>
+</c><c>
+<f><![CDATA[cash desk]]></f>
+<b><![CDATA[la caja]]></b>
+</c><c>
+<f><![CDATA[supermarket trolley]]></f>
+<b><![CDATA[el carro]]></b>
+</c><c>
+<f><![CDATA[basket]]></f>
+<b><![CDATA[la cesta]]></b>
+</c><c>
+<f><![CDATA[basket]]></f>
+<b><![CDATA[el cesto]]></b>
+</c><c>
+<f><![CDATA[customer]]></f>
+<b><![CDATA[el cliente]]></b>
+</c><c>
+<f><![CDATA[queue]]></f>
+<b><![CDATA[la cola]]></b>
+</c><c>
+<f><![CDATA[food]]></f>
+<b><![CDATA[los comestibles]]></b>
+</c><c>
+<f><![CDATA[shopping]]></f>
+<b><![CDATA[las compras]]></b>
+</c><c>
+<f><![CDATA[shop assistant]]></f>
+<b><![CDATA[la dependiente]]></b>
+</c><c>
+<f><![CDATA[discount]]></f>
+<b><![CDATA[el descuento]]></b>
+</c><c>
+<f><![CDATA[money]]></f>
+<b><![CDATA[el dinero]]></b>
+</c><c>
+<f><![CDATA[shop window]]></f>
+<b><![CDATA[el escaparate]]></b>
+</c><c>
+<f><![CDATA[sale]]></f>
+<b><![CDATA[la liquidación]]></b>
+</c><c>
+<f><![CDATA[price]]></f>
+<b><![CDATA[el precio]]></b>
+</c><c>
+<f><![CDATA[reductions]]></f>
+<b><![CDATA[las rebajas]]></b>
+</c><c>
+<f><![CDATA[souvenir]]></f>
+<b><![CDATA[el recuerdo]]></b>
+</c><c>
+<f><![CDATA[record section]]></f>
+<b><![CDATA[la sección de discos]]></b>
+</c><c>
+<f><![CDATA[supermarket]]></f>
+<b><![CDATA[el supermercado]]></b>
+</c><c>
+<f><![CDATA[size]]></f>
+<b><![CDATA[la talla]]></b>
+</c><c>
+<f><![CDATA[shop]]></f>
+<b><![CDATA[la tienda]]></b>
+</c><c>
+<f><![CDATA[salesperson]]></f>
+<b><![CDATA[el vendedor]]></b>
+</c><c>
+<f><![CDATA[banknote]]></f>
+<b><![CDATA[el billete de banco]]></b>
+</c><c>
+<f><![CDATA[cashpoint]]></f>
+<b><![CDATA[el cajero automático]]></b>
+</c><c>
+<f><![CDATA[change]]></f>
+<b><![CDATA[el cambio]]></b>
+</c><c>
+<f><![CDATA[traveller's cheque]]></f>
+<b><![CDATA[el cheque de viajero]]></b>
+</c><c>
+<f><![CDATA[commission]]></f>
+<b><![CDATA[la comisión]]></b>
+</c><c>
+<f><![CDATA[money]]></f>
+<b><![CDATA[el dinero]]></b>
+</c><c>
+<f><![CDATA[pound (sterling)]]></f>
+<b><![CDATA[la libra esterlina]]></b>
+</c><c>
+<f><![CDATA[caín, currency]]></f>
+<b><![CDATA[la moneda]]></b>
+</c><c>
+<f><![CDATA[credit card]]></f>
+<b><![CDATA[la tarjeta de crédito]]></b>
+</c><c>
+<f><![CDATA[to buy]]></f>
+<b><![CDATA[comprar]]></b>
+</c><c>
+<f><![CDATA[to cost]]></f>
+<b><![CDATA[costar]]></b>
+</c><c>
+<f><![CDATA[to wrap up]]></f>
+<b><![CDATA[envolver]]></b>
+</c><c>
+<f><![CDATA[to spend (money)]]></f>
+<b><![CDATA[gastar]]></b>
+</c><c>
+<f><![CDATA[to queue]]></f>
+<b><![CDATA[hacer cola]]></b>
+</c><c>
+<f><![CDATA[to insert]]></f>
+<b><![CDATA[introducir]]></b>
+</c><c>
+<f><![CDATA[to go shopping]]></f>
+<b><![CDATA[ir de compras]]></b>
+</c><c>
+<f><![CDATA[to look at]]></f>
+<b><![CDATA[mirar]]></b>
+</c><c>
+<f><![CDATA[to pay]]></f>
+<b><![CDATA[pagar]]></b>
+</c><c>
+<f><![CDATA[to sell]]></f>
+<b><![CDATA[vender]]></b>
+</c></root>

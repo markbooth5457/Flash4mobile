@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[My name is Teresa]]></f>
+    <b><![CDATA[Me llamo Teresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello, I'm Maria]]></f>
+    <b><![CDATA[¡Hola! Soy María.]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good morning]]></f>
+    <b><![CDATA[¡Buenos días!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good afternoon]]></f>
+    <b><![CDATA[¡Buenas tardes!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good evening]]></f>
+    <b><![CDATA[¡Buenas noches!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How are you?]]></f>
+    <b><![CDATA[¿Que tal?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How are you (formal)?]]></f>
+    <b><![CDATA[¿Cómo está?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[See you later!]]></f>
+    <b><![CDATA[¡Hasta luego!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Bye!]]></f>
+    <b><![CDATA[¡Chao! , ¡Chaíto! (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who is he/she?]]></f>
+    <b><![CDATA[¿Quién es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[She's a writer]]></f>
+    <b><![CDATA[Es una escritora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm not sure]]></f>
+    <b><![CDATA[No estoy seguro/a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I don't know]]></f>
+    <b><![CDATA[No lo sé]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(I've) no idea]]></f>
+    <b><![CDATA[(No tengo) ni idea]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where are you from?]]></f>
+    <b><![CDATA[¿De dónde eres?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm from Valencia]]></f>
+    <b><![CDATA[Soy valenciano/a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you speak English?]]></f>
+    <b><![CDATA[¿Hablas inglés?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[No, but I speak Spanish and Valencian]]></f>
+    <b><![CDATA[No, pero hablo español y valenciano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where are you from (formal)]]></f>
+    <b><![CDATA[¿De dónde es usted?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you speak English (formal)]]></f>
+    <b><![CDATA[¿Habla usted inglés?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Are you married?]]></f>
+    <b><![CDATA[¿Eres casado/a? (LAm) ¿Estás casado/a? (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I'm married (LAm)]]></f>
+    <b><![CDATA[Sí, soy casado/a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm married (Sp)]]></f>
+    <b><![CDATA[Estoy casado/a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How old are you?]]></f>
+    <b><![CDATA[¡Cuántos años tienes?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you got any children?]]></f>
+    <b><![CDATA[¿Tienes hijos?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where do you live?]]></f>
+    <b><![CDATA[¿Dónde vive? (formal) ¿Dónde vives? (informal)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I live in Valencia]]></f>
+    <b><![CDATA[Vivo en Valencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What's your address?]]></f>
+    <b><![CDATA[¿Cuál es su dirección? (formal) ¿Cuál es tu dirección? (informal)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Jovellano Street, number 5, between...]]></f>
+    <b><![CDATA[Calle Jovellanos 5, entre Legalidad y Concepción]]></b>
+  </c>
+</root>

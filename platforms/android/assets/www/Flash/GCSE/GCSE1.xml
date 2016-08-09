@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[grandfather ]]></f>
+<b><![CDATA[el abuelo]]></b>
+</c><c>
+<f><![CDATA[grandmother]]></f>
+<b><![CDATA[la abuela]]></b>
+</c><c>
+<f><![CDATA[mother]]></f>
+<b><![CDATA[la madre]]></b>
+</c><c>
+<f><![CDATA[mum]]></f>
+<b><![CDATA[la mamá]]></b>
+</c><c>
+<f><![CDATA[father]]></f>
+<b><![CDATA[el padre]]></b>
+</c><c>
+<f><![CDATA[parents]]></f>
+<b><![CDATA[los padres]]></b>
+</c><c>
+<f><![CDATA[dad]]></f>
+<b><![CDATA[el papá]]></b>
+</c><c>
+<f><![CDATA[husband]]></f>
+<b><![CDATA[el esposo]]></b>
+</c><c>
+<f><![CDATA[husband]]></f>
+<b><![CDATA[el marido]]></b>
+</c><c>
+<f><![CDATA[wife]]></f>
+<b><![CDATA[la esposa]]></b>
+</c><c>
+<f><![CDATA[wife]]></f>
+<b><![CDATA[la mujer]]></b>
+</c><c>
+<f><![CDATA[family]]></f>
+<b><![CDATA[la familia]]></b>
+</c><c>
+<f><![CDATA[relations]]></f>
+<b><![CDATA[los familiares]]></b>
+</c><c>
+<f><![CDATA[relations]]></f>
+<b><![CDATA[los parientes]]></b>
+</c><c>
+<f><![CDATA[twin]]></f>
+<b><![CDATA[el gemelo]]></b>
+</c><c>
+<f><![CDATA[brother]]></f>
+<b><![CDATA[el hermano]]></b>
+</c><c>
+<f><![CDATA[sister]]></f>
+<b><![CDATA[la hermana]]></b>
+</c><c>
+<f><![CDATA[brother-in-law]]></f>
+<b><![CDATA[el cuñado]]></b>
+</c><c>
+<f><![CDATA[sister-in-law]]></f>
+<b><![CDATA[la cuñada]]></b>
+</c><c>
+<f><![CDATA[father-in-law]]></f>
+<b><![CDATA[el suegro]]></b>
+</c><c>
+<f><![CDATA[son]]></f>
+<b><![CDATA[el hijo]]></b>
+</c><c>
+<f><![CDATA[daughter]]></f>
+<b><![CDATA[la hija]]></b>
+</c><c>
+<f><![CDATA[baby]]></f>
+<b><![CDATA[el o la bebé]]></b>
+</c><c>
+<f><![CDATA[grandson]]></f>
+<b><![CDATA[el nieto]]></b>
+</c><c>
+<f><![CDATA[granddaughter]]></f>
+<b><![CDATA[la nieta]]></b>
+</c><c>
+<f><![CDATA[child]]></f>
+<b><![CDATA[el niño]]></b>
+</c><c>
+<f><![CDATA[boyfriend]]></f>
+<b><![CDATA[el novio]]></b>
+</c><c>
+<f><![CDATA[gírlfriend]]></f>
+<b><![CDATA[la novia]]></b>
+</c><c>
+<f><![CDATA[relation]]></f>
+<b><![CDATA[el pariente]]></b>
+</c><c>
+<f><![CDATA[cousin]]></f>
+<b><![CDATA[el primo]]></b>
+</c><c>
+<f><![CDATA[nephew]]></f>
+<b><![CDATA[el sobrino]]></b>
+</c><c>
+<f><![CDATA[uncle]]></f>
+<b><![CDATA[el tío]]></b>
+</c><c>
+<f><![CDATA[aunt]]></f>
+<b><![CDATA[la tía]]></b>
+</c>
+  <c>
+    <f><![CDATA[surname]]></f>
+    <b><![CDATA[el apellido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[address]]></f>
+    <b><![CDATA[la dirección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[age]]></f>
+    <b><![CDATA[la edad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[place of birth]]></f>
+    <b><![CDATA[el lugar de nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marriage]]></f>
+    <b><![CDATA[el matrimonio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[identity]]></f>
+    <b><![CDATA[la identidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birth]]></f>
+    <b><![CDATA[el nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[date of birth]]></f>
+    <b><![CDATA[fecha de nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[single]]></f>
+    <b><![CDATA[soltero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[divorced]]></f>
+    <b><![CDATA[divorciado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[married]]></f>
+    <b><![CDATA[casado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[widower]]></f>
+<b><![CDATA[el viudo]]></b>
+</c><c>
+<f><![CDATA[widow]]></f>
+<b><![CDATA[la viuda]]></b>
+</c><c>
+<f><![CDATA[adolescent or teenager]]></f>
+<b><![CDATA[adolescente]]></b>
+</c><c>
+<f><![CDATA[adult]]></f>
+<b><![CDATA[adulto]]></b>
+</c><c>
+<f><![CDATA[friend]]></f>
+<b><![CDATA[el amigo]]></b>
+</c><c>
+<f><![CDATA[gentleman]]></f>
+<b><![CDATA[el caballero]]></b>
+</c><c>
+<f><![CDATA[boy]]></f>
+<b><![CDATA[el chico]]></b>
+</c><c>
+<f><![CDATA[girl]]></f>
+<b><![CDATA[la chica]]></b>
+</c><c>
+<f><![CDATA[friend]]></f>
+<b><![CDATA[el compañero]]></b>
+</c><c>
+<f><![CDATA[penfriend]]></f>
+<b><![CDATA[el correspondiente o el corresponsal]]></b>
+</c><c>
+<f><![CDATA[stranger]]></f>
+<b><![CDATA[el desconocido]]></b>
+</c><c>
+<f><![CDATA[enemy]]></f>
+<b><![CDATA[el enemigo]]></b>
+</c><c>
+<f><![CDATA[people]]></f>
+<b><![CDATA[la gente]]></b>
+</c><c>
+<f><![CDATA[man]]></f>
+<b><![CDATA[el hombre]]></b>
+</c><c>
+<f><![CDATA[guest]]></f>
+<b><![CDATA[el huésped o el invitado]]></b>
+</c><c>
+<f><![CDATA[boy]]></f>
+<b><![CDATA[el muchacho]]></b>
+</c><c>
+<f><![CDATA[couple]]></f>
+<b><![CDATA[la pareja]]></b>
+</c><c>
+<f><![CDATA[person]]></f>
+<b><![CDATA[la persona]]></b>
+</c><c>
+<f><![CDATA[everybody]]></f>
+<b><![CDATA[todo el mundo]]></b>
+</c><c>
+<f><![CDATA[neighbour]]></f>
+<b><![CDATA[el vecino]]></b>
+</c><c>
+<f><![CDATA[pet]]></f>
+<b><![CDATA[el doméstico]]></b>
+</c><c>
+<f><![CDATA[guinea pig]]></f>
+<b><![CDATA[la cobaya]]></b>
+</c><c>
+<f><![CDATA[rabbit]]></f>
+<b><![CDATA[el conejo]]></b>
+</c><c>
+<f><![CDATA[cat]]></f>
+<b><![CDATA[el gato]]></b>
+</c><c>
+<f><![CDATA[hamster]]></f>
+<b><![CDATA[el hámster]]></b>
+</c><c>
+<f><![CDATA[stick insect]]></f>
+<b><![CDATA[el insecto palo]]></b>
+</c><c>
+<f><![CDATA[cage]]></f>
+<b><![CDATA[la jaula]]></b>
+</c><c>
+<f><![CDATA[parrot]]></f>
+<b><![CDATA[el loro]]></b>
+</c><c>
+<f><![CDATA[tropical fish]]></f>
+<b><![CDATA[los peces tropicales]]></b>
+</c><c>
+<f><![CDATA[parakeet, budgie]]></f>
+<b><![CDATA[el periquito]]></b>
+</c><c>
+<f><![CDATA[dog]]></f>
+<b><![CDATA[el perro]]></b>
+</c><c>
+<f><![CDATA[fish]]></f>
+<b><![CDATA[el pez]]></b>
+</c><c>
+<f><![CDATA[goldfish]]></f>
+<b><![CDATA[el pez dorado]]></b>
+</c><c>
+<f><![CDATA[mouse]]></f>
+<b><![CDATA[el ratón]]></b>
+</c><c>
+<f><![CDATA[tortoise]]></f>
+<b><![CDATA[la tortuga]]></b>
+</c><c>
+<f><![CDATA[embrace or hug]]></f>
+<b><![CDATA[el abrazo]]></b>
+</c><c>
+<f><![CDATA[friendship]]></f>
+<b><![CDATA[la amistad]]></b>
+</c><c>
+<f><![CDATA[love]]></f>
+<b><![CDATA[el amor]]></b>
+</c><c>
+<f><![CDATA[kiss]]></f>
+<b><![CDATA[el beso]]></b>
+</c><c>
+<f><![CDATA[welcome]]></f>
+<b><![CDATA[la bienvenida]]></b>
+</c><c>
+<f><![CDATA[joke]]></f>
+<b><![CDATA[la broma]]></b>
+</c><c>
+<f><![CDATA[joke]]></f>
+<b><![CDATA[el chiste]]></b>
+</c><c>
+<f><![CDATA[character]]></f>
+<b><![CDATA[el carácter]]></b>
+</c><c>
+<f><![CDATA[affection]]></f>
+<b><![CDATA[el cariño]]></b>
+</c><c>
+<f><![CDATA[letter]]></f>
+<b><![CDATA[la carta]]></b>
+</c><c>
+<f><![CDATA[date (Le. to meet a friend)]]></f>
+<b><![CDATA[la cita]]></b>
+</c><c>
+<f><![CDATA[conversation]]></f>
+<b><![CDATA[la conversación]]></b>
+</c><c>
+<f><![CDATA[correspondence]]></f>
+<b><![CDATA[la correspondencia]]></b>
+</c><c>
+<f><![CDATA[blame]]></f>
+<b><![CDATA[la culpa]]></b>
+</c><c>
+<f><![CDATA[the rest]]></f>
+<b><![CDATA[los demás]]></b>
+</c><c>
+<f><![CDATA[desire]]></f>
+<b><![CDATA[el deseo]]></b>
+</c><c>
+<f><![CDATA[conversation]]></f>
+<b><![CDATA[el diálogo]]></b>
+</c><c>
+<f><![CDATA[favour]]></f>
+<b><![CDATA[el favor]]></b>
+</c><c>
+<f><![CDATA[pleasure]]></f>
+<b><![CDATA[el gusto]]></b>
+</c><c>
+<f><![CDATA[humour]]></f>
+<b><![CDATA[el humor]]></b>
+</c><c>
+<f><![CDATA[invitation]]></f>
+<b><![CDATA[la invitación]]></b>
+</c><c>
+<f><![CDATA[fight]]></f>
+<b><![CDATA[la pelea]]></b>
+</c><c>
+<f><![CDATA[postcard]]></f>
+<b><![CDATA[la postal]]></b>
+</c><c>
+<f><![CDATA[promise]]></f>
+<b><![CDATA[la promesa]]></b>
+</c><c>
+<f><![CDATA[sign or signal]]></f>
+<b><![CDATA[la señal]]></b>
+</c><c>
+<f><![CDATA[smile]]></f>
+<b><![CDATA[la sonrisa]]></b>
+</c><c>
+<f><![CDATA[card]]></f>
+<b><![CDATA[la tarjeta]]></b>
+</c><c>
+<f><![CDATA[visit]]></f>
+<b><![CDATA[la visita]]></b>
+</c><c>
+<f><![CDATA[to accompany]]></f>
+<b><![CDATA[acompañar]]></b>
+</c><c>
+<f><![CDATA[to remember]]></f>
+<b><![CDATA[acordarse]]></b>
+</c><c>
+<f><![CDATA[to help]]></f>
+<b><![CDATA[ayudar]]></b>
+</c><c>
+<f><![CDATA[to kiss]]></f>
+<b><![CDATA[besar]]></b>
+</c><c>
+<f><![CDATA[to celebrate]]></f>
+<b><![CDATA[celebrar]]></b>
+</c><c>
+<f><![CDATA[to chat]]></f>
+<b><![CDATA[charlar]]></b>
+</c><c>
+<f><![CDATA[to know (a person)]]></f>
+<b><![CDATA[conocer]]></b>
+</c><c>
+<f><![CDATA[to tell or to count]]></f>
+<b><![CDATA[contar]]></b>
+</c><c>
+<f><![CDATA[to grow]]></f>
+<b><![CDATA[crecer]]></b>
+</c><c>
+<f><![CDATA[to reach (a birthday)]]></f>
+<b><![CDATA[cumplir]]></b>
+</c><c>
+<f><![CDATA[to shake hands]]></f>
+<b><![CDATA[dar la mano]]></b>
+</c><c>
+<f><![CDATA[to thank]]></f>
+<b><![CDATA[dar las gracias]]></b>
+</c><c>
+<f><![CDATA[to hate]]></f>
+<b><![CDATA[detestar]]></b>
+</c><c>
+<f><![CDATA[to get divorced]]></f>
+<b><![CDATA[divorciarse]]></b>
+</c><c>
+<f><![CDATA[to miss (i.e. a person)]]></f>
+<b><![CDATA[echar de menos]]></b>
+</c><c>
+<f><![CDATA[to post a letter]]></f>
+<b><![CDATA[echar una carta]]></b>
+</c><c>
+<f><![CDATA[to choose]]></f>
+<b><![CDATA[elegir]]></b>
+</c><c>
+<f><![CDATA[to fall in love]]></f>
+<b><![CDATA[enamorarse]]></b>
+</c><c>
+<f><![CDATA[to delight]]></f>
+<b><![CDATA[encantar]]></b>
+</c><c>
+<f><![CDATA[to get angry]]></f>
+<b><![CDATA[enfadarse]]></b>
+</c><c>
+<f><![CDATA[to avoíd]]></f>
+<b><![CDATA[evitar]]></b>
+</c><c>
+<f><![CDATA[to invite]]></f>
+<b><![CDATA[invitar]]></b>
+</c><c>
+<f><![CDATA[to be called]]></f>
+<b><![CDATA[llamarse]]></b>
+</c><c>
+<f><![CDATA[to get on well with]]></f>
+<b><![CDATA[llevarse bien con]]></b>
+</c><c>
+<f><![CDATA[to get on badly with]]></f>
+<b><![CDATA[llevarse mal con]]></b>
+</c><c>
+<f><![CDATA[to cry]]></f>
+<b><![CDATA[llorar]]></b>
+</c><c>
+<f><![CDATA[to die]]></f>
+<b><![CDATA[morir]]></b>
+</c><c>
+<f><![CDATA[to be born]]></f>
+<b><![CDATA[nacer]]></b>
+</c><c>
+<f><![CDATA[to hate]]></f>
+<b><![CDATA[odiar]]></b>
+</c><c>
+<f><![CDATA[to seem]]></f>
+<b><![CDATA[parecer]]></b>
+</c><c>
+<f><![CDATA[to ask a favour]]></f>
+<b><![CDATA[pedir un favor]]></b>
+</c><c>
+<f><![CDATA[to prefer]]></f>
+<b><![CDATA[preferir]]></b>
+</c><c>
+<f><![CDATA[to introduce]]></f>
+<b><![CDATA[presentar]]></b>
+</c><c>
+<f><![CDATA[to promise]]></f>
+<b><![CDATA[prometer]]></b>
+</c><c>
+<f><![CDATA[to love or to want]]></f>
+<b><![CDATA[querer]]></b>
+</c><c>
+<f><![CDATA[to pick up]]></f>
+<b><![CDATA[recoger]]></b>
+</c><c>
+<f><![CDATA[to recognise]]></f>
+<b><![CDATA[reconocer]]></b>
+</c><c>
+<f><![CDATA[to remember]]></f>
+<b><![CDATA[recordar]]></b>
+</c><c>
+<f><![CDATA[to give a present]]></f>
+<b><![CDATA[regalar]]></b>
+</c><c>
+<f><![CDATA[to laugh]]></f>
+<b><![CDATA[reír(se)]]></b>
+</c><c>
+<f><![CDATA[to go out]]></f>
+<b><![CDATA[salir]]></b>
+</c><c>
+<f><![CDATA[to greet]]></f>
+<b><![CDATA[saludar]]></b>
+</c><c>
+<f><![CDATA[to smile]]></f>
+<b><![CDATA[sonreír(se)]]></b>
+</c><c>
+<f><![CDATA[to use tú]]></f>
+<b><![CDATA[tutear]]></b>
+</c><c>
+<f><![CDATA[to see]]></f>
+<b><![CDATA[ver]]></b>
+</c>
+  <c>
+<f><![CDATA[to visit]]></f>
+<b><![CDATA[visitar]]></b>
+    </c>
+      <c>
+    <f><![CDATA[Physical descriptions]]></f>
+    <b><![CDATA[Descripciones físicas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be fat]]></f>
+    <b><![CDATA[ser gordo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[thin]]></f>
+    <b><![CDATA[delgado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tall]]></f>
+    <b><![CDATA[alto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short]]></f>
+    <b><![CDATA[bajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a moustache]]></f>
+    <b><![CDATA[tener bigote]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beard]]></f>
+    <b><![CDATA[barba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have blond hair]]></f>
+    <b><![CDATA[tener el pelo rubio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown]]></f>
+    <b><![CDATA[castaño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black]]></f>
+    <b><![CDATA[negro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gray]]></f>
+    <b><![CDATA[gris]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[long]]></f>
+    <b><![CDATA[largo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short]]></f>
+    <b><![CDATA[corto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be bald]]></f>
+    <b><![CDATA[ser calvo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have dark skin]]></f>
+    <b><![CDATA[tener la piel oscura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark skinned or tanned]]></f>
+    <b><![CDATA[morena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clear]]></f>
+    <b><![CDATA[clara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have blue eyes]]></f>
+    <b><![CDATA[tener los ojos azules]]></b>
+  </c>
+  <c>
+    <f><![CDATA[green]]></f>
+    <b><![CDATA[verdes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown]]></f>
+    <b><![CDATA[castaños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark]]></f>
+    <b><![CDATA[oscuros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black]]></f>
+    <b><![CDATA[negros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[large]]></f>
+    <b><![CDATA[grandes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small]]></f>
+    <b><![CDATA[pequeños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a straight nose]]></f>
+    <b><![CDATA[tener la nariz recta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wear glasses]]></f>
+    <b><![CDATA[llevar gafas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look like]]></f>
+    <b><![CDATA[parecerse a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[he has his mothers eyes]]></f>
+    <b><![CDATA[se parece a su madre en los ojos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of character]]></f>
+    <b><![CDATA[Descripción de carácter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be]]></f>
+    <b><![CDATA[ser]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boring]]></f>
+    <b><![CDATA[aburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aggressive]]></f>
+    <b><![CDATA[agresivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amiable]]></f>
+    <b><![CDATA[amable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unpleasant]]></f>
+    <b><![CDATA[antipático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[capricious]]></f>
+    <b><![CDATA[caprichoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[affectionate]]></f>
+    <b><![CDATA[cariñoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[untidy]]></f>
+    <b><![CDATA[desordenado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[egoistic]]></f>
+    <b><![CDATA[egoísta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[generous]]></f>
+    <b><![CDATA[generoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[impulsive]]></f>
+    <b><![CDATA[impulsivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tidy]]></f>
+    <b><![CDATA[ordenado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reserved]]></f>
+    <b><![CDATA[reservado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serious]]></f>
+    <b><![CDATA[serio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[likeable]]></f>
+    <b><![CDATA[simpático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[timid]]></f>
+    <b><![CDATA[tímido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calm]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+<c>
+<f><![CDATA[What you are called?]]></f>
+<b><![CDATA[¿Cómo te llamas?]]></b>
+</c><c>
+<f><![CDATA[How old are you?]]></f>
+<b><![CDATA[¿Cuántos años tienes?]]></b>
+</c><c>
+<f><![CDATA[How many are in your family?]]></f>
+<b><![CDATA[¿Cuántos sois en tu familia?]]></b>
+</c><c>
+<f><![CDATA[Who are they?]]></f>
+<b><![CDATA[¿Quiénes son?]]></b>
+</c><c>
+<f><![CDATA[What does your father do?]]></f>
+<b><![CDATA[¿Qué hace tu padre?]]></b>
+</c><c>
+<f><![CDATA[What does your mother do?]]></f>
+<b><![CDATA[¿Qué hace tu madre?]]></b>
+</c><c>
+<f><![CDATA[What year were you born?]]></f>
+<b><![CDATA[¿En qué año naciste?]]></b>
+</c><c>
+<f><![CDATA[How tall are you?]]></f>
+<b><![CDATA[¿Cuánto mides?]]></b>
+</c><c>
+<f><![CDATA[Do you have animals at home?]]></f>
+<b><![CDATA[¿Tienes animales en casa?]]></b>
+</c><c>
+<f><![CDATA[When is your birthday?]]></f>
+<b><![CDATA[¿Cuándo es tu cumpleaños?]]></b>
+</c><c>
+<f><![CDATA[Describe your family]]></f>
+<b><![CDATA[Describe a tu familia]]></b>
+</c><c>
+<f><![CDATA[What is your father like?]]></f>
+<b><![CDATA[¿Cómo es tu padre?]]></b>
+</c><c>
+<f><![CDATA[What is your mother like?]]></f>
+<b><![CDATA[¿Cómo es tu madre?]]></b>
+</c><c>
+<f><![CDATA[What is your sister like?]]></f>
+<b><![CDATA[¿Cómo es tu hermana?]]></b>
+</c><c>
+<f><![CDATA[Do you have other relatives?]]></f>
+<b><![CDATA[¿Tienes otros parientes?]]></b>
+</c><c>
+<f><![CDATA[What animal do you like most?]]></f>
+<b><![CDATA[¿Qué animal te gusta más?]]></b>
+</c><c>
+<f><![CDATA[On your birthday,  What gifts did you receive?]]></f>
+<b><![CDATA[El dia de tu cumpleaños, ¿Qué regalos recibiste?]]></b>
+</c><c>
+<f><![CDATA[What did you do with the money?]]></f>
+<b><![CDATA[¿Qué hiciste con el dinero?]]></b>
+</c><c>
+<f><![CDATA[What you are going to do with the money in the bank?]]></f>
+<b><![CDATA[¿Qué vas a hacer con el dinero en el banco?]]></b>
+</c>
+<c>
+<f><![CDATA[happy saint's day!]]></f>
+<b><![CDATA[¡feliz santo!]]></b>
+</c><c>
+<f><![CDATA[New Year]]></f>
+<b><![CDATA[el Año Nuevo]]></b>
+</c><c>
+<f><![CDATA[wedding]]></f>
+<b><![CDATA[la boda]]></b>
+</c><c>
+<f><![CDATA[birthday]]></f>
+<b><![CDATA[el cumpleaños]]></b>
+</c><c>
+<f><![CDATA[holiday]]></f>
+<b><![CDATA[el día de fiesta]]></b>
+</c><c>
+<f><![CDATA[Saint's Day]]></f>
+<b><![CDATA[el día de mi santo]]></b>
+</c><c>
+<f><![CDATA[Christmas Day]]></f>
+<b><![CDATA[el día de Navidad]]></b>
+</c><c>
+<f><![CDATA[Happy New Year]]></f>
+<b><![CDATA[ feliz año nuevo]]></b>
+</c><c>
+<f><![CDATA[Happy Birthday]]></f>
+<b><![CDATA[feliz cumpleaños]]></b>
+</c><c>
+<f><![CDATA[Happy Christmas]]></f>
+<b><![CDATA[feliz navidad]]></b>
+</c><c>
+<f><![CDATA[holiday]]></f>
+<b><![CDATA[la fiesta]]></b>
+</c><c>
+<f><![CDATA[honeymoon]]></f>
+<b><![CDATA[la luna de miel]]></b>
+</c><c>
+<f><![CDATA[Christmas Eve]]></f>
+<b><![CDATA[la Nochebuena]]></b>
+</c><c>
+<f><![CDATA[New Year's Eve]]></f>
+<b><![CDATA[la Nochevieja]]></b>
+</c><c>
+<f><![CDATA[Holy Week]]></f>
+<b><![CDATA[la Semana Santa]]></b>
+</c><c>
+<f><![CDATA[welcome!]]></f>
+<b><![CDATA[¡bienvenido!]]></b>
+</c><c>
+<f><![CDATA[how disgusting!]]></f>
+<b><![CDATA[¡qué asco!]]></b>
+</c><c>
+<f><![CDATA[how good!]]></f>
+<b><![CDATA[¡qué bien!]]></b>
+</c><c>
+<f><![CDATA[how terrible!]]></f>
+<b><![CDATA[¡qué horror!]]></b>
+</c><c>
+<f><![CDATA[what a pity!]]></f>
+<b><![CDATA[¡qué lástima!]]></b>
+</c><c>
+<f><![CDATA[what a pity!]]></f>
+<b><![CDATA[¡qué pena!]]></b>
+</c><c>
+<f><![CDATA[help!]]></f>
+<b><![CDATA[¡socorro!]]></b>
+</c><c>
+<f><![CDATA[good luck!]]></f>
+<b><![CDATA[¡suerte!]]></b>
+</c><c>
+<f><![CDATA[OK!]]></f>
+<b><![CDATA[¡vale!]]></b>
+</c><c>
+<f><![CDATA[agreed]]></f>
+<b><![CDATA[de acuerdo]]></b>
+</c><c>
+<f><![CDATA[don't mention it]]></f>
+<b><![CDATA[de nada]]></b>
+</c><c>
+<f><![CDATA[of course]]></f>
+<b><![CDATA[desde luego]]></b>
+</c><c>
+<f><![CDATA[congratulations!]]></f>
+<b><![CDATA[¡enhorabuena!]]></b>
+</c><c>
+<f><![CDATA[I'm sorry]]></f>
+<b><![CDATA[lo siento]]></b>
+</c><c>
+<f><![CDATA[I don't mind]]></f>
+<b><![CDATA[me da igual]]></b>
+</c><c>
+<f><![CDATA[good luck]]></f>
+<b><![CDATA[mucha suerte]]></b>
+</c><c>
+<f><![CDATA[pleased to meet you]]></f>
+<b><![CDATA[mucho gusto]]></b>
+</c><c>
+<f><![CDATA[it's worth while]]></f>
+<b><![CDATA[vale la pena]]></b>
+</c>
+</root>

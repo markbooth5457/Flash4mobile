@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[mass media]]></f>
+    <b><![CDATA[los medios de comunicación ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[press]]></f>
+    <b><![CDATA[la prensa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[digital television]]></f>
+    <b><![CDATA[la televisión digital]]></b>
+  </c>
+  <c>
+    <f><![CDATA[radio transmitter]]></f>
+    <b><![CDATA[la emisora de radio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[study of television/radio ]]></f>
+    <b><![CDATA[el estudio de televisión / de radio ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[television channel]]></f>
+    <b><![CDATA[el canal de televisión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short/long wave]]></f>
+    <b><![CDATA[la onda corta / larga ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[by short wave]]></f>
+    <b><![CDATA[por onda corta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[by satellite]]></f>
+    <b><![CDATA[por vía satélite]]></b>
+  </c>
+  <c>
+    <f><![CDATA[journalist]]></f>
+    <b><![CDATA[el periodista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reporter]]></f>
+    <b><![CDATA[el reportero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[editor]]></f>
+    <b><![CDATA[el redactor ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[camera]]></f>
+    <b><![CDATA[el cámara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sound technician]]></f>
+    <b><![CDATA[el técnico de sonido ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[speaker]]></f>
+    <b><![CDATA[el locutor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[presenter]]></f>
+    <b><![CDATA[el presentador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[audience]]></f>
+    <b><![CDATA[la audiencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guest of the program]]></f>
+    <b><![CDATA[el invitado al programa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[listener]]></f>
+    <b><![CDATA[el oyente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[viewer]]></f>
+    <b><![CDATA[el televidente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fellow members (of a discussion?)]]></f>
+    <b><![CDATA[los contertulios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[programming (daily)]]></f>
+    <b><![CDATA[la programación (diaria)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[program (of music, analysis, sports)]]></f>
+    <b><![CDATA[el programa (de análisis / de deportes / musical)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news bulletin]]></f>
+    <b><![CDATA[el boletín de noticias]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news (national/international/currrent)]]></f>
+    <b><![CDATA[la noticia (nacional/internacional / de actualidad)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news article]]></f>
+    <b><![CDATA[el reportaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[documentary]]></f>
+    <b><![CDATA[el documental]]></b>
+  </c>
+  <c>
+    <f><![CDATA[debate (televised/wireless)]]></f>
+    <b><![CDATA[el debate (televisivo / radiofónico) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wireless discussion group]]></f>
+    <b><![CDATA[la tertulia radiofónica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[magazine programme]]></f>
+    <b><![CDATA[el magacín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to inform]]></f>
+    <b><![CDATA[informar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[present time]]></f>
+    <b><![CDATA[la actualidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[freedom (of the press/expression)]]></f>
+    <b><![CDATA[la libertad (de prensa / de expresión) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[self censorship]]></f>
+    <b><![CDATA[la autocensura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[accuracy]]></f>
+    <b><![CDATA[la exactitud ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[faithfulness]]></f>
+    <b><![CDATA[la fidelidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[impartial information]]></f>
+    <b><![CDATA[la información imparcial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rigour]]></f>
+    <b><![CDATA[la rigurosidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bending (of the truth)]]></f>
+    <b><![CDATA[la deformación (de la verdad) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[partisanship]]></f>
+    <b><![CDATA[el partidismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[different interests]]></f>
+    <b><![CDATA[los distintos intereses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Marketing and publicity]]></f>
+    <b><![CDATA[El márketing y la publicidad ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[campaign (publicity/advertising/marketing)]]></f>
+    <b><![CDATA[la campaña (publicitaria / de publicidad / de márketing) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marketing techniques]]></f>
+    <b><![CDATA[las técnicas de márketing]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marketing strategy]]></f>
+    <b><![CDATA[la estrategia de mercado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to create market share]]></f>
+    <b><![CDATA[crear mercado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[consumer demand]]></f>
+    <b><![CDATA[la demanda del consumidor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[market study]]></f>
+    <b><![CDATA[el estudio de mercado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[opinion poll]]></f>
+    <b><![CDATA[el sondeo de opinión ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[opinion survey]]></f>
+    <b><![CDATA[la encuesta de opinión ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[questionnaire]]></f>
+    <b><![CDATA[el cuestionario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sample]]></f>
+    <b><![CDATA[la muestra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[at random]]></f>
+    <b><![CDATA[al azar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[random]]></f>
+    <b><![CDATA[aleatorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[statistics]]></f>
+    <b><![CDATA[las estadísticas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[launching of a product]]></f>
+    <b><![CDATA[el lanzamiento de un producto ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[launch offer]]></f>
+    <b><![CDATA[la oferta de lanzamiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[intention to buy]]></f>
+    <b><![CDATA[la intención de compra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[result of the campaign]]></f>
+    <b><![CDATA[el resultado de la campaña ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to persuade]]></f>
+    <b><![CDATA[persuadir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Ecology and environment]]></f>
+    <b><![CDATA[Ecología y medio ambiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hole in the ozone layer]]></f>
+    <b><![CDATA[el agujero en la capa de ozono]]></b>
+  </c>
+  <c>
+    <f><![CDATA[overheating of the planet]]></f>
+    <b><![CDATA[el recalentamiento del planeta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[greenhouse effect]]></f>
+    <b><![CDATA[el efecto invernadero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[climate change]]></f>
+    <b><![CDATA[los cambios climáticos / climatológicos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contamination of water supplies]]></f>
+    <b><![CDATA[la contaminación de las aguas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toxic residues]]></f>
+    <b><![CDATA[los residuos tóxicos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contamination (of the air/of water supplies/of the ground)]]></f>
+    <b><![CDATA[la contaminación (del aire / de las aguas / del suelo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nuclear test]]></f>
+    <b><![CDATA[la prueba nuclear]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spills (of radioactive waste/of toxic substances)]]></f>
+    <b><![CDATA[los vertidos (de residuos radiactivos / de sustancias tóxicas)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[oil installations]]></f>
+    <b><![CDATA[la explotación petrolífera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[environmental education]]></f>
+    <b><![CDATA[la educación medioambiental]]></b>
+  </c>
+  <c>
+    <f><![CDATA[environmental assaults]]></f>
+    <b><![CDATA[las agresiones medioambientales ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black tide]]></f>
+    <b><![CDATA[la marea negra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[power saving]]></f>
+    <b><![CDATA[el ahorro energético]]></b>
+  </c>
+  <c>
+    <f><![CDATA[renewable energy]]></f>
+    <b><![CDATA[las energías renovables]]></b>
+  </c>
+  <c>
+    <f><![CDATA[recycling]]></f>
+    <b><![CDATA[el reciclaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toxic gas discharge]]></f>
+    <b><![CDATA[la emisión de gases tóxicos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Methods of discussion or debate]]></f>
+    <b><![CDATA[Formas de dialogar o debatir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to argue]]></f>
+    <b><![CDATA[argumentar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to think]]></f>
+    <b><![CDATA[opinar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to convince]]></f>
+    <b><![CDATA[convencer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to debate]]></f>
+    <b><![CDATA[debatir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to talk]]></f>
+    <b><![CDATA[conversar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to discuss]]></f>
+    <b><![CDATA[discutir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to affirm]]></f>
+    <b><![CDATA[afirmar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to justify]]></f>
+    <b><![CDATA[justificar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to persuade]]></f>
+    <b><![CDATA[persuadir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to decide]]></f>
+    <b><![CDATA[acordar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to refute]]></f>
+    <b><![CDATA[rebatir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to empathize]]></f>
+    <b><![CDATA[empatizar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to object]]></f>
+    <b><![CDATA[objetar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Humor]]></f>
+    <b><![CDATA[Humor ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[joke]]></f>
+    <b><![CDATA[el chiste]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ingenious]]></f>
+    <b><![CDATA[ingenioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comic]]></f>
+    <b><![CDATA[chistoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amusing]]></f>
+    <b><![CDATA[gracioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comedian]]></f>
+    <b><![CDATA[cómico ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amused]]></f>
+    <b><![CDATA[divertido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[witty]]></f>
+    <b><![CDATA[ocurrente ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[likeable]]></f>
+    <b><![CDATA[simpático ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[entertaining]]></f>
+    <b><![CDATA[entretenido ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[acute]]></f>
+    <b><![CDATA[agudo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[humorous]]></f>
+    <b><![CDATA[humorístico]]></b>
+  </c>
+</root>

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Is Maria there?]]></f>
+    <b><![CDATA[¿Está María?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, it's me]]></f>
+    <b><![CDATA[Sí, soy yo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Speaking (LAm)]]></f>
+    <b><![CDATA[Ella/el habla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello, it's Luis]]></f>
+    <b><![CDATA[Hola, soy Luis / habla Luis (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Would you like to go dancing?]]></f>
+    <b><![CDATA[¿Te gustaría ir a bailar?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you feel like going to the theatre?]]></f>
+    <b><![CDATA[¿Te apetece ir al teatro? (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[OK]]></f>
+    <b><![CDATA[Vale (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[All right]]></f>
+    <b><![CDATA[De acuerdo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Great!]]></f>
+    <b><![CDATA[¡Estupendo!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you got a single room?]]></f>
+    <b><![CDATA[¿Tiene una habitación individual?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you got a double room?]]></f>
+    <b><![CDATA[¿Tiene una habitación doble?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you got a twin room?]]></f>
+    <b><![CDATA[¿Tiene una habitación con dos camas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[With a bath or a shower?]]></f>
+    <b><![CDATA[¿Con baño o con ducha?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'd like to make a reservation]]></f>
+    <b><![CDATA[Quería hacer una reserva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For when?]]></f>
+    <b><![CDATA[¿Para cuándo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For what date?]]></f>
+    <b><![CDATA[¿Para qué fecha?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For the second of May]]></f>
+    <b><![CDATA[Para el dos de Mayo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For how many nights?]]></f>
+    <b><![CDATA[¿Para cuántas noches?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For three nights]]></f>
+    <b><![CDATA[Para tres noches]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There isn't any hot water]]></f>
+    <b><![CDATA[No sale agua caliente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The flush doesn't work]]></f>
+    <b><![CDATA[La cisterna no funciona]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The TV set is broken]]></f>
+    <b><![CDATA[El televisor está estropeado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The sheets are dirty]]></f>
+    <b><![CDATA[Las sábanas están sucias]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Would you mind fixing the tap?]]></f>
+    <b><![CDATA[¿Le importaría arreglar el grifo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you fix the flush?]]></f>
+    <b><![CDATA[¿Puede arreglar la cisterna?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Would you mind changing the radio?]]></f>
+    <b><![CDATA[¿Le importaría cambiar la radio?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you change the sheets?]]></f>
+    <b><![CDATA[¿Puede cambiar las sábanas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is there a direct train to Santiago?]]></f>
+    <b><![CDATA[¿Hay un tren directo para Santiago?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time does it leave?]]></f>
+    <b><![CDATA[¿A qué hora sale?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time does it arrive?]]></f>
+    <b><![CDATA[¿A qué hora llega?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How long does it take?]]></f>
+    <b><![CDATA[¿Cuánto tarda?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What platform does it leave from?]]></f>
+    <b><![CDATA[¿De qué andén sale?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What platform does it arrive at?]]></f>
+    <b><![CDATA[¿A qué andén llega?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[A ticket to Seville]]></f>
+    <b><![CDATA[Un billete para Sevilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Single or return?]]></f>
+    <b><![CDATA[¿(De) ida o (de) ida y vuelta?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[When for?]]></f>
+    <b><![CDATA[¿Para cuándo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For what date?]]></f>
+    <b><![CDATA[¿Para qué fecha?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[For 3 April]]></f>
+    <b><![CDATA[Para el tres de abril]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much are the peaches?]]></f>
+    <b><![CDATA[¿A cuánto están los melocotones?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[One seventy a kilo]]></f>
+    <b><![CDATA[A uno setenta el kilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much are the lemons?]]></f>
+    <b><![CDATA[¿Cuánto valen los limones?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[One twenty a kilo]]></f>
+    <b><![CDATA[Uno veinte el kilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much are the bananas?]]></f>
+    <b><![CDATA[¿Cuánto cuestan los plátanos?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[One thirty-five a kilo]]></f>
+    <b><![CDATA[Uno treinta y cinco el kilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much is a kilo of apples?]]></f>
+    <b><![CDATA[¿Cuánto es el kilo de manzanas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[One sixty a kilo]]></f>
+    <b><![CDATA[Uno sesenta el kilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much is this lettuce?]]></f>
+    <b><![CDATA[¿Cuánta cuesta esta lechuga?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Ninety cents]]></f>
+    <b><![CDATA[Noventa céntimos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What can I get you?]]></f>
+    <b><![CDATA[¿Qué le pongo / doy? ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can I have half a kilo of lamb]]></f>
+    <b><![CDATA[Me da medio kilo de cordero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can I have a quarter of beef]]></f>
+    <b><![CDATA[Me pone un cuarto de ternera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Anything else?]]></f>
+    <b><![CDATA[¿Algo más? / ¿Otra cosita?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[A hundred grams of cured ham]]></f>
+    <b><![CDATA[Cien gramos de jamón serrano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much does that come to, please?]]></f>
+    <b><![CDATA[¿Me dice cuánto es, por favor?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which do you prefer, Pereira or Valencia?]]></f>
+    <b><![CDATA[¿Qué prefieres, Pereira o Valencia?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I prefer Pereira]]></f>
+    <b><![CDATA[Prefiero Pereira]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which do you like best, Pereira or Valencia?]]></f>
+    <b><![CDATA[¿Qué te gusta más, Pereira o Valencia?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I like Pereira best]]></f>
+    <b><![CDATA[Me gusta más Pereira]]></b>
+  </c>
+</root>

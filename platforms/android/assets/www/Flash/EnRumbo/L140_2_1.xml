@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Health]]></f>
+    <b><![CDATA[La salud]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Remedies and medicines]]></f>
+    <b><![CDATA[Remedios y medicinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spa]]></f>
+    <b><![CDATA[el balneario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[massage]]></f>
+    <b><![CDATA[el masaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gymnasium]]></f>
+    <b><![CDATA[el gimnasio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swimming pool]]></f>
+    <b><![CDATA[la piscina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exercise]]></f>
+    <b><![CDATA[el ejercicio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[medicines]]></f>
+    <b><![CDATA[las medicinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[remedy]]></f>
+    <b><![CDATA[el remedio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[infusion]]></f>
+    <b><![CDATA[la infusión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grass]]></f>
+    <b><![CDATA[las hierbas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[treatment]]></f>
+    <b><![CDATA[el tratamiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pastilles]]></f>
+    <b><![CDATA[las pastillas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tablets]]></f>
+    <b><![CDATA[los comprimidos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[syrup]]></f>
+    <b><![CDATA[el jarabe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aspirins]]></f>
+    <b><![CDATA[las aspirinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to improve]]></f>
+    <b><![CDATA[mejorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cure or recover]]></f>
+    <b><![CDATA[curar(se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to prepare]]></f>
+    <b><![CDATA[preparar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to relax]]></f>
+    <b><![CDATA[relajar( se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rest]]></f>
+    <b><![CDATA[descansar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do sport]]></f>
+    <b><![CDATA[hacer deporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do exercise]]></f>
+    <b><![CDATA[hacer ejercicio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beneficial]]></f>
+    <b><![CDATA[beneficioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[injurious]]></f>
+    <b><![CDATA[nocivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relaxing]]></f>
+    <b><![CDATA[relajante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[alternative]]></f>
+    <b><![CDATA[alternativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traditional]]></f>
+    <b><![CDATA[tradicional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[conventional]]></f>
+    <b><![CDATA[convencional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[effective]]></f>
+    <b><![CDATA[efectivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[effective]]></f>
+    <b><![CDATA[eficaz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Diseases and discomforts]]></f>
+    <b><![CDATA[Enfermedades y molestias]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tension]]></f>
+    <b><![CDATA[la tensión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pain in the]]></f>
+    <b><![CDATA[el dolor de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fever]]></f>
+    <b><![CDATA[la fiebre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[influenza]]></f>
+    <b><![CDATA[la gripe / gripa (SpAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cold]]></f>
+    <b><![CDATA[el resfriado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(sea)sickness]]></f>
+    <b><![CDATA[el mareo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cough]]></f>
+    <b><![CDATA[la tos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hiccup]]></f>
+    <b><![CDATA[el hipo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the colic]]></f>
+    <b><![CDATA[el cólico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[digestion]]></f>
+    <b><![CDATA[la digestión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wound]]></f>
+    <b><![CDATA[la herida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have pain in]]></f>
+    <b><![CDATA[tener dolor de]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to hurt]]></f>
+    <b><![CDATA[doler]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The human body and its parts]]></f>
+    <b><![CDATA[El cuerpo humano y sus partes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[head]]></f>
+    <b><![CDATA[la cabeza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hair]]></f>
+    <b><![CDATA[el pelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[eyes]]></f>
+    <b><![CDATA[los ojos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ears]]></f>
+    <b><![CDATA[los oídos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ears]]></f>
+    <b><![CDATA[las orejas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nose]]></f>
+    <b><![CDATA[la nariz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mouth]]></f>
+    <b><![CDATA[la boca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tongue]]></f>
+    <b><![CDATA[la lengua]]></b>
+  </c>
+  <c>
+    <f><![CDATA[teeth]]></f>
+    <b><![CDATA[los dientes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[teeth]]></f>
+    <b><![CDATA[las muelas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[throat]]></f>
+    <b><![CDATA[la garganta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[neck]]></f>
+    <b><![CDATA[el cuello]]></b>
+  </c>
+  <c>
+    <f><![CDATA[back]]></f>
+    <b><![CDATA[la espalda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bones]]></f>
+    <b><![CDATA[los huesos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[legs]]></f>
+    <b><![CDATA[las piernas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[arms]]></f>
+    <b><![CDATA[los brazos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hands]]></f>
+    <b><![CDATA[las manos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nails]]></f>
+    <b><![CDATA[las uñas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[feet]]></f>
+    <b><![CDATA[los pies]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skin]]></f>
+    <b><![CDATA[la piel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Ecology and environment]]></f>
+    <b><![CDATA[Ecología y medio ambiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rural tourism]]></f>
+    <b><![CDATA[el turismo rural]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hiking]]></f>
+    <b><![CDATA[el senderismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nature]]></f>
+    <b><![CDATA[la naturaleza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rules]]></f>
+    <b><![CDATA[las normas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mountains]]></f>
+    <b><![CDATA[las montañas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rivers]]></f>
+    <b><![CDATA[los ríos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[paths or ways]]></f>
+    <b><![CDATA[los caminos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[forests]]></f>
+    <b><![CDATA[los bosques]]></b>
+  </c>
+  <c>
+    <f><![CDATA[camping]]></f>
+    <b><![CDATA[el campamento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[snack]]></f>
+    <b><![CDATA[el tentempié]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bonfires]]></f>
+    <b><![CDATA[las hogueras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the wilderness]]></f>
+    <b><![CDATA[los desperdicios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rubbish]]></f>
+    <b><![CDATA[la basura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ecological park]]></f>
+    <b><![CDATA[el parque ecológico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[National Park]]></f>
+    <b><![CDATA[el Parque Nacional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Patrimony of Humanity]]></f>
+    <b><![CDATA[Patrimonio de la Humanidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flower]]></f>
+    <b><![CDATA[la flor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vegetable]]></f>
+    <b><![CDATA[la verdura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vegetable]]></f>
+    <b><![CDATA[la legumbre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glass]]></f>
+    <b><![CDATA[el vidrio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[paper]]></f>
+    <b><![CDATA[el papel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plastic]]></f>
+    <b><![CDATA[el plástico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aluminum]]></f>
+    <b><![CDATA[el aluminio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[metal]]></f>
+    <b><![CDATA[el metal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cardboard]]></f>
+    <b><![CDATA[el cartón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to qualify]]></f>
+    <b><![CDATA[habilitar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to recover]]></f>
+    <b><![CDATA[recuperar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to recover]]></f>
+    <b><![CDATA[restaurar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to improve]]></f>
+    <b><![CDATA[mejorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rent]]></f>
+    <b><![CDATA[alquilar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to march or hike]]></f>
+    <b><![CDATA[ir de marcha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take care of]]></f>
+    <b><![CDATA[cuidar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to respect]]></f>
+    <b><![CDATA[respetar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to set fire]]></f>
+    <b><![CDATA[hacer fuego]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave]]></f>
+    <b><![CDATA[abandonar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to contaminate]]></f>
+    <b><![CDATA[contaminar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to recycle]]></f>
+    <b><![CDATA[reciclar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to reuse]]></f>
+    <b><![CDATA[reusar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to reduce]]></f>
+    <b><![CDATA[reducir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Amounts]]></f>
+    <b><![CDATA[Cantidades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a little (of)]]></f>
+    <b><![CDATA[un poco (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[two drops (of)]]></f>
+    <b><![CDATA[dos gotas (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[just a little bit (of)]]></f>
+    <b><![CDATA[un poquito (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a pinch (of)]]></f>
+    <b><![CDATA[una pizca (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[half (of)]]></f>
+    <b><![CDATA[la mitad (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the fourth part (of)]]></f>
+    <b><![CDATA[la cuarta parte (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a few]]></f>
+    <b><![CDATA[unos cuantos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to exceed]]></f>
+    <b><![CDATA[sobrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lack]]></f>
+    <b><![CDATA[faltar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[very relaxing]]></f>
+    <b><![CDATA[superrelajante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[superboring]]></f>
+    <b><![CDATA[superaburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supergood]]></f>
+    <b><![CDATA[superbueno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[False friends]]></f>
+    <b><![CDATA[Falsos amigos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[present]]></f>
+    <b><![CDATA[actual]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sensitive]]></f>
+    <b><![CDATA[sensible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bookshop]]></f>
+    <b><![CDATA[librería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a cold]]></f>
+    <b><![CDATA[estar constipado]]></b>
+  </c>
+</root>

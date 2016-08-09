@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[What's your house like?]]></f>
+    <b><![CDATA[¿Cómo es su/tu casa?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's a bunglaow/single storey house]]></f>
+    <b><![CDATA[Es un chalet de un piso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It has three bedrooms]]></f>
+    <b><![CDATA[Tiene tres dormitorios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It has two bathrooms]]></f>
+    <b><![CDATA[Tiene dos baños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There's a bathroom here and a kitchen opposite]]></f>
+    <b><![CDATA[Aquí tenemos un cuarto de baño, y enfrente tenemos una cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[This is a lounge-diner]]></f>
+    <b><![CDATA[Este es un salón-comedor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There's a living room at the end]]></f>
+    <b><![CDATA[Al fondo hay una sala]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How dark!]]></f>
+    <b><![CDATA[¡Qué oscuro!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How spacious!]]></f>
+    <b><![CDATA[¡Qué amplia!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How lively!]]></f>
+    <b><![CDATA[¡Qué alegre!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How comfortable!]]></f>
+    <b><![CDATA[¡Qué cómodo!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How pretty!]]></f>
+    <b><![CDATA[¡Qué bonita!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There is a window at the end]]></f>
+    <b><![CDATA[Al fondo hay una ventana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[In front of the window]]></f>
+    <b><![CDATA[Delante de la ventana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Behind the sofa]]></f>
+    <b><![CDATA[Detrás del sofá]]></b>
+  </c>
+  <c>
+    <f><![CDATA[In the middle of the room]]></f>
+    <b><![CDATA[En medio de la habitación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Above the pictures]]></f>
+    <b><![CDATA[Encima de los cuadros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Beneath the pictures]]></f>
+    <b><![CDATA[Debajo de los cuadros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you like the bridge?]]></f>
+    <b><![CDATA[¿Le/te gusta el puente?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[No, I don't like it at all]]></f>
+    <b><![CDATA[No, no me gusta nada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I (do) like it]]></f>
+    <b><![CDATA[Sí, sí me gusta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I like it a lot, very much]]></f>
+    <b><![CDATA[Me gusta mucho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I really like it a lot]]></f>
+    <b><![CDATA[Me gusta muchísimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Are you interested in politics?]]></f>
+    <b><![CDATA[¿Le/te interesa la política?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I am interested]]></f>
+    <b><![CDATA[Sí, me interesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[No, it doesn't interest me]]></f>
+    <b><![CDATA[No, no me interesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do taxes bother you?]]></f>
+    <b><![CDATA[¿Le/te molestan los impuestos?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, taxes bother me]]></f>
+    <b><![CDATA[Sí, me molestan]]></b>
+  </c>
+  <c>
+    <f><![CDATA[No, they don't bother me]]></f>
+    <b><![CDATA[No, no me molestan]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you like dogs?]]></f>
+    <b><![CDATA[¿Le/te gustan los perros?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, I like them]]></f>
+    <b><![CDATA[Sí, me gustan]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I love dogs]]></f>
+    <b><![CDATA[Me encantan los perros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What is this building?]]></f>
+    <b><![CDATA[¿Qué es este edificio?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's an old building]]></f>
+    <b><![CDATA[Es un edificio antiguo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's a palace]]></f>
+    <b><![CDATA[Es un palacio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What period is it?]]></f>
+    <b><![CDATA[¿De qué época es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's 18th century]]></f>
+    <b><![CDATA[Es del siglo XVIII]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It was built in 1909]]></f>
+    <b><![CDATA[Es de 1909]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What style is it?]]></f>
+    <b><![CDATA[¿De qué estilo es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's Art Nouveau]]></f>
+    <b><![CDATA[Es de estilo Art Nouveau]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who was the architect?]]></f>
+    <b><![CDATA[¿De qué arquitecto es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's by Vicente Ferrer]]></f>
+    <b><![CDATA[Es de Vicente Ferrer]]></b>
+  </c>
+</root>

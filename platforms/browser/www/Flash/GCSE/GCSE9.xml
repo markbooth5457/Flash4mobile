@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[tree]]></f>
+<b><![CDATA[el árbol]]></b>
+</c><c>
+<f><![CDATA[stream]]></f>
+<b><![CDATA[el arroyo]]></b>
+</c><c>
+<f><![CDATA[wood, forest]]></f>
+<b><![CDATA[el bosque]]></b>
+</c><c>
+<f><![CDATA[path]]></f>
+<b><![CDATA[el camino]]></b>
+</c><c>
+<f><![CDATA[peasant]]></f>
+<b><![CDATA[el campesino]]></b>
+</c><c>
+<f><![CDATA[countryside, field]]></f>
+<b><![CDATA[el campo]]></b>
+</c><c>
+<f><![CDATA[road]]></f>
+<b><![CDATA[la carretera]]></b>
+</c><c>
+<f><![CDATA[sky]]></f>
+<b><![CDATA[el cielo]]></b>
+</c><c>
+<f><![CDATA[city, (large) town]]></f>
+<b><![CDATA[la ciudad]]></b>
+</c><c>
+<f><![CDATA[hill]]></f>
+<b><![CDATA[la colina]]></b>
+</c><c>
+<f><![CDATA[star]]></f>
+<b><![CDATA[la estrella]]></b>
+</c><c>
+<f><![CDATA[farm]]></f>
+<b><![CDATA[la granja]]></b>
+</c><c>
+<f><![CDATA[island]]></f>
+<b><![CDATA[la isla]]></b>
+</c><c>
+<f><![CDATA[lake]]></f>
+<b><![CDATA[el lago]]></b>
+</c><c>
+<f><![CDATA[moon]]></f>
+<b><![CDATA[la luna]]></b>
+</c><c>
+<f><![CDATA[sea]]></f>
+<b><![CDATA[el mar]]></b>
+</c><c>
+<f><![CDATA[mountain]]></f>
+<b><![CDATA[la montaña]]></b>
+</c><c>
+<f><![CDATA[country]]></f>
+<b><![CDATA[el país]]></b>
+</c><c>
+<f><![CDATA[countryside]]></f>
+<b><![CDATA[el paisaje]]></b>
+</c><c>
+<f><![CDATA[(small) town, village]]></f>
+<b><![CDATA[el pueblo]]></b>
+</c><c>
+<f><![CDATA[region]]></f>
+<b><![CDATA[la región]]></b>
+</c><c>
+<f><![CDATA[river]]></f>
+<b><![CDATA[el río]]></b>
+</c><c>
+<f><![CDATA[path]]></f>
+<b><![CDATA[el sendero]]></b>
+</c><c>
+<f><![CDATA[earth, land]]></f>
+<b><![CDATA[la tierra]]></b>
+</c><c>
+<f><![CDATA[world]]></f>
+<b><![CDATA[el mundo]]></b>
+</c><c>
+<f><![CDATA[animal]]></f>
+<b><![CDATA[el animal]]></b>
+</c><c>
+<f><![CDATA[donkey]]></f>
+<b><![CDATA[el burro]]></b>
+</c><c>
+<f><![CDATA[horse]]></f>
+<b><![CDATA[el caballo]]></b>
+</c><c>
+<f><![CDATA[pig]]></f>
+<b><![CDATA[el cerdo]]></b>
+</c><c>
+<f><![CDATA[hen]]></f>
+<b><![CDATA[la gallina]]></b>
+</c><c>
+<f><![CDATA[insect]]></f>
+<b><![CDATA[el insecto]]></b>
+</c><c>
+<f><![CDATA[sheep]]></f>
+<b><![CDATA[la oveja]]></b>
+</c><c>
+<f><![CDATA[bird]]></f>
+<b><![CDATA[el pájaro]]></b>
+</c><c>
+<f><![CDATA[rat]]></f>
+<b><![CDATA[la rata]]></b>
+</c><c>
+<f><![CDATA[mouse]]></f>
+<b><![CDATA[el ratón]]></b>
+</c><c>
+<f><![CDATA[bull]]></f>
+<b><![CDATA[el toro]]></b>
+</c><c>
+<f><![CDATA[cow]]></f>
+<b><![CDATA[la vaca]]></b>
+</c><c>
+<f><![CDATA[east]]></f>
+<b><![CDATA[el este]]></b>
+</c><c>
+<f><![CDATA[north-east]]></f>
+<b><![CDATA[el nordeste]]></b>
+</c><c>
+<f><![CDATA[north-west]]></f>
+<b><![CDATA[el noroeste]]></b>
+</c><c>
+<f><![CDATA[north]]></f>
+<b><![CDATA[el norte]]></b>
+</c><c>
+<f><![CDATA[west]]></f>
+<b><![CDATA[el oeste]]></b>
+</c><c>
+<f><![CDATA[south-east]]></f>
+<b><![CDATA[el sudeste]]></b>
+</c><c>
+<f><![CDATA[south]]></f>
+<b><![CDATA[el sur]]></b>
+</c><c>
+<f><![CDATA[south-east]]></f>
+<b><![CDATA[el suroeste]]></b>
+</c><c>
+<f><![CDATA[good weather]]></f>
+<b><![CDATA[el buen tiempo]]></b>
+</c><c>
+<f><![CDATA[heat]]></f>
+<b><![CDATA[el calor]]></b>
+</c><c>
+<f><![CDATA[shower]]></f>
+<b><![CDATA[el chubasco]]></b>
+</c><c>
+<f><![CDATA[sky]]></f>
+<b><![CDATA[el cielo]]></b>
+</c><c>
+<f><![CDATA[climate]]></f>
+<b><![CDATA[el clima]]></b>
+</c><c>
+<f><![CDATA[frost]]></f>
+<b><![CDATA[la escarcha]]></b>
+</c><c>
+<f><![CDATA[season]]></f>
+<b><![CDATA[la estación del año]]></b>
+</c><c>
+<f><![CDATA[degree]]></f>
+<b><![CDATA[el grado]]></b>
+</c><c>
+<f><![CDATA[ice]]></f>
+<b><![CDATA[el hielo]]></b>
+</c><c>
+<f><![CDATA[rain]]></f>
+<b><![CDATA[la lluvia]]></b>
+</c><c>
+<f><![CDATA[bad weather]]></f>
+<b><![CDATA[el mal tiempo]]></b>
+</c><c>
+<f><![CDATA[fog]]></f>
+<b><![CDATA[la neblina]]></b>
+</c><c>
+<f><![CDATA[mist]]></f>
+<b><![CDATA[la niebla]]></b>
+</c><c>
+<f><![CDATA[snow]]></f>
+<b><![CDATA[la nieve]]></b>
+</c><c>
+<f><![CDATA[cloud]]></f>
+<b><![CDATA[la nube]]></b>
+</c><c>
+<f><![CDATA[cloudiness]]></f>
+<b><![CDATA[la nubosidad]]></b>
+</c><c>
+<f><![CDATA[weather forecast]]></f>
+<b><![CDATA[el pronóstico del tiempo]]></b>
+</c><c>
+<f><![CDATA[lightning]]></f>
+<b><![CDATA[el relámpago]]></b>
+</c><c>
+<f><![CDATA[sun]]></f>
+<b><![CDATA[el sol]]></b>
+</c><c>
+<f><![CDATA[temperature]]></f>
+<b><![CDATA[la temperatura]]></b>
+</c><c>
+<f><![CDATA[storm]]></f>
+<b><![CDATA[la tempestad]]></b>
+</c><c>
+<f><![CDATA[weather]]></f>
+<b><![CDATA[el tiempo]]></b>
+</c><c>
+<f><![CDATA[storm]]></f>
+<b><![CDATA[la tormenta]]></b>
+</c><c>
+<f><![CDATA[thunder]]></f>
+<b><![CDATA[el trueno]]></b>
+</c><c>
+<f><![CDATA[wind]]></f>
+<b><![CDATA[el viento]]></b>
+</c><c>
+<f><![CDATA[the weather is nice]]></f>
+<b><![CDATA[hace buen tiempo]]></b>
+</c><c>
+<f><![CDATA[the weather is cool]]></f>
+<b><![CDATA[hace fresco]]></b>
+</c><c>
+<f><![CDATA[the weather is bad]]></f>
+<b><![CDATA[hace mal tiempo]]></b>
+</c><c>
+<f><![CDATA[the weather is sunny]]></f>
+<b><![CDATA[hace sol]]></b>
+</c><c>
+<f><![CDATA[the weather is windy]]></f>
+<b><![CDATA[hace viento]]></b>
+</c><c>
+<f><![CDATA[the weather is hot]]></f>
+<b><![CDATA[hace calor]]></b>
+</c><c>
+<f><![CDATA[the weather is cold]]></f>
+<b><![CDATA[hace frío]]></b>
+</c><c>
+<f><![CDATA[pavement]]></f>
+<b><![CDATA[la acera]]></b>
+</c><c>
+<f><![CDATA[bench]]></f>
+<b><![CDATA[el banco]]></b>
+</c><c>
+<f><![CDATA[post box]]></f>
+<b><![CDATA[el buzón]]></b>
+</c><c>
+<f><![CDATA[phone box]]></f>
+<b><![CDATA[la cabina telefónica]]></b>
+</c><c>
+<f><![CDATA[street]]></f>
+<b><![CDATA[la calle]]></b>
+</c><c>
+<f><![CDATA[ID card]]></f>
+<b><![CDATA[el carnet de identidad]]></b>
+</c><c>
+<f><![CDATA[poster]]></f>
+<b><![CDATA[el cartel]]></b>
+</c><c>
+<f><![CDATA[traffic]]></f>
+<b><![CDATA[la circulación]]></b>
+</c><c>
+<f><![CDATA[queue]]></f>
+<b><![CDATA[la cola]]></b>
+</c><c>
+<f><![CDATA[crossroads, junction]]></f>
+<b><![CDATA[Ia cruce]]></b>
+</c><c>
+<f><![CDATA[traffic jam]]></f>
+<b><![CDATA[el embotellamiento]]></b>
+</c><c>
+<f><![CDATA[comer]]></f>
+<b><![CDATA[la esquina]]></b>
+</c><c>
+<f><![CDATA[tobacconist's]]></f>
+<b><![CDATA[el estanco]]></b>
+</c><c>
+<f><![CDATA[sign]]></f>
+<b><![CDATA[el letrero]]></b>
+</c><c>
+<f><![CDATA[monument]]></f>
+<b><![CDATA[el monumento]]></b>
+</c><c>
+<f><![CDATA[bus stop]]></f>
+<b><![CDATA[la parada de autobuses]]></b>
+</c><c>
+<f><![CDATA[level crossing]]></f>
+<b><![CDATA[el paso a nivel]]></b>
+</c><c>
+<f><![CDATA[pedestrian crossing]]></f>
+<b><![CDATA[el paso de peatones]]></b>
+</c><c>
+<f><![CDATA[pedestrian]]></f>
+<b><![CDATA[el peatón]]></b>
+</c><c>
+<f><![CDATA[no entry]]></f>
+<b><![CDATA[prohibido el paso]]></b>
+</c><c>
+<f><![CDATA[kiosk]]></f>
+<b><![CDATA[el quiosco]]></b>
+</c><c>
+<f><![CDATA[noise]]></f>
+<b><![CDATA[el ruido]]></b>
+</c><c>
+<f><![CDATA[traffic light]]></f>
+<b><![CDATA[el semáforo]]></b>
+</c><c>
+<f><![CDATA[one-way]]></f>
+<b><![CDATA[senso único]]></b>
+</c><c>
+<f><![CDATA[tower]]></f>
+<b><![CDATA[la torre]]></b>
+</c><c>
+<f><![CDATA[traffic]]></f>
+<b><![CDATA[el tráfico]]></b>
+</c><c>
+<f><![CDATA[outskirts]]></f>
+<b><![CDATA[las afueras]]></b>
+</c><c>
+<f><![CDATA[mayor]]></f>
+<b><![CDATA[el alcalde]]></b>
+</c><c>
+<f><![CDATA[outskirts]]></f>
+<b><![CDATA[los alrededores]]></b>
+</c><c>
+<f><![CDATA[car park]]></f>
+<b><![CDATA[el aparcamiento]]></b>
+</c><c>
+<f><![CDATA[flat]]></f>
+<b><![CDATA[el apartamento]]></b>
+</c><c>
+<f><![CDATA[avenue]]></f>
+<b><![CDATA[la avenida]]></b>
+</c><c>
+<f><![CDATA[town hall]]></f>
+<b><![CDATA[el ayuntamiento]]></b>
+</c><c>
+<f><![CDATA[bank]]></f>
+<b><![CDATA[el banco]]></b>
+</c><c>
+<f><![CDATA[bar]]></f>
+<b><![CDATA[el bar]]></b>
+</c><c>
+<f><![CDATA[district]]></f>
+<b><![CDATA[el barrio]]></b>
+</c><c>
+<f><![CDATA[capital]]></f>
+<b><![CDATA[la capital]]></b>
+</c><c>
+<f><![CDATA[centre]]></f>
+<b><![CDATA[el centro]]></b>
+</c><c>
+<f><![CDATA[city]]></f>
+<b><![CDATA[la ciudad]]></b>
+</c><c>
+<f><![CDATA[building]]></f>
+<b><![CDATA[el edificio]]></b>
+</c><c>
+<f><![CDATA[statue]]></f>
+<b><![CDATA[la estatua]]></b>
+</c><c>
+<f><![CDATA[fountain]]></f>
+<b><![CDATA[la fuente]]></b>
+</c><c>
+<f><![CDATA[park]]></f>
+<b><![CDATA[el parque]]></b>
+</c><c>
+<f><![CDATA[playground]]></f>
+<b><![CDATA[el parque infantil]]></b>
+</c><c>
+<f><![CDATA[town map]]></f>
+<b><![CDATA[el plano]]></b>
+</c><c>
+<f><![CDATA[main square]]></f>
+<b><![CDATA[la plaza mayor]]></b>
+</c><c>
+<f><![CDATA[swimming pool]]></f>
+<b><![CDATA[la piscina]]></b>
+</c><c>
+<f><![CDATA[flat]]></f>
+<b><![CDATA[el piso]]></b>
+</c><c>
+<f><![CDATA[population]]></f>
+<b><![CDATA[la población]]></b>
+</c><c>
+<f><![CDATA[town]]></f>
+<b><![CDATA[el pueblo]]></b>
+</c><c>
+<f><![CDATA[bridge]]></f>
+<b><![CDATA[el puente]]></b>
+</c><c>
+<f><![CDATA[tower]]></f>
+<b><![CDATA[la torre]]></b>
+</c><c>
+<f><![CDATA[youth hostel]]></f>
+<b><![CDATA[el albergue juvenil]]></b>
+</c><c>
+<f><![CDATA[library]]></f>
+<b><![CDATA[la biblioteca]]></b>
+</c><c>
+<f><![CDATA[block of flats]]></f>
+<b><![CDATA[el bloque de pisos]]></b>
+</c><c>
+<f><![CDATA[castle]]></f>
+<b><![CDATA[el castillo]]></b>
+</c><c>
+<f><![CDATA[cathedral]]></f>
+<b><![CDATA[la catedral]]></b>
+</c><c>
+<f><![CDATA[shopping centre]]></f>
+<b><![CDATA[el centro comercial]]></b>
+</c><c>
+<f><![CDATA[sports centre]]></f>
+<b><![CDATA[el centro de deportes]]></b>
+</c><c>
+<f><![CDATA[cinema]]></f>
+<b><![CDATA[el cine]]></b>
+</c><c>
+<f><![CDATA[police station]]></f>
+<b><![CDATA[la comisaría]]></b>
+</c><c>
+<f><![CDATA[post offíce]]></f>
+<b><![CDATA[el correos]]></b>
+</c><c>
+<f><![CDATA[bus station]]></f>
+<b><![CDATA[la estación de autobuses]]></b>
+</c><c>
+<f><![CDATA[hospital]]></f>
+<b><![CDATA[el hospital]]></b>
+</c><c>
+<f><![CDATA[church]]></f>
+<b><![CDATA[la iglesia]]></b>
+</c><c>
+<f><![CDATA[museum]]></f>
+<b><![CDATA[el museo]]></b>
+</c><c>
+<f><![CDATA[lost property office]]></f>
+<b><![CDATA[la oficina de objetos perdidos]]></b>
+</c><c>
+<f><![CDATA[tourist office]]></f>
+<b><![CDATA[la oficina de turismo]]></b>
+</c><c>
+<f><![CDATA[bullring]]></f>
+<b><![CDATA[la plaza de toros]]></b>
+</c><c>
+<f><![CDATA[sports centre]]></f>
+<b><![CDATA[el polideportivo]]></b>
+</c><c>
+<f><![CDATA[theatre]]></f>
+<b><![CDATA[el teatro]]></b>
+</c><c>
+<f><![CDATA[to murder]]></f>
+<b><![CDATA[asesinar]]></b>
+</c><c>
+<f><![CDATA[to attack]]></f>
+<b><![CDATA[atacar]]></b>
+</c><c>
+<f><![CDATA[to run over]]></f>
+<b><![CDATA[atropellar]]></b>
+</c><c>
+<f><![CDATA[to collide (with)]]></f>
+<b><![CDATA[chocar (con)]]></b>
+</c><c>
+<f><![CDATA[to commit]]></f>
+<b><![CDATA[cometer]]></b>
+</c><c>
+<f><![CDATA[to cross]]></f>
+<b><![CDATA[cruzar]]></b>
+</c><c>
+<f><![CDATA[to disappear]]></f>
+<b><![CDATA[desaparecer]]></b>
+</c><c>
+<f><![CDATA[to describe]]></f>
+<b><![CDATA[describir]]></b>
+</c><c>
+<f><![CDATA[to hit]]></f>
+<b><![CDATA[golpear]]></b>
+</c><c>
+<f><![CDATA[to shout]]></f>
+<b><![CDATA[gritar]]></b>
+</c><c>
+<f><![CDATA[to get injured]]></f>
+<b><![CDATA[herirse]]></b>
+</c><c>
+<f><![CDATA[to happen]]></f>
+<b><![CDATA[ocurrir]]></b>
+</c><c>
+<f><![CDATA[to stop]]></f>
+<b><![CDATA[parar]]></b>
+</c><c>
+<f><![CDATA[to hit]]></f>
+<b><![CDATA[pegar]]></b>
+</c><c>
+<f><![CDATA[to rescue]]></f>
+<b><![CDATA[rescatar]]></b>
+</c><c>
+<f><![CDATA[to steal]]></f>
+<b><![CDATA[robar]]></b>
+</c><c>
+<f><![CDATA[to break]]></f>
+<b><![CDATA[romperse]]></b>
+</c><c>
+<f><![CDATA[to save]]></f>
+<b><![CDATA[salvar]]></b>
+</c><c>
+<f><![CDATA[to kidnap]]></f>
+<b><![CDATA[secuestrar]]></b>
+</c><c>
+<f><![CDATA[to happen]]></f>
+<b><![CDATA[suceder]]></b>
+</c></root>

@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+  <head>
+    <title>Pelmanism</title>
+    <meta http-equiv="content-type" content="text/html"/>
+    <style type="text/css">
+        body{font: 12px/1.4 Verdana,Arial,sans-serif;
+            text-align: center;background: #FFF}
+        p{margin:0;padding: 5px 10px 10px}
+        table{text-align: left;margin:0 auto; padding: 0px; border-width: 0px}
+        tr{margin:0 0 0 0;padding: 0px; border-width: 0px}
+        td{margin:0 0 0 0;padding: 0px; border-width: 0px;font-size:90%}
+        div{margin:0 auto; padding: 0px; border-width: 0px}
+        div#container{width:90%;height:640px;min-width:550px;max-width: 1000px;text-align: left;margin: 0 auto}
+        div#header{margin-bottom: 10px;background-color: #FFF499;color: #C39876}
+        h1{margin:0;padding: 0 10px}
+        div#content-container{float:left;  width:70%; background: #E0EBEB; text-align: center;}
+        div#content{position:relative;min-height: 440px;height: 440px;background: #E0EBEB;font-size:100%; text-align: center;}
+        div#menu,div#links,div#footer{float:right;width:28%;font-size:75%}
+        div#menu{background: #F7E1AB}
+        div#links{clear: right;margin-top: 10px;background: #DBE89A}
+        div#footer{margin:20px 0;padding: 4px 0;background: #BBBAC1}
+        div#footer p{padding: 0 10px}
+        div#help{margin: 0px 20px 0px 20px;float:left;clear:both;display: none}
+        .demo  {color:#000033; background-color:#cccccc; clear:both;z-index:99; visibility:hidden;}
+        div{padding: 5px 0}
+    </style>
+
+    <script type="text/javascript" src="domCorners.js"></script>
+
+    <script type="text/javascript" src="flashcards.js"></script>
+
+    <script type="text/javascript" src="XMLReqObj.js"></script>
+
+    <script type="text/javascript">
+        if(DomCheck())
+        {
+            DomCorners("header","transparent.gif",5);
+            DomCorners("content-container","transparent.gif",5);
+            DomCorners("menu","transparent.gif",5);
+            DomCorners("links","transparent.gif",5);
+            DomCorners("footer","small.gif",2);
+        }
+        
+        // global variables
+        var deck = new CardDeck(); 		
+        var seeit = false;
+        var cardBack = new Image();
+        var descriptions = new Array();
+        var topicItems = new Array();
+        var cardsDisplayed = new Array();
+        var cells = new Array(); // to hold html in table cells
+        var partners = new Array(); // to hold the other member of a pair
+        var bound = 0;
+        var lastCard = -1;
+        var pairCount = 8;  // half the number of cards on display
+        var matchCount = 0;
+        
+        function setup()
+        {
+            
+            var loadTopics = new XMLReqObj("topics.xml",buildTopicList);
+            cardBack.src = "Quixot.jpg";
+            if (document.getElementsByTagName)
+            {
+                 var anchors = document.getElementsByTagName("a");
+                 for (var i=0; i<anchors.length; i++) {
+                    var anchor = anchors[i];
+                    if (anchor.getAttribute("href") && anchor.getAttribute("rel") == "external")
+                    {
+                        anchor.target = "_blank";
+                        anchor.title += " opens in new page";
+                    }
+                 } 
+            }
+
+        }
+
+        // invoked by "topics" select element change;
+        // loads chosen XML document and calls buildDeckFromXML()
+        function loadDoc(evt) 
+        {
+            // equalize W3C/IE event models to get event object
+            evt = (evt) ? evt : ((window.event) ? window.event : null);
+            if (evt) 
+            {
+                // equalize W3C/IE models to get event target reference
+                var elem = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+                if (elem) 
+                {
+                    try 
+                    {
+                        if (elem.selectedIndex > 0) 
+                        {
+                            var file = elem.options[elem.selectedIndex].value;
+                            var loadDoc = new XMLReqObj(file,buildDeckFromXML);
+                            if(document.getElementById) //later browsers let us set inner html
+                            {
+                                document.getElementById("description").innerHTML = descriptions[file];
+                            }
+                        }	
+                    }
+                    catch(e) 
+                    {
+                        var msg = (typeof e == "string") ? e : ((e.message) ? e.message : "Unknown Error");
+                        alert("Unable to get XML data:\n" + msg);
+                        return false;
+                    }
+                }
+            }
+            
+        }
+        
+        // add cards to the deck with items from the current XML document
+        // setup the screen with the backs of cards showing
+        // then call pickCards() to select the fronts of the cards
+        function buildDeckFromXML(xml) 
+        {
+            var items = xml.getElementsByTagName("c");
+            // loop through <c> elements, and add a card to the deck
+            // using the <f> and <b> elements
+            deck = new CardDeck();
+            for (var i = 0; i < items.length; i++) 
+            {
+                var front = getElementTextNS("", "f", items[i], 0);
+                var back = getElementTextNS("", "b", items[i], 0);
+                deck.addCard(front,back);
+            }
+            pickCards();
+        }
+        
+        function setBack(entry)
+        {
+            cells[entry].innerHTML = "<image id= 'img"+entry
+                            +"' language='javascript' onmousedown = 'changeCard(event); return false;'" 
+                            +"/>";
+            document.getElementById("img"+entry).src=cardBack.src;
+        }
+        
+        // as long as there are enough cards left in the deck
+        // pick the last pairCount (8) cards and shorten the deck
+        // randomly assign the 2* pairCount (16) display cards with the fronts/backs of the cards chosen
+        function pickCards()
+        {
+        
+            if (bound < pairCount-1 && deck)
+            {
+                bound = deck.cards.length;
+                deck.shuffle();
+            }
+            bound -= pairCount;
+            partners = new Array();
+            lastCard = -1;
+            matchCount = 0;
+            if(bound>=0)
+            {
+                // set backs up
+                document.getElementById("content").innerHTML = "<table id='show' style='text-align:center;'></table>";
+                var table = document.getElementById('show');
+                var row;
+                var entry;
+                var width = Math.round(Math.sqrt(pairCount*2));
+                var height = (2*pairCount)/width;
+                for(var i=0; i<height; i++)
+                {
+                    row = table.insertRow(0);
+                    for(var j=0; j<width; j++)
+                    {
+                        entry = i+width*j;
+                        cells[entry] = row.insertCell(j);
+                        setBack(entry); // show back of card at this point
+                    }
+                }
+                // set random card order
+                var tmp;
+                var indexArray = new Array();
+                for (var i = 0; i < 2*pairCount; i++)
+                {
+                    indexArray[i] = i; // {0,1,2,3...}
+                }
+                for (var i = indexArray.length - 1; i > 0; i--)
+                {
+                  var r = Math.floor(Math.random()*i);
+                  tmp = indexArray[i];
+                  indexArray[i] = indexArray[r];
+                  indexArray[r] = tmp;
+                }
+                var j = 0;
+                for(var i = 0 ; i < pairCount ; i++) 
+                {
+                    cardsDisplayed[indexArray[j]] = deck.cards[bound+i].frontText;
+                    cardsDisplayed[indexArray[j+1]] = deck.cards[bound+i].backText;
+                    // partners holds the corresponding index for the other side of the card
+                    partners[indexArray[j]] = indexArray[j+1];
+                    partners[indexArray[j+1]] = indexArray[j];
+                    j += 2;
+                }
+            }
+        }
+        // when a card is clicked, work out which card it is and turn it over
+        // if this is the second card of a pair, check whether the other card matches
+        // if it matches, leave them both showing
+        // if not, turn the first card back down and leave this second as the first of a new pair
+        function changeCard(evt)
+        {
+            // equalize W3C/IE event models to get event object
+            evt = (evt) ? evt : ((window.event) ? window.event : null);
+            if (evt) 
+            {
+                // equalize W3C/IE models to get event target reference
+                var elem = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+                if (elem) 
+                {
+                    try 
+                    {
+                        // show card face
+                        var elemId = elem.id;
+                        var entry = parseInt(elemId.substr(3,elemId.length),10); // drop the "img" off the front
+                        if(document.getElementById) //later browsers let us set inner html
+                        {
+                            cells[entry].innerHTML = "<div style='width:117px;max-width:117px; "
+                                                        +"height:96px;max-height:96px'>"
+                                                        +cardsDisplayed[entry]
+                                                        +"</div>";
+                        }
+                        if (lastCard == -1)
+                        {
+                            lastCard = entry;
+                        }
+                        else // if this is the second of a pair...
+                        {
+                            // check if we have a match
+                            if(lastCard == partners[entry])
+                            { // yes - leave them both turned and unset last card
+                                lastCard = -1;
+                                matchCount++;
+                                // if all pairs matched...
+                                if (matchCount == pairCount)
+                                {
+                                    
+                                }
+                            }
+                            else
+                            { //no match - set this card as last one and flip last one back over
+                                setBack(lastCard);
+                                lastCard = entry; 
+                            }
+                        }
+                    }
+                    catch(e) 
+                    {
+                        var msg = (typeof e == "string") ? e : ((e.message) ? e.message : "Unknown Error");
+                        alert("Unable to get XML data:\n" + msg);
+                        return false;
+                    }
+                }
+            }
+            return false;
+        }
+        
+        // fill Topics select list with items from
+        // the XML topics document
+        function buildTopicList(xml) {
+            var topicSelect = document.getElementById("topics");
+            var topics = xml.getElementsByTagName("topic"); 
+            
+            var topicName;
+            var file;
+            var title;
+            
+            // loop through <topics> elements, adding them to the topics select element with entry the <topicname>
+            // and add each nested <item> element to an array for later populating the items select element
+            for (var i = 0; i < topics.length; i++) {
+                // within each topic, save the <item>s in an associative array on <topicname>
+                topicName = getElementTextNS("", "topicname", topics[i], 0);
+                
+                appendToSelect(topicSelect, topicName, document.createTextNode(topicName) );
+                descriptions[topicName] = new Array();
+                topicItems[topicName] = new Array();
+                var items = topics[i].getElementsByTagName("item");
+                for (var j = 0; j < items.length; j++)
+                {
+                    file = getElementTextNS("", "file", items[j], 0);
+                    title = getElementTextNS("", "title", items[j], 0);
+                    
+                    var entry = new Array();
+                    entry["file"] = file;
+                    entry["title"] = document.createTextNode(title);
+                    topicItems[topicName][j] = entry;
+                    descriptions[file] = getElementTextNS("", "descr", items[j], 0);
+                }
+            }
+        }
+        
+        // empty select list content
+        function clearList(select) {
+            while (select.length > 0) {
+                select.remove(0);
+            }
+        }
+        
+        //set up the second select box with the files in this topic
+        function Select1_onchange() 
+        {
+            var topicSelect = document.getElementById("topics");
+            var itemSelect = document.getElementById("items");
+            var topic = topicSelect.options[topicSelect.selectedIndex].value;
+            setItems(itemSelect, topic);
+        }
+
+        // add item to select element 
+        function appendToSelect(select, value, content) 
+        {
+            var opt;
+            opt = document.createElement("option");
+            opt.value = value;
+            opt.appendChild(content);
+            select.appendChild(opt);
+        }
+
+        // fill items select list from array topicItems
+        function setItems(select, topicName)
+        {
+            clearList(select);
+            appendToSelect(select,"",document.createTextNode("now a section..."));
+            for (var i = 0; i < topicItems[topicName].length; i++)
+            {
+                var value = topicItems[topicName][i]["file"];
+                var content = topicItems[topicName][i]["title"];
+                appendToSelect(select, value,content );
+            }
+
+        }
+
+        
+        function flipme( id )
+        {
+            seeit = seeit ? false : true;
+            toggleBox(id, seeit);
+        }
+        // pinched from http://www.geocities.com/technofundo/tech/js/showhide.html
+        function toggleBox(szDivID, iState) // 1 visible, 0 hidden
+        {
+            if(document.layers)	   //NN4+
+            {
+               document.layers[szDivID].visibility = iState ? "show" : "hide";
+            }
+            else if(document.getElementById)	  //gecko(NN6) + IE 5+
+            {
+                var obj = document.getElementById(szDivID);
+                obj.style.visibility = iState ? "visible" : "hidden";
+            }
+            else if(document.all)	// IE 4
+            {
+                document.all[szDivID].style.visibility = iState ? "visible" : "hidden";
+            }
+            location.hash = seeit ? '#help' : '#top';
+        }
+
+        function FlagButton_onclick() 
+        {
+            pickCards();
+        }
+
+    </script>
+
+</head>
+<body onload="setup();">
+    <div id="container">
+        <a name='top' />
+        <div id="header">
+            <h1>
+                Pelmanism</h1>
+        </div>
+        <div id="content-container"  >
+            
+            <div id="content" style="text-align: center;">
+                
+                <br />
+                <br />
+                Load cards by choosing a topic...<br />
+                <br />
+                <br />
+            </div>
+        </div>
+        <div id="menu" style="text-align: center">
+            <p>
+                <select id="topics" style="width: 85%" language="javascript" onchange="return Select1_onchange()">
+                    <option selected="selected">Choose a topic...</option>
+                </select></p>
+            <p><select id="items" style="width: 85%" language="javascript" 
+                onchange="loadDoc(event); self.focus();" onfocus="options[0].selected = true; return false;" >
+                <OPTION VALUE="empty option for focus"></OPTION> 
+                <option selected="selected">then a section...</option>
+            </select></p>
+            <div id = "description">
+                This site uses Javascript, and needs a modern browser
+            </div>
+            <a href="VerbReview.html" title="sibling page" rel="external">Verb Review</a><br />
+            <a href="Hangman.htm">Hangman</a><br />
+            <a href="Index.html">Flash Cards</a><br />
+            <a href="javascript:flipme('helpme');" title="Show/hide help">Help </a>
+        </div>
+        <div id="links">
+            <p>
+                Site construction by Mark Booth, nmb2 at tutor dot open dot ac dot uk</p>
+            <p>
+                Page design based on work by <a href="http://web-graphics.com/mtarchive/001660.php">Alessandro Fulciniti</a></p>
+        </div>
+        <div id="footer">
+            <p style="text-align: center;">
+                &nbsp;&nbsp;
+            </p>
+            <p style="text-align: center;">
+                <br />
+                <input id="FlagButton" type="button" value="New Deal" language="javascript"
+                    onclick="return FlagButton_onclick()" />
+            </p>
+        </div>
+        <br />
+        <div id="helpme" class="demo">
+            <a name='help' />
+            <h3>About Pelmanism</h3>
+            <a href="javascript:flipme('helpme');" title="Hide help"><span style="font-size: 8pt">
+                [Hide Help]</span></a>
+            <p>
+                The game should be familiar to most people. The pictures you see above, when you
+                have loaded a deck, represent
+                the backs of cards. Cards are in pairs that you have to match. One of the pair will
+                be in English and the other in Spanish. By clicking on a card you turn it over.
+                You can turn two cards over at a time, and if they match they will stay turned over.
+                If they don't match, the first one will be turned back down again when you click
+                on another card. The objective is simply to match all of the pairs.</p>
+            <h3>Usage</h3>
+            <p>
+                First of all use the drop down control to select a set of cards to work with. Then
+                click on a pair of cards and they will be turned over. If the second card matches
+                the first, then they will stay turned over. Otherwise the first card will be turned
+                back down and you will have to choose another card to match the one showing.</p>
+            <p>
+                As you pair the cards up you will eventually get them all turned up. At this stage
+                (or before if you are fed up with the choice of cards) you can press the New Deal
+                button and a new set of cards will be chosen and distributed. When you are happy
+                that you can handle the current deck, or at any time you like, you can change the
+                set of cards using the drop down selectors.</p>
+            <p>
+                The cards are held in files on the web server, see below for building and submitting
+                your own files of cards so that you can share them with other people</p>
+            <p>
+                A typical pack of cards will hold English words or phrases on one card and the
+                Spanish equivalent on the other.</p>
+            <p>
+                I apologise unreservedly to anyone who finds the size of the text to be too small
+                for comfort. I have no excuse other than expedience.</p>
+            <h3>Files</h3>
+            <p>
+                The data for the cards is held in XML files that contain a root element and a set
+                of c elements that each contain f and b elements.</p>
+            <p>
+                The f and b elements contain CDATA text in UTF-8 format, which means that they can
+                contain diacritical characters and simple HTML markup.</p>
+            <p>
+                You could set up your own files using Notepad or a general purpose program (see
+                below) but be sure that you save the file in UTF-8 format or the browser will have
+                trouble rendering it.</p>
+            <p>
+                An additional XML file is held on the web site that provides an index of the files
+                available - it just lists file/title pairs that give a name to a topic and the corresponding
+                filename that contains the cards.</p>
+            <p>
+                If you would like more details on the file formats, just get in touch.</p>
+            <p>
+                If you have a set of cards that you have developed yourself, you can pinch my code
+                and set up your own web site or you can just email me and I will load them to my
+                site and change the index to point to them.</p>
+            <h3>Credits</h3>
+            <p>
+                Large parts of the code and design of this program are "borrowed" from findings
+                on the web. I have tried to retain the original details in comments or wherever, assuming a free 
+                license where not specifically forbidden.</p>
+            <p>
+                Feel free to pinch any of this that you like the look of, but do retain the credit
+                for the original authors.</p>
+            <h3>Flash Card Creator Program</h3>
+            <p>
+                If you want to set up your own cards and would like a handy utility program that
+                makes it easy, please get in touch, although you would still need to publish the
+                decks to my web site, or set up your own.</p>
+            <p>
+                I am working on a program in C# and am happy to share my work if you want
+                to see the source code, or if you just want a handy program to save you effort. It uses
+                .Net 2.0 so you would need to have that loaded on your machine already, or it will
+                try to download it from the Net.</p>
+            <h4>Mark Booth 2006</h4>
+            nmb2 at tutor dot open dot ac dot uk
+            <a href="javascript:flipme('helpme');" title="Hide help">Hide Help </a>
+            <br />
+            <br />
+        </div>
+    </div>
+</body>
+</html>

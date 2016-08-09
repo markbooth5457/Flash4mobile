@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to come"]]></f>
+    <b><![CDATA[<table><tr><td>vengo</td><td>venimos</td></tr><tr><td>vienes</td><td>venís</td></tr><tr><td>viene</td><td>vienen</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to come" (I came, you came, etc.)]]></f>
+    <b><![CDATA[<table><tr><td>vine</td><td>vinimos</td></tr><tr><td>viniste</td><td>vinisteis</td></tr><tr><td>vino</td><td>vinieron</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to come" (I used to come, he was coming)]]></f>
+    <b><![CDATA[<table><tr><td>venía</td><td>veníamos</td></tr><tr><td>venías</td><td>veníais</td></tr><tr><td>venía</td><td>venían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to come"]]></f>
+    <b><![CDATA[<table><tr><td>vendré</td><td>vendremos</td></tr><tr><td>vendrás</td><td>vendréis</td></tr><tr><td>vendrá</td><td>vendrán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to come" (came)]]></f>
+    <b><![CDATA[venido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to come" (coming)]]></f>
+    <b><![CDATA[viniendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to come"]]></f>
+    <b><![CDATA[<table><tr><td>venga</td><td>vengamos</td></tr><tr><td>vengas</td><td>vengáis</td></tr><tr><td>venga</td><td>vengan</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to come" (I would come)]]></f>
+    <b><![CDATA[<table><tr><td>vendría</td><td>vendríamos</td></tr><tr><td>vendrías</td><td>vendríais</td></tr><tr><td>vendría</td><td>vendrían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperative of "to come" (come!)]]></f>
+    <b><![CDATA[(tu) ven (vosotros) venid]]></b>
+  </c>
+</root>

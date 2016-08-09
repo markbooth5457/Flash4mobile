@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[diary]]></f>
+    <b><![CDATA[la agenda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[handbag]]></f>
+    <b><![CDATA[el bolso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wallet]]></f>
+    <b><![CDATA[la cartera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sister-in-law]]></f>
+    <b><![CDATA[la cuñada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brother-in-law]]></f>
+    <b><![CDATA[el cuñado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glasses]]></f>
+    <b><![CDATA[las gafas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[key]]></f>
+    <b><![CDATA[la llave]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the eldest]]></f>
+    <b><![CDATA[el/la mayor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elder]]></f>
+    <b><![CDATA[mayor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[granddaughter]]></f>
+    <b><![CDATA[la nieta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandson]]></f>
+    <b><![CDATA[el nieto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[girlfriend]]></f>
+    <b><![CDATA[la novia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boyfriend]]></f>
+    <b><![CDATA[el novio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[umbrella]]></f>
+    <b><![CDATA[el paraguas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cousin]]></f>
+    <b><![CDATA[el primo / la prima]]></b>
+  </c>
+  <c>
+    <f><![CDATA[separated]]></f>
+    <b><![CDATA[separado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[niece]]></f>
+    <b><![CDATA[la sobrina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nephew]]></f>
+    <b><![CDATA[el sobrino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aunt]]></f>
+    <b><![CDATA[la tía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[uncle]]></f>
+    <b><![CDATA[el tío]]></b>
+  </c>
+  <c>
+    <f><![CDATA[widow]]></f>
+    <b><![CDATA[la viuda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[widower]]></f>
+    <b><![CDATA[el viudo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[widowed]]></f>
+    <b><![CDATA[viudo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beard]]></f>
+    <b><![CDATA[la barba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[moustache]]></f>
+    <b><![CDATA[el bigote]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mouth]]></f>
+    <b><![CDATA[la boca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[face]]></f>
+    <b><![CDATA[la cara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[eyebrows]]></f>
+    <b><![CDATA[las cejas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short]]></f>
+    <b><![CDATA[corto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[thin]]></f>
+    <b><![CDATA[delgado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[strong]]></f>
+    <b><![CDATA[fuerte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fat]]></f>
+    <b><![CDATA[gordo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pretty]]></f>
+    <b><![CDATA[guapa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[handsome]]></f>
+    <b><![CDATA[guapo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lips]]></f>
+    <b><![CDATA[los labios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[long]]></f>
+    <b><![CDATA[largo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[straight]]></f>
+    <b><![CDATA[liso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[old (elder, older)]]></f>
+    <b><![CDATA[mayor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown, dark]]></f>
+    <b><![CDATA[moreno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nose]]></f>
+    <b><![CDATA[la nariz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boyfriend]]></f>
+    <b><![CDATA[el novio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[eyes]]></f>
+    <b><![CDATA[los ojos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ears]]></f>
+    <b><![CDATA[las orejas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark]]></f>
+    <b><![CDATA[oscuro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hair]]></f>
+    <b><![CDATA[el pelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[curly]]></f>
+    <b><![CDATA[rizado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[blonde]]></f>
+    <b><![CDATA[rubio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coat]]></f>
+    <b><![CDATA[el abrigo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swimming costume]]></f>
+    <b><![CDATA[el bañador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[scarf]]></f>
+    <b><![CDATA[la bufanda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[socks]]></f>
+    <b><![CDATA[los calcetines]]></b>
+  </c>
+  <c>
+    <f><![CDATA[underpants]]></f>
+    <b><![CDATA[los calzoncillos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shirt]]></f>
+    <b><![CDATA[la camisa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[T-shirt]]></f>
+    <b><![CDATA[la camiseta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[jacket]]></f>
+    <b><![CDATA[la chaqueta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tie]]></f>
+    <b><![CDATA[la corbata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skirt]]></f>
+    <b><![CDATA[la falda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gloves]]></f>
+    <b><![CDATA[los guantes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[trousers]]></f>
+    <b><![CDATA[los pantalones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pyjamas]]></f>
+    <b><![CDATA[el pijama(s)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clothes]]></f>
+    <b><![CDATA[la ropa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[jeans]]></f>
+    <b><![CDATA[los vaqueros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[trainers]]></f>
+    <b><![CDATA[las zapatillas de deporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shoes]]></f>
+    <b><![CDATA[los zapatos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boring]]></f>
+    <b><![CDATA[aburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lively]]></f>
+    <b><![CDATA[alegre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[kind]]></f>
+    <b><![CDATA[amable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unpleasant]]></f>
+    <b><![CDATA[antipático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[affectionate]]></f>
+    <b><![CDATA[cariñoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vague, absent-minded]]></f>
+    <b><![CDATA[despistado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amusing]]></f>
+    <b><![CDATA[divertido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[funny]]></f>
+    <b><![CDATA[gracioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nervous]]></f>
+    <b><![CDATA[nervioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serious]]></f>
+    <b><![CDATA[serio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nice]]></f>
+    <b><![CDATA[simpático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stubborn]]></f>
+    <b><![CDATA[terco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calm]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advance]]></f>
+    <b><![CDATA[el avance]]></b>
+  </c>
+  <c>
+    <f><![CDATA[girl]]></f>
+    <b><![CDATA[la chica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boy]]></f>
+    <b><![CDATA[el chico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[materialism]]></f>
+    <b><![CDATA[el consumismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[materialistic]]></f>
+    <b><![CDATA[consumista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to believe, think]]></f>
+    <b><![CDATA[creer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[democracy]]></f>
+    <b><![CDATA[la democracia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[economy]]></f>
+    <b><![CDATA[la economía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[teaching]]></f>
+    <b><![CDATA[la enseñanza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to agree]]></f>
+    <b><![CDATA[estar de acuerdo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[young people]]></f>
+    <b><![CDATA[los jóvenes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[environment]]></f>
+    <b><![CDATA[el medio ambiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I think...]]></f>
+    <b><![CDATA[me parece que...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to think]]></f>
+    <b><![CDATA[pensar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[politics]]></f>
+    <b><![CDATA[la política]]></b>
+  </c>
+  <c>
+    <f><![CDATA[problem]]></f>
+    <b><![CDATA[el problema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[religion]]></f>
+    <b><![CDATA[la religión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[subject, issue]]></f>
+    <b><![CDATA[el tema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be right]]></f>
+    <b><![CDATA[tener razón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[violence]]></f>
+    <b><![CDATA[la violencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ring]]></f>
+    <b><![CDATA[el anillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrange]]></f>
+    <b><![CDATA[arreglar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[christening, baptism]]></f>
+    <b><![CDATA[el bautizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wedding]]></f>
+    <b><![CDATA[la boda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[priest]]></f>
+    <b><![CDATA[el cura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[invitation]]></f>
+    <b><![CDATA[la invitación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[jeweller]]></f>
+    <b><![CDATA[el joyero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[godmother]]></f>
+    <b><![CDATA[la madrina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make oneself up]]></f>
+    <b><![CDATA[maquillarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bride]]></f>
+    <b><![CDATA[la novia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[groom]]></f>
+    <b><![CDATA[el novio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the bride and groom]]></f>
+    <b><![CDATA[los novios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[godfather]]></f>
+    <b><![CDATA[el padrino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do/comb one's hair]]></f>
+    <b><![CDATA[peinarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hairdresser's]]></f>
+    <b><![CDATA[la peluquería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[first communion]]></f>
+    <b><![CDATA[la primera comunión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bouquet]]></f>
+    <b><![CDATA[el ramo de flores]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wedding reception]]></f>
+    <b><![CDATA[la recepción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sponge (finger)]]></f>
+    <b><![CDATA[el bizcocho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[camera]]></f>
+    <b><![CDATA[la cámara (de fotos)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sweet]]></f>
+    <b><![CDATA[el caramelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to find]]></f>
+    <b><![CDATA[encontrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Christmas]]></f>
+    <b><![CDATA[la Navidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[handkerchief/headscarf]]></f>
+    <b><![CDATA[el pañuelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ask for]]></f>
+    <b><![CDATA[pedir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[earring]]></f>
+    <b><![CDATA[el pendiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[perfume]]></f>
+    <b><![CDATA[el perfume]]></b>
+  </c>
+  <c>
+    <f><![CDATA[present, gift]]></f>
+    <b><![CDATA[el regalo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[circus]]></f>
+    <b><![CDATA[el circo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[live concert]]></f>
+    <b><![CDATA[el concierto en vivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[show]]></f>
+    <b><![CDATA[el espectáculo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[botanical gardens]]></f>
+    <b><![CDATA[el jardín botánico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm sorry]]></f>
+    <b><![CDATA[Lo siento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[play]]></f>
+    <b><![CDATA[la obra de teatro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[busy]]></f>
+    <b><![CDATA[ocupado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to stroll]]></f>
+    <b><![CDATA[pasear]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Sorry]]></f>
+    <b><![CDATA[Perdona]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go up]]></f>
+    <b><![CDATA[subir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[zoo]]></f>
+    <b><![CDATA[el zoológico]]></b>
+  </c>
+</root>

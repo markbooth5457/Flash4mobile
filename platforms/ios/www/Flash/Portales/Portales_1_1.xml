@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Tree]]></f>
+    <b><![CDATA[el árbol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Bench]]></f>
+    <b><![CDATA[el banco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bicycle]]></f>
+    <b><![CDATA[la bicicleta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[car]]></f>
+    <b><![CDATA[el coche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fountain]]></f>
+    <b><![CDATA[la fuente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[balloon]]></f>
+    <b><![CDATA[el globo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[church]]></f>
+    <b><![CDATA[la iglesia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[monument]]></f>
+    <b><![CDATA[el monumento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mobile (phone)]]></f>
+    <b><![CDATA[el móvil]]></b>
+  </c>
+  <c>
+    <f><![CDATA[girl]]></f>
+    <b><![CDATA[la niña]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boy]]></f>
+    <b><![CDATA[el niño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pigeon]]></f>
+    <b><![CDATA[la paloma]]></b>
+  </c>
+  <c>
+    <f><![CDATA[square]]></f>
+    <b><![CDATA[la plaza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traffic light(s)]]></f>
+    <b><![CDATA[el semáforo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine]]></f>
+    <b><![CDATA[el vino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Goodbye]]></f>
+    <b><![CDATA[Adiós]]></b>
+  </c>
+  <c>
+    <f><![CDATA[neighbourhood]]></f>
+    <b><![CDATA[el barrio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good morning]]></f>
+    <b><![CDATA[Buenos días]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good afternoon]]></f>
+    <b><![CDATA[Buenas tardes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good evening]]></f>
+    <b><![CDATA[Buenas noches]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Bye]]></f>
+    <b><![CDATA[Chao/Chaíto (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[See you later]]></f>
+    <b><![CDATA[Hasta luego]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hello]]></f>
+    <b><![CDATA[Hola]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be called]]></f>
+    <b><![CDATA[llamarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[name]]></f>
+    <b><![CDATA[el nombre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be]]></f>
+    <b><![CDATA[ser]]></b>
+  </c>
+  <c>
+    <f><![CDATA[neighbour]]></f>
+    <b><![CDATA[el vecino, la vecina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[friend]]></f>
+    <b><![CDATA[el amigo, la amiga]]></b>
+  </c>
+  <c>
+    <f><![CDATA[assistant]]></f>
+    <b><![CDATA[el/la ayudante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Collaborator, co-worker]]></f>
+    <b><![CDATA[el colaborador, la colaboradora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colleague]]></f>
+    <b><![CDATA[el/la colega]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wife]]></f>
+    <b><![CDATA[la esposa, la mujer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[manager]]></f>
+    <b><![CDATA[el/la gerente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sister]]></f>
+    <b><![CDATA[la hermana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brother]]></f>
+    <b><![CDATA[el hermano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boss]]></f>
+    <b><![CDATA[el jefe, la jefa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mother]]></f>
+    <b><![CDATA[la madre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[husband]]></f>
+    <b><![CDATA[el marido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[father]]></f>
+    <b><![CDATA[el padre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[partner]]></f>
+    <b><![CDATA[la pareja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dog]]></f>
+    <b><![CDATA[el perro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mr.]]></f>
+    <b><![CDATA[el señor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mrs]]></f>
+    <b><![CDATA[la señora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[actor]]></f>
+    <b><![CDATA[el actor, la actor/la actriz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[architect]]></f>
+    <b><![CDATA[el arquitecto, la arquitecta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dancer]]></f>
+    <b><![CDATA[el bailarín, la bailarina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[waiter, waitress]]></f>
+    <b><![CDATA[el camarero, la camarera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[singer]]></f>
+    <b><![CDATA[el/la cantante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[film director]]></f>
+    <b><![CDATA[el director/ la directora de cine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[writer]]></f>
+    <b><![CDATA[el escrito, la escritora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[student]]></f>
+    <b><![CDATA[el/la estudiante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[manager]]></f>
+    <b><![CDATA[gerente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[computer specialist / programmer]]></f>
+    <b><![CDATA[el informático, la informática]]></b>
+  </c>
+  <c>
+    <f><![CDATA[doctor]]></f>
+    <b><![CDATA[el médico, la médica / la médico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painter]]></f>
+    <b><![CDATA[el pintor, la pintora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[teacher]]></f>
+    <b><![CDATA[el profesor, la profesora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[secretary]]></f>
+    <b><![CDATA[el secretario, la secretaria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[German]]></f>
+    <b><![CDATA[alemán]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Argentinian]]></f>
+    <b><![CDATA[argentino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Brazilian]]></f>
+    <b><![CDATA[brasileño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[British]]></f>
+    <b><![CDATA[británico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Catalan]]></f>
+    <b><![CDATA[catalán]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Chilean]]></f>
+    <b><![CDATA[chileno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Colombian]]></f>
+    <b><![CDATA[colombiano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Cuban]]></f>
+    <b><![CDATA[cubano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Scottish]]></f>
+    <b><![CDATA[escocés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spanish]]></f>
+    <b><![CDATA[español]]></b>
+  </c>
+  <c>
+    <f><![CDATA[American (USA)]]></f>
+    <b><![CDATA[estadounidense]]></b>
+  </c>
+  <c>
+    <f><![CDATA[French]]></f>
+    <b><![CDATA[francés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Welsh]]></f>
+    <b><![CDATA[galés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Galician]]></f>
+    <b><![CDATA[gallego]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Guatemalan]]></f>
+    <b><![CDATA[guatamalteco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Honduran]]></f>
+    <b><![CDATA[hondureño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[English]]></f>
+    <b><![CDATA[inglés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Irish]]></f>
+    <b><![CDATA[irlandés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Italian]]></f>
+    <b><![CDATA[italiano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mexican]]></f>
+    <b><![CDATA[mexicano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Panamanian]]></f>
+    <b><![CDATA[panameño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Paraguayan]]></f>
+    <b><![CDATA[paraguayo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Peruvian]]></f>
+    <b><![CDATA[peruano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Portugese]]></f>
+    <b><![CDATA[portugués]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Salvadorean]]></f>
+    <b><![CDATA[salvadoreño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Swiss]]></f>
+    <b><![CDATA[suizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Basque]]></f>
+    <b><![CDATA[vasco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Venezuelan]]></f>
+    <b><![CDATA[venezolano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to speak]]></f>
+    <b><![CDATA[hablar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[country]]></f>
+    <b><![CDATA[el país]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandmother]]></f>
+    <b><![CDATA[la abuela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandfather]]></f>
+    <b><![CDATA[el abuelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[married]]></f>
+    <b><![CDATA[casado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[divorced]]></f>
+    <b><![CDATA[divorciado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[age]]></f>
+    <b><![CDATA[la edad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wife]]></f>
+    <b><![CDATA[la esposa / la mujer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marital status]]></f>
+    <b><![CDATA[el estado civil]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sister]]></f>
+    <b><![CDATA[la hermana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brother]]></f>
+    <b><![CDATA[el hermano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[daughter]]></f>
+    <b><![CDATA[la hija]]></b>
+  </c>
+  <c>
+    <f><![CDATA[son]]></f>
+    <b><![CDATA[el hijo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[children]]></f>
+    <b><![CDATA[los hijos / las hijas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mother]]></f>
+    <b><![CDATA[la madre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nationality]]></f>
+    <b><![CDATA[la nacionalidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[father]]></f>
+    <b><![CDATA[el padre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[single]]></f>
+    <b><![CDATA[soltero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[avenue]]></f>
+    <b><![CDATA[la avenida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[street]]></f>
+    <b><![CDATA[la calle]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fourth]]></f>
+    <b><![CDATA[cuarto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[address]]></f>
+    <b><![CDATA[la dirección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[corner]]></f>
+    <b><![CDATA[la esquina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[floor / storey]]></f>
+    <b><![CDATA[el piso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[first]]></f>
+    <b><![CDATA[primero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[second]]></f>
+    <b><![CDATA[segundo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[no / without a number]]></f>
+    <b><![CDATA[sin número]]></b>
+  </c>
+  <c>
+    <f><![CDATA[third]]></f>
+    <b><![CDATA[tercero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to live]]></f>
+    <b><![CDATA[vivir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cook / chef]]></f>
+    <b><![CDATA[el cocinero, la cocinera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contestant]]></f>
+    <b><![CDATA[el / la concursante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[competition / game show]]></f>
+    <b><![CDATA[el concurso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news programme]]></f>
+    <b><![CDATA[el informativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[morning]]></f>
+    <b><![CDATA[la mañana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[night]]></f>
+    <b><![CDATA[la noche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[film]]></f>
+    <b><![CDATA[la película]]></b>
+  </c>
+  <c>
+    <f><![CDATA[journalist]]></f>
+    <b><![CDATA[el / la periodista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[presenter / host]]></f>
+    <b><![CDATA[el presentador, la presentadora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[programme]]></f>
+    <b><![CDATA[el programa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chemist]]></f>
+    <b><![CDATA[el químico, la química]]></b>
+  </c>
+  <c>
+    <f><![CDATA[afternoon, evening]]></f>
+    <b><![CDATA[la tarde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to work]]></f>
+    <b><![CDATA[trabajar]]></b>
+  </c>
+</root>

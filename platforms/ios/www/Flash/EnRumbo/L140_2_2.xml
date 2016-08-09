@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Biographical data]]></f>
+    <b><![CDATA[Datos biográficos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to marry]]></f>
+    <b><![CDATA[casarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to contract marriage]]></f>
+    <b><![CDATA[contraer matrimonio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to become]]></f>
+    <b><![CDATA[convertirse en]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to devote oneself to]]></f>
+    <b><![CDATA[dedicarse a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to divorce]]></f>
+    <b><![CDATA[divorciarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[divorce]]></f>
+    <b><![CDATA[el divorcio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to emigrate]]></f>
+    <b><![CDATA[emigrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fall in love]]></f>
+    <b><![CDATA[enamorarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pass away]]></f>
+    <b><![CDATA[fallecer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to die]]></f>
+    <b><![CDATA[matarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to die]]></f>
+    <b><![CDATA[morir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[death]]></f>
+    <b><![CDATA[la muerte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be born]]></f>
+    <b><![CDATA[nacer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birth]]></f>
+    <b><![CDATA[el nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[separation]]></f>
+    <b><![CDATA[la separación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to separate]]></f>
+    <b><![CDATA[separarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to commit suicide]]></f>
+    <b><![CDATA[suicidarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to work]]></f>
+    <b><![CDATA[trabajar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[life]]></f>
+    <b><![CDATA[la vida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to live]]></f>
+    <b><![CDATA[vivir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Religious celebrations]]></f>
+    <b><![CDATA[Celebraciones religiosas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to baptize]]></f>
+    <b><![CDATA[bautizar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[baptism]]></f>
+    <b><![CDATA[el bautizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wedding]]></f>
+    <b><![CDATA[la boda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ceremony]]></f>
+    <b><![CDATA[la ceremonia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Catholic Church]]></f>
+    <b><![CDATA[la Iglesia Católica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the parochial book or register]]></f>
+    <b><![CDATA[el libro parroquial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marriage]]></f>
+    <b><![CDATA[el matrimonio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fiancès]]></f>
+    <b><![CDATA[los novios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[offerings]]></f>
+    <b><![CDATA[las ofrendas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the parish]]></f>
+    <b><![CDATA[la parroquia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marriage rites]]></f>
+    <b><![CDATA[los ritos matrimoniales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Religion]]></f>
+    <b><![CDATA[Religión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[archbishop]]></f>
+    <b><![CDATA[el arzobispo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bless]]></f>
+    <b><![CDATA[bendecir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cathedral]]></f>
+    <b><![CDATA[la catedral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[deities]]></f>
+    <b><![CDATA[las deidades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Gods]]></f>
+    <b><![CDATA[los dioses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to incarnate]]></f>
+    <b><![CDATA[encarnar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hermit]]></f>
+    <b><![CDATA[el ermitaño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[miracle]]></f>
+    <b><![CDATA[el milagro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bishop]]></f>
+    <b><![CDATA[el obispo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the oration]]></f>
+    <b><![CDATA[la oración]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pilgimage]]></f>
+    <b><![CDATA[la peregrinación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pray]]></f>
+    <b><![CDATA[rezar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rite]]></f>
+    <b><![CDATA[el rito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[priest]]></f>
+    <b><![CDATA[el sacerdote]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tomb]]></f>
+    <b><![CDATA[el sepulcro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to symbolize]]></f>
+    <b><![CDATA[simbolizar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supernatural]]></f>
+    <b><![CDATA[sobrenatural]]></b>
+  </c>
+  <c>
+    <f><![CDATA[temple]]></f>
+    <b><![CDATA[el templo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tomb]]></f>
+    <b><![CDATA[la tumba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to venerate]]></f>
+    <b><![CDATA[venerar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The family and family life]]></f>
+    <b><![CDATA[La familia y la vida familiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to share]]></f>
+    <b><![CDATA[compartir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to conceive (a son)]]></f>
+    <b><![CDATA[concebir (un hijo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[young people]]></f>
+    <b><![CDATA[los jóvenes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[occupation]]></f>
+    <b><![CDATA[las labores]]></b>
+  </c>
+  <c>
+    <f><![CDATA[parents]]></f>
+    <b><![CDATA[los padres]]></b>
+  </c>
+  <c>
+    <f><![CDATA[godparents]]></f>
+    <b><![CDATA[los padrinos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[couple]]></f>
+    <b><![CDATA[la pareja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[daily chores]]></f>
+    <b><![CDATA[los quehaceres diarios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[responsibilities]]></f>
+    <b><![CDATA[las responsabilidades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relatives]]></f>
+    <b><![CDATA[familiares]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take responsibility]]></f>
+    <b><![CDATA[responsabilizarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[parents in law]]></f>
+    <b><![CDATA[los suegros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ceiling]]></f>
+    <b><![CDATA[el techo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have children]]></f>
+    <b><![CDATA[tener hijos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a role in the family]]></f>
+    <b><![CDATA[tener un papel en la familia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the abolition of slavery]]></f>
+    <b><![CDATA[la abolición de la esclavitud]]></b>
+  </c>
+  <c>
+    <f><![CDATA[treaty]]></f>
+    <b><![CDATA[el acuerdo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to assume]]></f>
+    <b><![CDATA[asumir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to advance]]></f>
+    <b><![CDATA[avanzar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the cause]]></f>
+    <b><![CDATA[la causa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the causes of discontent]]></f>
+    <b><![CDATA[las causas de descontento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to command]]></f>
+    <b><![CDATA[comandar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to commemorate]]></f>
+    <b><![CDATA[conmemorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[conquest]]></f>
+    <b><![CDATA[la conquista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to conquer]]></f>
+    <b><![CDATA[conquistar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[constitution]]></f>
+    <b><![CDATA[la constitución]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to last]]></f>
+    <b><![CDATA[durar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to head]]></f>
+    <b><![CDATA[encabezar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exploitation]]></f>
+    <b><![CDATA[la explotación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to shoot]]></f>
+    <b><![CDATA[fusilar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[military coup]]></f>
+    <b><![CDATA[el golpe militar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coup d'etat]]></f>
+    <b><![CDATA[el golpe de estado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the war (civil)]]></f>
+    <b><![CDATA[la guerra (civil)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[history]]></f>
+    <b><![CDATA[la historia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[independence]]></f>
+    <b><![CDATA[la independencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to invade]]></f>
+    <b><![CDATA[invadir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the rise]]></f>
+    <b><![CDATA[el levantamiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to set free (onself)]]></f>
+    <b><![CDATA[liberar(se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[freedom]]></f>
+    <b><![CDATA[la libertad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leadership]]></f>
+    <b><![CDATA[el liderazgo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fight]]></f>
+    <b><![CDATA[la lucha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[myth]]></f>
+    <b><![CDATA[el mito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to proclaim (oneself)]]></f>
+    <b><![CDATA[proclamar(se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[promulgation]]></f>
+    <b><![CDATA[la promulgación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to promulgate]]></f>
+    <b><![CDATA[promulgar(se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rebellion]]></f>
+    <b><![CDATA[la rebelión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[repression]]></f>
+    <b><![CDATA[la represión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[revolution]]></f>
+    <b><![CDATA[la revolución]]></b>
+  </c>
+  <c>
+    <f><![CDATA[treaty]]></f>
+    <b><![CDATA[el tratado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[troops]]></f>
+    <b><![CDATA[las tropas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to unite ]]></f>
+    <b><![CDATA[unir(se)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The Council of Indians]]></f>
+    <b><![CDATA[El Consejo de Indias]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonel]]></f>
+    <b><![CDATA[el coronel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[democracy]]></f>
+    <b><![CDATA[la democracia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dictatorship]]></f>
+    <b><![CDATA[la dictadura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Francoism]]></f>
+    <b><![CDATA[el franquismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[government]]></f>
+    <b><![CDATA[el gobierno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[political instability]]></f>
+    <b><![CDATA[la inestabilidad política]]></b>
+  </c>
+  <c>
+    <f><![CDATA[president]]></f>
+    <b><![CDATA[el presidente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the first lady]]></f>
+    <b><![CDATA[la primera dama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[republic]]></f>
+    <b><![CDATA[la república]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the king]]></f>
+    <b><![CDATA[el rey]]></b>
+  </c>
+  <c>
+    <f><![CDATA[viceroy]]></f>
+    <b><![CDATA[el virrey]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Countries/geographic areas]]></f>
+    <b><![CDATA[Países / áreas geográficas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[South America]]></f>
+    <b><![CDATA[América del Sur]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Arizona]]></f>
+    <b><![CDATA[Arizona]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Bolivia]]></f>
+    <b><![CDATA[Bolivia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[California]]></f>
+    <b><![CDATA[California]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Eastern Europe]]></f>
+    <b><![CDATA[Europa oriental]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Galicia]]></f>
+    <b><![CDATA[Galicia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Latin America]]></f>
+    <b><![CDATA[Latinoamérica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The United States/the U.S.A.]]></f>
+    <b><![CDATA[Los Estados Unidos / EEUU]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mexico/the United States]]></f>
+    <b><![CDATA[México / Estados Unidos Mexicanos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[New Spain]]></f>
+    <b><![CDATA[Nueva España]]></b>
+  </c>
+  <c>
+    <f><![CDATA[New Granada]]></f>
+    <b><![CDATA[Nueva Granada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[New Mexico]]></f>
+    <b><![CDATA[Nuevo México]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Peru]]></f>
+    <b><![CDATA[Perú]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Soviet republic]]></f>
+    <b><![CDATA[República soviética]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Texas]]></f>
+    <b><![CDATA[Texas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The Ukraine]]></f>
+    <b><![CDATA[Ucrania]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Origin]]></f>
+    <b><![CDATA[Origen]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Aztec]]></f>
+    <b><![CDATA[azteca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Colombian]]></f>
+    <b><![CDATA[colombiano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spanish]]></f>
+    <b><![CDATA[español]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Inca]]></f>
+    <b><![CDATA[inca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[English]]></f>
+    <b><![CDATA[inglés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mexican]]></f>
+    <b><![CDATA[mexicano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Peruvian]]></f>
+    <b><![CDATA[peruano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Professions/offices]]></f>
+    <b><![CDATA[Profesiones / oficios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[actor]]></f>
+    <b><![CDATA[el actor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[actress]]></f>
+    <b><![CDATA[la actriz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[artist]]></f>
+    <b><![CDATA[el artista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[writer]]></f>
+    <b><![CDATA[el escritor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[muralist]]></f>
+    <b><![CDATA[el muralista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painter]]></f>
+    <b><![CDATA[el pintor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[politician]]></f>
+    <b><![CDATA[el político]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Social structure]]></f>
+    <b><![CDATA[Estructura social]]></b>
+  </c>
+  <c>
+    <f><![CDATA[castes]]></f>
+    <b><![CDATA[las castas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the privileged class]]></f>
+    <b><![CDATA[la clase privilegiada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Creoles]]></f>
+    <b><![CDATA[los criollos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the elite]]></f>
+    <b><![CDATA[la élite]]></b>
+  </c>
+  <c>
+    <f><![CDATA[civil employees]]></f>
+    <b><![CDATA[los funcionarios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spaniards]]></f>
+    <b><![CDATA[los gachupines]]></b>
+  </c>
+  <c>
+    <f><![CDATA[native]]></f>
+    <b><![CDATA[el indígena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[half-cast, mixed race]]></f>
+    <b><![CDATA[el mestizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black people]]></f>
+    <b><![CDATA[los negros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nobles]]></f>
+    <b><![CDATA[los nobles]]></b>
+  </c>
+  <c>
+    <f><![CDATA[people]]></f>
+    <b><![CDATA[el pueblo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Physical descriptions]]></f>
+    <b><![CDATA[Descripciones físicas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elegant]]></f>
+    <b><![CDATA[elegante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fine]]></f>
+    <b><![CDATA[fino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lady's man]]></f>
+    <b><![CDATA[guapo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beautiful]]></f>
+    <b><![CDATA[hermoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Character/temperament]]></f>
+    <b><![CDATA[Carácter / temperamento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pleasant]]></f>
+    <b><![CDATA[agradable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[authoritarian]]></f>
+    <b><![CDATA[autoritario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[egoistic]]></f>
+    <b><![CDATA[egoísta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[extraordinary]]></f>
+    <b><![CDATA[extraordinario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lavish]]></f>
+    <b><![CDATA[fastuoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[faithful]]></f>
+    <b><![CDATA[fiel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[generous]]></f>
+    <b><![CDATA[generoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[controversial]]></f>
+    <b><![CDATA[polémico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[likeable]]></f>
+    <b><![CDATA[simpático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vain]]></f>
+    <b><![CDATA[vanidoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Common expressions with the word “God”]]></f>
+    <b><![CDATA[Expresiones comunes con la palabra 'Dios']]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good bye]]></f>
+    <b><![CDATA[Adiós]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Proper(ly)]]></f>
+    <b><![CDATA[Como Dios manda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[any old how]]></f>
+    <b><![CDATA[A la buena de Dios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[When God wishes]]></f>
+    <b><![CDATA[Cuando Dios quiera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[To need a lot of work]]></f>
+    <b><![CDATA[Necesitarse Dios y ayuda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Oh dear!]]></f>
+    <b><![CDATA[¡Vaya por Dios!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Go with God!]]></f>
+    <b><![CDATA[¡Vaya con Dios!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The early bird catches the worm!]]></f>
+    <b><![CDATA[¡ Al que madruga, Dios le ayuda!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Expressions to accelerate the conversation]]></f>
+    <b><![CDATA[Expresiones para acelerar la conversación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Get to the point!]]></f>
+    <b><![CDATA[¡Vaya al grano! / ¡Ve al grano!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Get on with it!]]></f>
+    <b><![CDATA[¡Siga! / ¡Sigue!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Come on, tell us!]]></f>
+    <b><![CDATA[¡Anda, cuéntanos!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[This is going to take all day!]]></f>
+    <b><![CDATA[¡ Vamos a necesitar todo el día!]]></b>
+  </c>
+</root>

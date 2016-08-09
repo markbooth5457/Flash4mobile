@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <topic>
+    <topicname>GCSE Vocabulary</topicname>
+    <item>
+      <file>GCSE/GCSE1.xml</file>
+      <title>GCSE Friends and Family</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Family, Friends and Pets
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE2.xml</file>
+      <title>GCSE School</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	School subjects, equipment, etc.
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE3.xml</file>
+      <title>GCSE Around the home</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Houses, rooms, gardens
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE4.xml</file>
+      <title>GCSE Leisure</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Leisure activities and sports
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE5.xml</file>
+      <title>GCSE Travel and Holidays</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Travel and holidays
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE6.xml</file>
+      <title>GCSE Food and Shopping</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Food and drink and shopping
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE7.xml</file>
+      <title>GCSE Jobs and work</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Jobs and working
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE8.xml</file>
+      <title>GCSE Accidents and incidents</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	Accidents and incidents
+      </descr>
+    </item>
+    <item>
+      <file>GCSE/GCSE9.xml</file>
+      <title>GCSE The environment</title>
+      <descr>
+        Vocabulary for GCSE Spanish -
+	The environment
+      </descr>
+    </item>
+  </topic>
+  <topic>
+    <topicname>L204 Vocabulary</topicname>
+    <item>
+      <file>VientoEnPopa/L204_1.xml</file>
+      <title>L204 Book 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 1 of the Open University level 2 course Viento en Popa,
+        Vivos vestigos del pasado
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_2.xml</file>
+      <title>L204 Book 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 2 of the Open University level 2 course Viento en Popa,
+        Hablando se entiende la gente
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_3.xml</file>
+      <title>L204 Book 3 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 3 of the Open University level 2 course Viento en Popa,
+        De alquimistas y otras historias
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_4.xml</file>
+      <title>L204 Book 4 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 4 of the Open University level 2 course Viento en Popa,
+        El mundo del trabaje
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_5.xml</file>
+      <title>L204 Book 5 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 5 of the Open University level 2 course Viento en Popa,
+        La vida es un libro abierto
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_6.xml</file>
+      <title>L204 Book 6 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 6 of the Open University level 2 course Viento en Popa,
+        Y usted, que opina?
+      </descr>
+    </item>
+    <item>
+      <file>VientoEnPopa/L204_7.xml</file>
+      <title>L204 Book 7 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 7 of the Open University level 2 course Viento en Popa,
+        Te acuerdas...?
+      </descr>
+    </item>
+  </topic>
+  <topic>
+    <topicname>L140 Vocabulary</topicname>
+    <item>
+      <file>EnRumbo/L140_1_1.xml</file>
+      <title>L140 Book 1, Part 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 1,
+        Part 1 of the Open University level 1 course En Rumbo,
+        Encuentros
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_1_2.xml</file>
+      <title>L140 Book 1, Part 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 1,
+        Part 2 of the Open University level 1 course En Rumbo,
+        El tiempo libre
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_2_1.xml</file>
+      <title>L140 Book 2, Part 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 2,
+        Part 1 of the Open University level 1 course En Rumbo,
+        Natural como la vida misma
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_2_2.xml</file>
+      <title>L140 Book 2, Part 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 2,
+        Part 2 of the Open University level 1 course En Rumbo,
+        Hechos y acontecimientos
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_3_1.xml</file>
+      <title>L140 Book 3, Part 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 3,
+        Part 1 of the Open University level 1 course En Rumbo,
+        Los tiempos cambian
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_3_2.xml</file>
+      <title>L140 Book 3, Part 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 3,
+        Part 2 of the Open University level 1 course En Rumbo,
+        El arte al alcance de todos
+      </descr>
+    </item>
+    <item>
+      <file>EnRumbo/L140_4_1.xml</file>
+      <title>L140 Book 4, Part 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 4,
+        Part 1 of the Open University level 1 course En Rumbo,
+        No lo dejes para manana
+      </descr>
+    </item>
+  </topic>
+  <topic>
+    <topicname>L194 Vocabulary</topicname>
+    <item>
+      <file>Portales/Portales_1_1.xml</file>
+      <title>L194 Book 1, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 1,
+        Unit 1 of the Open University level 1 course Portales,
+        Primeras impressiones
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_1_2.xml</file>
+      <title>L194 Book 1, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 1,
+        Unit 2 of the Open University level 1 course Portales,
+        Espacios públicos
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_2_1.xml</file>
+      <title>L194 Book 2, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 2,
+        Unit 1 of the Open University level 1 course Portales,
+        Trabajamos aquí
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_2_2.xml</file>
+      <title>L194 Book 2, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 2,
+        Unit 2 of the Open University level 1 course Portales,
+        Hogar, dulce hogar
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_3_1.xml</file>
+      <title>L194 Book 3, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 3,
+        Unit 1 of the Open University level 1 course Portales,
+        Cada cosa a su tiempo
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_3_2.xml</file>
+      <title>L194 Book 3, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 3,
+        Unit 2 of the Open University level 1 course Portales,
+        De vacaciones
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_4_1.xml</file>
+      <title>L194 Book 4, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 4,
+        Unit 1 of the Open University level 1 course Portales,
+        Generaciones
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_4_2.xml</file>
+      <title>L194 Book 4, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 4,
+        Unit 2 of the Open University level 1 course Portales,
+        Qué tal va todo?
+      </descr>
+    </item>
+    <item>
+      <file>Portales/Portales_5_1.xml</file>
+      <title>L194 Book 5, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 5,
+        Unit 1 of the Open University level 1 course Portales,
+        Comer a gusto
+      </descr>
+    </item>
+
+    <item>
+      <file>Portales/Portales_5_2.xml</file>
+      <title>L194 Book 5, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 5,
+        Unit 2 of the Open University level 1 course Portales,
+        Días de fiesta
+      </descr>
+    </item>
+
+    <item>
+      <file>Portales/Portales_6_1.xml</file>
+      <title>L194 Book 6, Unit 1 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 6,
+        Unit 1 of the Open University level 1 course Portales,
+        A tu ritmo
+      </descr>
+    </item>
+
+    <item>
+      <file>Portales/Portales_6_2.xml</file>
+      <title>L194 Book 6, Unit 2 Vocabulary</title>
+      <descr>
+        Vocabulary from Book 6,
+        Unit 2 of the Open University level 1 course Portales,
+        Ida y vuelta
+      </descr>
+    </item>
+
+  </topic>
+  <topic>
+    <topicname>L194 Espanol de bolsillo</topicname>
+    <item>
+      <file>Bolsillo/Bolsillo_1_1.xml</file>
+      <title>L194 Book 1, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 1,
+        Unit 1 of the Open University level 1 course Portales,
+        Primeras impressiones
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_1_2.xml</file>
+      <title>L194 Book 1, Unit 2 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 1,
+        Unit 2 of the Open University level 1 course Portales,
+        Espacios públicos
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_2_1.xml</file>
+      <title>L194 Book 2, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 2,
+        Unit 1 of the Open University level 1 course Portales,
+        Trabajamos aquí
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_2_2.xml</file>
+      <title>L194 Book 2, Unit 2 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 2,
+        Unit 2 of the Open University level 1 course Portales,
+        Hogar, dulce hogar
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_3_1.xml</file>
+      <title>L194 Book 3, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 3,
+        Unit 1 of the Open University level 1 course Portales,
+        Cada cosa a su tiempo
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_3_2.xml</file>
+      <title>L194 Book 3, Unit 2 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 3,
+        Unit 2 of the Open University level 1 course Portales,
+        De vacaciones
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_4_1.xml</file>
+      <title>L194 Book 4, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 4,
+        Unit 1 of the Open University level 1 course Portales,
+        Generaciones
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_4_2.xml</file>
+      <title>L194 Book 4, Unit 2 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 4,
+        Unit 2 of the Open University level 1 course Portales,
+        Qué tal va todo?
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_5_1.xml</file>
+      <title>L194 Book 5, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 5,
+        Unit 1 of the Open University level 1 course Portales,
+        Comer a gusto
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_5_2.xml</file>
+      <title>L194 Book 5, Unit 2 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 5,
+        Unit 2 of the Open University level 1 course Portales,
+        Días de fiesta
+      </descr>
+    </item>
+    <item>
+      <file>Bolsillo/Bolsillo_6_1.xml</file>
+      <title>L194 Book 6, Unit 1 Bolsillo</title>
+      <descr>
+        Espanol de bolsillo from Book 6,
+        Unit 1 of the Open University level 1 course Portales,
+        A tu ritmo
+      </descr>
+    </item>
+    
+  </topic>
+  <topic>
+    <topicname>Regular Spanish verbs</topicname>
+    <item>
+      <file>SpVerbs/SpRegAR.xml</file>
+      <title>Regular -ar verbs</title>
+      <descr>
+        Regular Spanish verbs ending in -ar
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpRegER.xml</file>
+      <title>Regular -er verbs</title>
+      <descr>
+        Regular Spanish verbs ending in -er
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpRegIR.xml</file>
+      <title>Regular -ir verbs</title>
+      <descr>
+        Regular Spanish verbs ending in -ir
+      </descr>
+    </item>
+  </topic>
+  <topic>
+    <topicname>Irregular Spanish verbs</topicname>
+    <item>
+      <file>SpVerbs/SpDar.xml</file>
+      <title>Spanish irregular verb - Dar</title>
+      <descr>
+        Dar is irregular in most tenses except the future, the imperfect and the conditional
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpDecir.xml</file>
+      <title>Spanish irregular verb - Decir</title>
+      <descr>
+        <![CDATA[Decir is irregular in most tenses except the imperfect<br/>
+        Similar verbs: bendecir, contradecir, predecir]]>
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpEstar.xml</file>
+      <title>Spanish irregular verb - Estar</title>
+      <descr>
+        Estar is irregular in most tenses except the future, the imperfect and the conditional
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpHaber.xml</file>
+      <title>Spanish irregular verb - Haber</title>
+      <descr>
+        Haber is irregular in most tenses except the imperfect 
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpHacer.xml</file>
+      <title>Spanish irregular verb - Hacer</title>
+      <descr>
+        <![CDATA[Hacer is irregular in most tenses except the imperfect<br/>
+        Similar verbs: rehacer, satisfacer]]>
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpIr.xml</file>
+      <title>Spanish irregular verb - Ir</title>
+      <descr>
+        Ir is irregular in most tenses except the future and conditional
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpPoner.xml</file>
+      <title>Spanish irregular verb - Poner</title>
+      <descr>
+        <![CDATA[Poner is irregular in most tenses except the imperfect<br/>
+        Similar verbs: componer, descomponerse, disponer, exponer, imponer, oponerse, posponer, proponer, suponer]]>
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpQuerer.xml</file>
+      <title>Spanish irregular verb - Querer</title>
+      <descr>
+        Querer is irregular in most tenses except the imperfect
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpSaber.xml</file>
+      <title>Spanish irregular verb - Saber</title>
+      <descr>
+        Saber is irregular in most tenses except the imperfect
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpSer.xml</file>
+      <title>Spanish irregular verb - Ser</title>
+      <descr>
+        Ser is irregular in most tenses except the future and the conditional
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpTener.xml</file>
+      <title>Spanish irregular verb - Tener</title>
+      <descr>
+        <![CDATA[Tener is irregular in most tenses except the imperfect<br/>
+        Similar verbs: abstenerse, contener, detener, entretener, mantener, obtener, sostener]]>
+      </descr>
+    </item>
+    <item>
+      <file>SpVerbs/SpVenir.xml</file>
+      <title>Spanish irregular verb - Venir</title>
+      <descr>
+        <![CDATA[Venir is irregular in most tenses except the imperfect<br/>
+        Similar verbs: convenir, intervenir, prevenir]]>
+      </descr>
+    </item>
+  </topic>
+
+  </root>

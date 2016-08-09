@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[cinema]]></f>
+<b><![CDATA[el cine]]></b>
+</c><c>
+<f><![CDATA[comedy]]></f>
+<b><![CDATA[la comedia]]></b>
+</c><c>
+<f><![CDATA[cartoon]]></f>
+<b><![CDATA[los dibujos animados]]></b>
+</c><c>
+<f><![CDATA[cinema star]]></f>
+<b><![CDATA[la estrella del cine]]></b>
+</c><c>
+<f><![CDATA[success]]></f>
+<b><![CDATA[el éxito]]></b>
+</c><c>
+<f><![CDATA[seat, ticket]]></f>
+<b><![CDATA[la localidad]]></b>
+</c><c>
+<f><![CDATA[play]]></f>
+<b><![CDATA[la obra de teatro]]></b>
+</c><c>
+<f><![CDATA[film]]></f>
+<b><![CDATA[la película]]></b>
+</c><c>
+<f><![CDATA[romantic film]]></f>
+<b><![CDATA[la película de amor]]></b>
+</c><c>
+<f><![CDATA[adventure film]]></f>
+<b><![CDATA[la película de aventuras]]></b>
+</c><c>
+<f><![CDATA[science-fiction film]]></f>
+<b><![CDATA[la película de ciencia ficción]]></b>
+</c><c>
+<f><![CDATA[war film]]></f>
+<b><![CDATA[la película de guerra]]></b>
+</c><c>
+<f><![CDATA[horror film]]></f>
+<b><![CDATA[la película de miedo]]></b>
+</c><c>
+<f><![CDATA[western]]></f>
+<b><![CDATA[la película del oeste]]></b>
+</c><c>
+<f><![CDATA[detective film]]></f>
+<b><![CDATA[película policíaca]]></b>
+</c><c>
+<f><![CDATA[performance]]></f>
+<b><![CDATA[la sesión]]></b>
+</c><c>
+<f><![CDATA[song]]></f>
+<b><![CDATA[la canción]]></b>
+</c><c>
+<f><![CDATA[cassette]]></f>
+<b><![CDATA[el cassette]]></b>
+</c><c>
+<f><![CDATA[concert]]></f>
+<b><![CDATA[el concierto]]></b>
+</c><c>
+<f><![CDATA[group]]></f>
+<b><![CDATA[el grupo]]></b>
+</c><c>
+<f><![CDATA[instrument]]></f>
+<b><![CDATA[el instrumento]]></b>
+</c><c>
+<f><![CDATA[classical music]]></f>
+<b><![CDATA[música clásica]]></b>
+</c><c>
+<f><![CDATA[loud music]]></f>
+<b><![CDATA[la música fuerte]]></b>
+</c><c>
+<f><![CDATA[CD]]></f>
+<b><![CDATA[el disco compacto]]></b>
+</c><c>
+<f><![CDATA[stereo]]></f>
+<b><![CDATA[el estéreo]]></b>
+</c><c>
+<f><![CDATA[pop music]]></f>
+<b><![CDATA[la música pop]]></b>
+</c><c>
+<f><![CDATA[musician]]></f>
+<b><![CDATA[el/la músico/a]]></b>
+</c><c>
+<f><![CDATA[orchestra]]></f>
+<b><![CDATA[la orquesta]]></b>
+</c><c>
+<f><![CDATA[actor]]></f>
+<b><![CDATA[el actor]]></b>
+</c><c>
+<f><![CDATA[actress]]></f>
+<b><![CDATA[la actriz]]></b>
+</c><c>
+<f><![CDATA[chat]]></f>
+<b><![CDATA[la charla]]></b>
+</c><c>
+<f><![CDATA[documentary]]></f>
+<b><![CDATA[el documental]]></b>
+</c><c>
+<f><![CDATA[episode]]></f>
+<b><![CDATA[el episodio]]></b>
+</c><c>
+<f><![CDATA[news]]></f>
+<b><![CDATA[las noticias]]></b>
+</c><c>
+<f><![CDATA[screen]]></f>
+<b><![CDATA[la pantalla]]></b>
+</c><c>
+<f><![CDATA[programme]]></f>
+<b><![CDATA[el programa]]></b>
+</c><c>
+<f><![CDATA[advertising]]></f>
+<b><![CDATA[la publicidad]]></b>
+</c><c>
+<f><![CDATA[radio]]></f>
+<b><![CDATA[la radio]]></b>
+</c><c>
+<f><![CDATA[TV]]></f>
+<b><![CDATA[la tele]]></b>
+</c><c>
+<f><![CDATA[TV news]]></f>
+<b><![CDATA[el telediario]]></b>
+</c><c>
+<f><![CDATA[soap]]></f>
+<b><![CDATA[la telenovela]]></b>
+</c><c>
+<f><![CDATA[Spanish TV channel]]></f>
+<b><![CDATA[la TVE]]></b>
+</c><c>
+<f><![CDATA[video]]></f>
+<b><![CDATA[el video]]></b>
+</c><c>
+<f><![CDATA[chess]]></f>
+<b><![CDATA[el ajedrez]]></b>
+</c><c>
+<f><![CDATA[dance]]></f>
+<b><![CDATA[el baile]]></b>
+</c><c>
+<f><![CDATA[bowling]]></f>
+<b><![CDATA[los bolos]]></b>
+</c><c>
+<f><![CDATA[hunting]]></f>
+<b><![CDATA[la caza]]></b>
+</c><c>
+<f><![CDATA[walk]]></f>
+<b><![CDATA[el paseo]]></b>
+</c><c>
+<f><![CDATA[video game]]></f>
+<b><![CDATA[el videojuego]]></b>
+</c><c>
+<f><![CDATA[pottery]]></f>
+<b><![CDATA[cerámica]]></b>
+</c><c>
+<f><![CDATA[cooking]]></f>
+<b><![CDATA[cocina]]></b>
+</c><c>
+<f><![CDATA[jogging]]></f>
+<b><![CDATA[footing]]></b>
+</c><c>
+<f><![CDATA[skateboard]]></f>
+<b><![CDATA[el monopatín]]></b>
+</c><c>
+<f><![CDATA[science fiction]]></f>
+<b><![CDATA[la ciencia-ficción]]></b>
+</c><c>
+<f><![CDATA[newspaper]]></f>
+<b><![CDATA[el diario]]></b>
+</c><c>
+<f><![CDATA[reading]]></f>
+<b><![CDATA[la lectura]]></b>
+</c><c>
+<f><![CDATA[book]]></f>
+<b><![CDATA[el libro]]></b>
+</c><c>
+<f><![CDATA[novel]]></f>
+<b><![CDATA[la novela]]></b>
+</c><c>
+<f><![CDATA[newspaper]]></f>
+<b><![CDATA[el periódico]]></b>
+</c><c>
+<f><![CDATA[press]]></f>
+<b><![CDATA[la prensa]]></b>
+</c><c>
+<f><![CDATA[magazine]]></f>
+<b><![CDATA[la revista]]></b>
+</c><c>
+<f><![CDATA[comic]]></f>
+<b><![CDATA[el tebeo]]></b>
+</c><c>
+<f><![CDATA[to dance]]></f>
+<b><![CDATA[bailar]]></b>
+</c><c>
+<f><![CDATA[to sing]]></f>
+<b><![CDATA[cantar]]></b>
+</c><c>
+<f><![CDATA[to hunt]]></f>
+<b><![CDATA[cazar]]></b>
+</c><c>
+<f><![CDATA[to collect]]></f>
+<b><![CDATA[coleccionar]]></b>
+</c><c>
+<f><![CDATA[to go for a walk]]></f>
+<b><![CDATA[dar un paseo]]></b>
+</c><c>
+<f><![CDATA[to go for a walk]]></f>
+<b><![CDATA[dar una vuelta]]></b>
+</c><c>
+<f><![CDATA[to enjoy oneself]]></f>
+<b><![CDATA[divertirse]]></b>
+</c><c>
+<f><![CDATA[to read]]></f>
+<b><![CDATA[leer]]></b>
+</c><c>
+<f><![CDATA[to have a good time]]></f>
+<b><![CDATA[pasarlo bien]]></b>
+</c><c>
+<f><![CDATA[to have a great time]]></f>
+<b><![CDATA[pasarlo bomba]]></b>
+</c><c>
+<f><![CDATA[to go for a walk]]></f>
+<b><![CDATA[pasearse]]></b>
+</c><c>
+<f><![CDATA[to skate]]></f>
+<b><![CDATA[patinar]]></b>
+</c><c>
+<f><![CDATA[to fish]]></f>
+<b><![CDATA[pescar]]></b>
+</c><c>
+<f><![CDATA[to paint]]></f>
+<b><![CDATA[pintar]]></b>
+</c><c>
+<f><![CDATA[to touch, to play]]></f>
+<b><![CDATA[tocar]]></b>
+</c><c>
+<f><![CDATA[climbing]]></f>
+<b><![CDATA[el alpinismo]]></b>
+</c><c>
+<f><![CDATA[athletics]]></f>
+<b><![CDATA[el atletismo]]></b>
+</c><c>
+<f><![CDATA[basketball]]></f>
+<b><![CDATA[el baloncesto]]></b>
+</c><c>
+<f><![CDATA[handball]]></f>
+<b><![CDATA[el balonmano]]></b>
+</c><c>
+<f><![CDATA[volleyball]]></f>
+<b><![CDATA[el balonvolea]]></b>
+</c><c>
+<f><![CDATA[billiards]]></f>
+<b><![CDATA[el billar]]></b>
+</c><c>
+<f><![CDATA[cycling]]></f>
+<b><![CDATA[el ciclismo]]></b>
+</c><c>
+<f><![CDATA[bullfight]]></f>
+<b><![CDATA[la corrida de toros]]></b>
+</c><c>
+<f><![CDATA[winter sports]]></f>
+<b><![CDATA[deportes de Invierno]]></b>
+</c><c>
+<f><![CDATA[horse-riding]]></f>
+<b><![CDATA[la equitación]]></b>
+</c><c>
+<f><![CDATA[water-skiing]]></f>
+<b><![CDATA[el esquí acuático]]></b>
+</c><c>
+<f><![CDATA[football]]></f>
+<b><![CDATA[el fútbol]]></b>
+</c><c>
+<f><![CDATA[hockey]]></f>
+<b><![CDATA[el hockey]]></b>
+</c><c>
+<f><![CDATA[skateboarding]]></f>
+<b><![CDATA[el monopatinaje]]></b>
+</c><c>
+<f><![CDATA[swimming]]></f>
+<b><![CDATA[la natación]]></b>
+</c><c>
+<f><![CDATA[skating]]></f>
+<b><![CDATA[el patinaje]]></b>
+</c><c>
+<f><![CDATA[fishing]]></f>
+<b><![CDATA[la pesca]]></b>
+</c><c>
+<f><![CDATA[table tennis]]></f>
+<b><![CDATA[el ping-pong]]></b>
+</c><c>
+<f><![CDATA[rugby]]></f>
+<b><![CDATA[el rugby]]></b>
+</c><c>
+<f><![CDATA[tennis]]></f>
+<b><![CDATA[el tenis]]></b>
+</c><c>
+<f><![CDATA[bullfighting ]]></f>
+<b><![CDATA[los toros]]></b>
+</c><c>
+<f><![CDATA[sailing]]></f>
+<b><![CDATA[la vela]]></b>
+</c><c>
+<f><![CDATA[windsurfing]]></f>
+<b><![CDATA[el windsurf]]></b>
+</c><c>
+<f><![CDATA[ball]]></f>
+<b><![CDATA[el balón]]></b>
+</c><c>
+<f><![CDATA[bicycle]]></f>
+<b><![CDATA[la bicicleta]]></b>
+</c><c>
+<f><![CDATA[championship]]></f>
+<b><![CDATA[el campeonato]]></b>
+</c><c>
+<f><![CDATA[fishing rod]]></f>
+<b><![CDATA[la caña de pescar]]></b>
+</c><c>
+<f><![CDATA[race]]></f>
+<b><![CDATA[la carrera]]></b>
+</c><c>
+<f><![CDATA[sports centre]]></f>
+<b><![CDATA[centro polideportivo]]></b>
+</c><c>
+<f><![CDATA[competition]]></f>
+<b><![CDATA[concurso]]></b>
+</c><c>
+<f><![CDATA[world cup]]></f>
+<b><![CDATA[copa mundial]]></b>
+</c><c>
+<f><![CDATA[sport]]></f>
+<b><![CDATA[deporte]]></b>
+</c><c>
+<f><![CDATA[ski]]></f>
+<b><![CDATA[esquí]]></b>
+</c><c>
+<f><![CDATA[stadium]]></f>
+<b><![CDATA[estadio]]></b>
+</c><c>
+<f><![CDATA[goal]]></f>
+<b><![CDATA[gol]]></b>
+</c><c>
+<f><![CDATA[game]]></f>
+<b><![CDATA[el juego]]></b>
+</c><c>
+<f><![CDATA[match]]></f>
+<b><![CDATA[el partido]]></b>
+</c><c>
+<f><![CDATA[prize]]></f>
+<b><![CDATA[el premio]]></b>
+</c><c>
+<f><![CDATA[result]]></f>
+<b><![CDATA[el resultado]]></b>
+</c><c>
+<f><![CDATA[pitch]]></f>
+<b><![CDATA[el terreno]]></b>
+</c><c>
+<f><![CDATA[tournament]]></f>
+<b><![CDATA[el torneo]]></b>
+</c><c>
+<f><![CDATA[sail]]></f>
+<b><![CDATA[la vela]]></b>
+</c><c>
+<f><![CDATA[athlete]]></f>
+<b><![CDATA[el atleta]]></b>
+</c><c>
+<f><![CDATA[champion]]></f>
+<b><![CDATA[el campeón]]></b>
+</c><c>
+<f><![CDATA[cyclist]]></f>
+<b><![CDATA[el/la ciclista]]></b>
+</c><c>
+<f><![CDATA[team]]></f>
+<b><![CDATA[el equipo]]></b>
+</c><c>
+<f><![CDATA[spectator]]></f>
+<b><![CDATA[el espectador]]></b>
+</c><c>
+<f><![CDATA[footballer]]></f>
+<b><![CDATA[el futbolista]]></b>
+</c><c>
+<f><![CDATA[player]]></f>
+<b><![CDATA[el jugador]]></b>
+</c><c>
+<f><![CDATA[bullfighter ]]></f>
+<b><![CDATA[el matador]]></b>
+</c><c>
+<f><![CDATA[tennis player]]></f>
+<b><![CDATA[el tenista]]></b>
+</c><c>
+<f><![CDATA[bullfighter]]></f>
+<b><![CDATA[el torero]]></b>
+</c><c>
+<f><![CDATA[swimsuit]]></f>
+<b><![CDATA[el bañador]]></b>
+</c><c>
+<f><![CDATA[song]]></f>
+<b><![CDATA[la canción]]></b>
+</c><c>
+<f><![CDATA[playing cards]]></f>
+<b><![CDATA[las cartas]]></b>
+</c><c>
+<f><![CDATA[collection]]></f>
+<b><![CDATA[la colección]]></b>
+</c><c>
+<f><![CDATA[record]]></f>
+<b><![CDATA[el disco]]></b>
+</c><c>
+<f><![CDATA[disco]]></f>
+<b><![CDATA[la discoteca]]></b>
+</c><c>
+<f><![CDATA[interest]]></f>
+<b><![CDATA[el interés]]></b>
+</c><c>
+<f><![CDATA[toy]]></f>
+<b><![CDATA[el juguete]]></b>
+</c><c>
+<f><![CDATA[lottery]]></f>
+<b><![CDATA[la lotería]]></b>
+</c><c>
+<f><![CDATA[camera]]></f>
+<b><![CDATA[la máquina fotográfica]]></b>
+</c><c>
+<f><![CDATA[fashion]]></f>
+<b><![CDATA[la moda]]></b>
+</c><c>
+<f><![CDATA[free time]]></f>
+<b><![CDATA[el ocio]]></b>
+</c><c>
+<f><![CDATA[hobby]]></f>
+<b><![CDATA[el pasatiempo]]></b>
+</c><c>
+<f><![CDATA[free time]]></f>
+<b><![CDATA[los ratos libres]]></b>
+</c><c>
+<f><![CDATA[free time]]></f>
+<b><![CDATA[el tiempo libre]]></b>
+</c><c>
+<f><![CDATA[shower]]></f>
+<b><![CDATA[la ducha]]></b>
+</c><c>
+<f><![CDATA[mirror]]></f>
+<b><![CDATA[el espejo]]></b>
+</c><c>
+<f><![CDATA[tap]]></f>
+<b><![CDATA[el grifo]]></b>
+</c><c>
+<f><![CDATA[soap]]></f>
+<b><![CDATA[el jabón]]></b>
+</c><c>
+<f><![CDATA[washbasin]]></f>
+<b><![CDATA[el lavabo]]></b>
+</c><c>
+<f><![CDATA[makeup]]></f>
+<b><![CDATA[maquillaje]]></b>
+</c><c>
+<f><![CDATA[electric shaver]]></f>
+<b><![CDATA[la máquina de afeitar]]></b>
+</c><c>
+<f><![CDATA[safety razor]]></f>
+<b><![CDATA[la maquinilla de afeitar]]></b>
+</c><c>
+<f><![CDATA[toothpaste]]></f>
+<b><![CDATA[la pasta de dientes]]></b>
+</c><c>
+<f><![CDATA[comb]]></f>
+<b><![CDATA[el peine]]></b>
+</c><c>
+<f><![CDATA[perfume]]></f>
+<b><![CDATA[el perfume]]></b>
+</c><c>
+<f><![CDATA[scissors]]></f>
+<b><![CDATA[las tijeras]]></b>
+</c><c>
+<f><![CDATA[towel]]></f>
+<b><![CDATA[la toalla]]></b>
+</c><c>
+<f><![CDATA[tin-opener]]></f>
+<b><![CDATA[el abrelatas]]></b>
+</c><c>
+<f><![CDATA[cupboard]]></f>
+<b><![CDATA[el armario]]></b>
+</c><c>
+<f><![CDATA[tray]]></f>
+<b><![CDATA[la bandeja]]></b>
+</c><c>
+<f><![CDATA[saucepan]]></f>
+<b><![CDATA[la cacerola]]></b>
+</c><c>
+<f><![CDATA[kitchen]]></f>
+<b><![CDATA[la cocina]]></b>
+</c><c>
+<f><![CDATA[cooker]]></f>
+<b><![CDATA[la cocina]]></b>
+</c><c>
+<f><![CDATA[gas cooker]]></f>
+<b><![CDATA[la cocina de gas]]></b>
+</c><c>
+<f><![CDATA[electric cooker]]></f>
+<b><![CDATA[la cocina eléctrica]]></b>
+</c><c>
+<f><![CDATA[freezer]]></f>
+<b><![CDATA[la congeladora]]></b>
+</c><c>
+<f><![CDATA[sink]]></f>
+<b><![CDATA[el fregadero]]></b>
+</c><c>
+<f><![CDATA[fridge]]></f>
+<b><![CDATA[el frigorífico]]></b>
+</c><c>
+<f><![CDATA[tap]]></f>
+<b><![CDATA[el grifo]]></b>
+</c><c>
+<f><![CDATA[oyen]]></f>
+<b><![CDATA[el horno]]></b>
+</c><c>
+<f><![CDATA[tin]]></f>
+<b><![CDATA[la lata]]></b>
+</c><c>
+<f><![CDATA[washing machine]]></f>
+<b><![CDATA[la lavadora]]></b>
+</c><c>
+<f><![CDATA[dishwasher]]></f>
+<b><![CDATA[el lavaplatos]]></b>
+</c><c>
+<f><![CDATA[table]]></f>
+<b><![CDATA[la mesa]]></b>
+</c><c>
+<f><![CDATA[microwave oven]]></f>
+<b><![CDATA[el microondas]]></b>
+</c><c>
+<f><![CDATA[fridge]]></f>
+<b><![CDATA[la nevera]]></b>
+</c><c>
+<f><![CDATA[smell]]></f>
+<b><![CDATA[el olor]]></b>
+</c><c>
+<f><![CDATA[corkscrew]]></f>
+<b><![CDATA[el sacacorchos]]></b>
+</c><c>
+<f><![CDATA[frying pan]]></f>
+<b><![CDATA[la sartén]]></b>
+</c><c>
+<f><![CDATA[chair]]></f>
+<b><![CDATA[la silla]]></b>
+</c><c>
+<f><![CDATA[cup]]></f>
+<b><![CDATA[la taza]]></b>
+</c><c>
+<f><![CDATA[tree]]></f>
+<b><![CDATA[el árbol]]></b>
+</c><c>
+<f><![CDATA[shrub]]></f>
+<b><![CDATA[el arbusto]]></b>
+</c><c>
+<f><![CDATA[lawn]]></f>
+<b><![CDATA[el césped]]></b>
+</c><c>
+<f><![CDATA[flower]]></f>
+<b><![CDATA[la flor]]></b>
+</c><c>
+<f><![CDATA[grass]]></f>
+<b><![CDATA[la hierba]]></b>
+</c><c>
+<f><![CDATA[leaf]]></f>
+<b><![CDATA[la hoja]]></b>
+</c><c>
+<f><![CDATA[garden]]></f>
+<b><![CDATA[el jardín]]></b>
+</c><c>
+<f><![CDATA[apple tree]]></f>
+<b><![CDATA[el manzano]]></b>
+</c><c>
+<f><![CDATA[wall]]></f>
+<b><![CDATA[el muro]]></b>
+</c><c>
+<f><![CDATA[plant]]></f>
+<b><![CDATA[la planta]]></b>
+</c><c>
+<f><![CDATA[branch]]></f>
+<b><![CDATA[la rama]]></b>
+</c><c>
+<f><![CDATA[rose]]></f>
+<b><![CDATA[la rosa]]></b>
+</c><c>
+<f><![CDATA[path]]></f>
+<b><![CDATA[el sendero]]></b>
+</c><c>
+<f><![CDATA[hedge]]></f>
+<b><![CDATA[el seto vivo]]></b>
+</c><c>
+<f><![CDATA[vacuum cleaner]]></f>
+<b><![CDATA[la aspiradora]]></b>
+</c><c>
+<f><![CDATA[rubbish]]></f>
+<b><![CDATA[la basura]]></b>
+</c><c>
+<f><![CDATA[brush]]></f>
+<b><![CDATA[el cepillo]]></b>
+</c><c>
+<f><![CDATA[stain]]></f>
+<b><![CDATA[la mancha]]></b>
+</c><c>
+<f><![CDATA[order (tidiness)]]></f>
+<b><![CDATA[el orden]]></b>
+</c><c>
+<f><![CDATA[iron]]></f>
+<b><![CDATA[la plancha]]></b>
+</c><c>
+<f><![CDATA[chores]]></f>
+<b><![CDATA[los quehaceres]]></b>
+</c></root>

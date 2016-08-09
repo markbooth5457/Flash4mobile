@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[to add (e.g. in cooking)]]></f>
+    <b><![CDATA[añadir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to roast]]></f>
+    <b><![CDATA[asar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cook, boil]]></f>
+    <b><![CDATA[cocer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put in]]></f>
+    <b><![CDATA[echar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to squeeze]]></f>
+    <b><![CDATA[exprimir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fry]]></f>
+    <b><![CDATA[freír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bring to the boil]]></f>
+    <b><![CDATA[hervir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[eggs]]></f>
+    <b><![CDATA[los huevos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to peel]]></f>
+    <b><![CDATA[pelar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[recipe]]></f>
+    <b><![CDATA[la receta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fry gently]]></f>
+    <b><![CDATA[sofreír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vegetables]]></f>
+    <b><![CDATA[la verdura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pour]]></f>
+    <b><![CDATA[verter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cartoon]]></f>
+    <b><![CDATA[la caricatura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to celebrate, to take place]]></f>
+    <b><![CDATA[celebrarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to place]]></f>
+    <b><![CDATA[colocar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to contract]]></f>
+    <b><![CDATA[contratar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put on show, exhibit]]></f>
+    <b><![CDATA[exhibir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to burn]]></f>
+    <b><![CDATA[quemar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[realist]]></f>
+    <b><![CDATA[realista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stainless steel]]></f>
+    <b><![CDATA[el acero inoxidable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cotton]]></f>
+    <b><![CDATA[el algodon]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cushion]]></f>
+    <b><![CDATA[el cojín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[necklace]]></f>
+    <b><![CDATA[el collar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leather]]></f>
+    <b><![CDATA[el cuero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cap]]></f>
+    <b><![CDATA[la gorra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hat (soft, brimless)]]></f>
+    <b><![CDATA[el gorro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wool]]></f>
+    <b><![CDATA[la lana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[material]]></f>
+    <b><![CDATA[el material]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rucksack]]></f>
+    <b><![CDATA[la mochila]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lost item]]></f>
+    <b><![CDATA[el objeto perdido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gold]]></f>
+    <b><![CDATA[el oro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pearls]]></f>
+    <b><![CDATA[las perlas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[silver]]></f>
+    <b><![CDATA[la plata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[watch]]></f>
+    <b><![CDATA[el reloj]]></b>
+  </c>
+  <c>
+    <f><![CDATA[silk]]></f>
+    <b><![CDATA[la seda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(musical) band]]></f>
+    <b><![CDATA[la banda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to beat (food)]]></f>
+    <b><![CDATA[batir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[carnival]]></f>
+    <b><![CDATA[el carnaval]]></b>
+  </c>
+  <c>
+    <f><![CDATA[parade]]></f>
+    <b><![CDATA[el desfile]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to parade]]></f>
+    <b><![CDATA[desfilar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fancy dress costume]]></f>
+    <b><![CDATA[el disfraz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to flee]]></f>
+    <b><![CDATA[huir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to listen to (literally, to hear)]]></f>
+    <b><![CDATA[oír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[queen]]></f>
+    <b><![CDATA[la reina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to greet]]></f>
+    <b><![CDATA[saludar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to smile]]></f>
+    <b><![CDATA[sonreír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yesterday]]></f>
+    <b><![CDATA[ayer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I gave]]></f>
+    <b><![CDATA[di]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I was]]></f>
+    <b><![CDATA[estuve]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I was, I went]]></f>
+    <b><![CDATA[fui]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do the cooking]]></f>
+    <b><![CDATA[hacer la comida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do the shopping]]></f>
+    <b><![CDATA[hacer la compra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I did]]></f>
+    <b><![CDATA[hice]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to tidy (up)]]></f>
+    <b><![CDATA[poner en orden]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I put]]></f>
+    <b><![CDATA[puse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I had]]></f>
+    <b><![CDATA[tuve]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I saw]]></f>
+    <b><![CDATA[vi]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I came]]></f>
+    <b><![CDATA[vine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[promotion (in career)]]></f>
+    <b><![CDATA[el ascenso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to celebrate]]></f>
+    <b><![CDATA[celebrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birthday]]></f>
+    <b><![CDATA[el cumpleaños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[marriage]]></f>
+    <b><![CDATA[el matrimonio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birth]]></f>
+    <b><![CDATA[el nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grades, marks (e.g in exam)]]></f>
+    <b><![CDATA[las notas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[procession]]></f>
+    <b><![CDATA[la procesión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[religious]]></f>
+    <b><![CDATA[religioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go out (for dinner, to dance)]]></f>
+    <b><![CDATA[salir a (cenar, bailar)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[saint; saint's day]]></f>
+    <b><![CDATA[el santo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[year]]></f>
+    <b><![CDATA[el año]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sight]]></f>
+    <b><![CDATA[avistar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[civilization]]></f>
+    <b><![CDATA[la civilización]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonies]]></f>
+    <b><![CDATA[las colonias]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to start]]></f>
+    <b><![CDATA[comenzar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to conquer]]></f>
+    <b><![CDATA[conquistar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to discover]]></f>
+    <b><![CDATA[descubrir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[independence]]></f>
+    <b><![CDATA[la independencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to become independent]]></f>
+    <b><![CDATA[independizarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to invade]]></f>
+    <b><![CDATA[invadir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to die]]></f>
+    <b><![CDATA[morir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be born]]></f>
+    <b><![CDATA[nacer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to occupy]]></f>
+    <b><![CDATA[ocupar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to unify]]></f>
+    <b><![CDATA[unificar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[arm]]></f>
+    <b><![CDATA[el brazo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fall (down)]]></f>
+    <b><![CDATA[caerse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cut (oneself)]]></f>
+    <b><![CDATA[cortarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[finger]]></f>
+    <b><![CDATA[el dedo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to hit, to bang (oneself)]]></f>
+    <b><![CDATA[golpearse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shoulder]]></f>
+    <b><![CDATA[el hombro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hand]]></f>
+    <b><![CDATA[la mano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wrist]]></f>
+    <b><![CDATA[la muñeca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to break (a bone)]]></f>
+    <b><![CDATA[partirse / romperse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[foot]]></f>
+    <b><![CDATA[el pie]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leg]]></f>
+    <b><![CDATA[la pierna]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to burn onself]]></f>
+    <b><![CDATA[quemarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to slip over]]></f>
+    <b><![CDATA[resbalarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[knee]]></f>
+    <b><![CDATA[la rodilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to break (a bone)]]></f>
+    <b><![CDATA[romperse / partirse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sit down]]></f>
+    <b><![CDATA[sentarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ankle]]></f>
+    <b><![CDATA[el tobillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to twist, sprain]]></f>
+    <b><![CDATA[torcerse]]></b>
+  </c>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to be"]]></f>
+    <b><![CDATA[<table><tr><td>estoy</td><td>estamos</td></tr><tr><td>estás</td><td>estáis</td></tr><tr><td>está</td><td>están</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to be" (I was, you were, etc.)]]></f>
+    <b><![CDATA[<table><tr><td>estuve</td><td>estuvimos</td></tr><tr><td>estuviste</td><td>estuvisteis</td></tr><tr><td>estuvo</td><td>estuvieron</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to be" (I used to be, he was)]]></f>
+    <b><![CDATA[<table><tr><td>estaba</td><td>estábamos</td></tr><tr><td>estabas</td><td>estabais</td></tr><tr><td>estaba</td><td>estaban</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to be"]]></f>
+    <b><![CDATA[<table><tr><td>estaré</td><td>estaremos</td></tr><tr><td>estarás</td><td>estaréis</td></tr><tr><td>estará</td><td>estarán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to be" ]]></f>
+    <b><![CDATA[estado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to be" (being)]]></f>
+    <b><![CDATA[estando]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to be"]]></f>
+    <b><![CDATA[<table><tr><td>esté</td><td>estemos</td></tr><tr><td>estés</td><td>estéis</td></tr><tr><td>esté</td><td>estén</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to be" (I would be)]]></f>
+    <b><![CDATA[<table><tr><td>estaría</td><td>estaríamos</td></tr><tr><td>estarías</td><td>estaríais</td></tr><tr><td>estaría</td><td>estarían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperative of "to be" (be!)]]></f>
+    <b><![CDATA[(tu) está (vosotros) estad]]></b>
+  </c>
+</root>

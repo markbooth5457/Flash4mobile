@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[airport]]></f>
+    <b><![CDATA[el aeropuerto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[old (building/furniture, etc.)]]></f>
+    <b><![CDATA[antiguo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pretty, nice]]></f>
+    <b><![CDATA[bonito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[house]]></f>
+    <b><![CDATA[la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shopping centre]]></f>
+    <b><![CDATA[el centro comercial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[city]]></f>
+    <b><![CDATA[la ciudad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[commercial]]></f>
+    <b><![CDATA[comercial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cultural]]></f>
+    <b><![CDATA[cultural]]></b>
+  </c>
+  <c>
+    <f><![CDATA[building]]></f>
+    <b><![CDATA[el edificio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[educational]]></f>
+    <b><![CDATA[educativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ugly]]></f>
+    <b><![CDATA[feo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[big]]></f>
+    <b><![CDATA[grande]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modern]]></f>
+    <b><![CDATA[moderno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small]]></f>
+    <b><![CDATA[pequeño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beautiful]]></f>
+    <b><![CDATA[precioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tall, high]]></f>
+    <b><![CDATA[alto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lively]]></f>
+    <b><![CDATA[animado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bell tower]]></f>
+    <b><![CDATA[el campanario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[old quarter]]></f>
+    <b><![CDATA[el casco viejo, el casco antiguo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cathedral]]></f>
+    <b><![CDATA[la catedral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(railway) station]]></f>
+    <b><![CDATA[la estación (de tren)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gothic]]></f>
+    <b><![CDATA[gótico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[medieval]]></f>
+    <b><![CDATA[medieval]]></b>
+  </c>
+  <c>
+    <f><![CDATA[market]]></f>
+    <b><![CDATA[el mercado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modernist]]></f>
+    <b><![CDATA[modernista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tower]]></f>
+    <b><![CDATA[la torre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[town hall]]></f>
+    <b><![CDATA[el ayuntamiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[school]]></f>
+    <b><![CDATA[la escuela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tourist office]]></f>
+    <b><![CDATA[la oficina de turismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[palace]]></f>
+    <b><![CDATA[el palacio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sports centre]]></f>
+    <b><![CDATA[el polideportivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bridge]]></f>
+    <b><![CDATA[el puente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[place]]></f>
+    <b><![CDATA[el sitio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supermarket]]></f>
+    <b><![CDATA[el supermercado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shop]]></f>
+    <b><![CDATA[la tienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bank]]></f>
+    <b><![CDATA[el banco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bar (pub)]]></f>
+    <b><![CDATA[el bar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[internet café]]></f>
+    <b><![CDATA[el cibercafé]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cinema]]></f>
+    <b><![CDATA[el cine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[post office]]></f>
+    <b><![CDATA[Correos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hypermarket]]></f>
+    <b><![CDATA[el hipermercado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[office]]></f>
+    <b><![CDATA[la oficina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[park]]></f>
+    <b><![CDATA[el parque]]></b>
+  </c>
+  <c>
+    <f><![CDATA[restaurant]]></f>
+    <b><![CDATA[el restaurante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bar (counter)]]></f>
+    <b><![CDATA[la barra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drink]]></f>
+    <b><![CDATA[la bebida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[café]]></f>
+    <b><![CDATA[la cafetería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hi-fi]]></f>
+    <b><![CDATA[el equipo de música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[table]]></f>
+    <b><![CDATA[la mesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[newspaper]]></f>
+    <b><![CDATA[el periódico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dance floor]]></f>
+    <b><![CDATA[la pista de baile]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chair]]></f>
+    <b><![CDATA[la silla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sofa]]></f>
+    <b><![CDATA[el sofá]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(bar) stool]]></f>
+    <b><![CDATA[el taburete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[TV set]]></f>
+    <b><![CDATA[el televisor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(electric) fan]]></f>
+    <b><![CDATA[el ventilador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toilets]]></f>
+    <b><![CDATA[los aseos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gentlemen]]></f>
+    <b><![CDATA[los caballeros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to know (a person)]]></f>
+    <b><![CDATA[conocer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gym]]></f>
+    <b><![CDATA[el gimnasio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toilets, sink]]></f>
+    <b><![CDATA[el lavabo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swimming pool]]></f>
+    <b><![CDATA[la piscina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reception]]></f>
+    <b><![CDATA[la recepción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to recommend]]></f>
+    <b><![CDATA[recomendar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to know (something)]]></f>
+    <b><![CDATA[saber]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sauna]]></f>
+    <b><![CDATA[la sauna]]></b>
+  </c>
+  <c>
+    <f><![CDATA[changing rooms]]></f>
+    <b><![CDATA[los vestuarios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[library]]></f>
+    <b><![CDATA[la biblioteca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cash machine]]></f>
+    <b><![CDATA[el cajero automático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to change (money)]]></f>
+    <b><![CDATA[cambiar (dinero)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[e-mail]]></f>
+    <b><![CDATA[el correo electrónico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[current account]]></f>
+    <b><![CDATA[la cuenta corriente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[money]]></f>
+    <b><![CDATA[el dinero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[theatre ticket]]></f>
+    <b><![CDATA[la entrada de teatro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take out money]]></f>
+    <b><![CDATA[sacar dinero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get tickets]]></f>
+    <b><![CDATA[sacar entradas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[balance (of account)]]></f>
+    <b><![CDATA[el saldo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stamp]]></f>
+    <b><![CDATA[el sello]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bus/underground pass]]></f>
+    <b><![CDATA[la tarjeta de autobús/metro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[counter, box office]]></f>
+    <b><![CDATA[la ventanilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cheap]]></f>
+    <b><![CDATA[barato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[block of flats]]></f>
+    <b><![CDATA[el bloque de pisos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[expensive]]></f>
+    <b><![CDATA[caro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comfortable]]></f>
+    <b><![CDATA[cómodo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[decorative]]></f>
+    <b><![CDATA[decorativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[uncomfortable]]></f>
+    <b><![CDATA[incómodo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[luxuroius]]></f>
+    <b><![CDATA[lujoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mansion]]></f>
+    <b><![CDATA[la mansión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[floor, storey]]></f>
+    <b><![CDATA[la planta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[noisy]]></f>
+    <b><![CDATA[ruidoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[quiet]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+</root>

@@ -1,0 +1,187 @@
+/*
+ 
+ */ 
+
+/* ==================== TOP-LEVEL CONTAINERS ==================== */
+
+body {
+  width: 320px;
+  margin: 0px;
+  padding: 0px;
+  background-image: url('images/background_stripes.png');
+  background-repeat: repeat;
+  font-family: Helvetica;
+  /* ensure that we don't get the default callout following a long touch on
+  an element, which is a default behavior in Mobile Safari */
+  -webkit-touch-callout: none;
+  /* disable the Mobile Safari default behavior to adjust font size automatically
+  to improve readability */
+  -webkit-text-size-adjust: none;
+  
+  /* The user cannot select any content.*/
+  -webkit-user-select: none;
+}
+
+/* Styles the "Card Flip" page and creates a placeholder for the card */
+#container
+{
+	/* Set these dimensions so the card can be properly displayed in Safari on iPhone */
+	height: 356px;
+	width: 320px;
+	background-color: rgba(56,108,179, 0.5);
+	
+	/* Disable tap highlighting */
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	
+	/* Give some depth to the card */
+	-webkit-perspective: 600;
+}
+
+
+/* Applies 3D transform and transition effects to the card. The card has two states: regular and flipped.
+   A card is in a regular state when there is an empty transform applied to it, and otherwise in a flipped
+   state, where there is a rotational transformation applied. This class is used when the card is in the regular state.
+   The "card flipped" class is used when the card is in the flipped state. 
+*/
+.card 
+{
+	position: absolute;
+	height: 320px;
+	width: 200px;
+	left: 60px;
+	top: 28px;
+	font-size: 150%;
+	
+	/* Ensure that the card lives correctly in 3D space */
+	-webkit-transform-style: preserve-3d;
+	
+	/* We apply this property to the card so it can smoothly flip between its sides */
+	-webkit-transition-property: -webkit-transform;
+	/* Make the animation occur over a period of 1.5 seconds */
+	-webkit-transition-duration: 1.5s;
+}
+
+
+/* Applies the flip animation to the card */
+.card.flipped
+{
+
+	/* Rotate the card 180 degrees along the y-axis. This animation allows the card to
+	  toggle between its regular and flipped states. */
+	-webkit-transform: rotateY(180deg);
+}
+
+
+/* Styles the card and hides its "back side" when the card is flipped */
+.face 
+{
+	position: absolute;
+	height: 320px;
+	width: 200px;
+	/* Give a round layout to the card */
+	-webkit-border-radius: 10px;
+	/* Drop shadow around the card */
+    -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.5);
+	/* Make sure that users will not be able to select anything on the card */
+	
+	/* We create the card by stacking two div elements at the exact same location. The back of the card 
+	   is shown when we rotated the card 180 degrees along the y-axis. Setting this property to hidden
+	   ensures that the "back side" is hidden when the card is flipped
+	*/
+	-webkit-backface-visibility: hidden;
+}
+
+/* Styles the front of the card */
+.front 
+{
+	/* Set the color of the suit characters on the card */
+	color: rgb(78,150,249);
+	/* Background color of this side of the card */
+	background-color: rgb(34,65,108);
+}
+
+
+/* Styles the back of the card */
+.back 
+{
+	color: rgb(34,65,108);
+	background-color: rgba(78,150,249,0.5);
+	
+	/* Ensure the "back side" is flipped already */
+	-webkit-transform: rotateY(180deg);
+} 
+
+/* ==================== HEADER ==================== */
+
+#header {
+  position: relative;
+  height: 40px;
+  background-image: url('images/header_middle.png');
+  border-bottom: 1px solid rgb(45, 54, 66);
+}
+
+.button {
+  /* use absolute positioning and transforms as these will be subject to hardware transitions */
+  position: absolute;
+  -webkit-transform: translate(0px, 0px);
+  /* the buttons should be displayed on top of the titles so that they can always receive touches */
+  z-index: 1;
+  /* set up the font appearance */
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: rgba(0, 0, 0, .6) 0px -1px 0px;
+  /* set up the chrome background */
+  -webkit-border-image : url('images/back_button.png') 0 4 0 13;
+  border-width : 0 4px 0 13px;
+  padding-top: 7px;
+  padding-right: 4px;
+  /* base metrics used to ensure a minumum size and specify a max size that can be used to trim the contents */
+  min-width: 40px;
+  max-width: 60px;
+  height: 23px; 
+  /* enfore trimming if the label is too long */
+  white-space : nowrap;
+  overflow : hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* touched state for the buttons */
+.button:active {
+  -webkit-border-image : url('images/back_button_touched.png') 0 4 0 13;
+}
+
+.title {
+  /* use absolute positioning and transforms as these will be subject to hardware transitions */
+  position: absolute;
+  -webkit-transform: translate(0px, 0px);
+  /* base metrics */
+  height: 31px;
+  margin-top: 3px;
+  /* the titles should be displayed below the button so that they don't receive touches */
+  z-index: 0;
+  /* set up the font appearance */
+  font-size: 16pt;
+  font-weight: bold;
+  color: white;
+  text-shadow: rgba(0, 0, 0, .6) 0px -1px 0px;
+  /* enfore trimming if the label is too long */
+  white-space : nowrap;
+  overflow : hidden;
+  text-overflow: ellipsis;
+}
+
+/* ==================== MAIN PAGES CONTENT ==================== */
+
+#pages_container > div {
+  position: absolute;
+  text-align:center;
+  /*
+  add a default transform so that the contents of the pages
+  are already composited as hardware elements and will animate
+  smoothly later on when we launch transitions
+  */
+  -webkit-transform: translate(0px,0px);
+}

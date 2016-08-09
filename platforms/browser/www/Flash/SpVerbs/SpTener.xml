@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>tengo</td><td>tenemos</td></tr><tr><td>tienes</td><td>tenéis</td></tr><tr><td>tiene</td><td>tienen</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to have" (I had, you had, etc.)]]></f>
+    <b><![CDATA[<table><tr><td>tuve</td><td>tuvimos</td></tr><tr><td>tuviste</td><td>tuvisteis</td></tr><tr><td>tuvo</td><td>tuvieron</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to have" (I used to have, he was having)]]></f>
+    <b><![CDATA[<table><tr><td>tenía</td><td>teníamos</td></tr><tr><td>tenías</td><td>teníais</td></tr><tr><td>tenía</td><td>tenían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>tendré</td><td>tendremos</td></tr><tr><td>tendrás</td><td>tendréis</td></tr><tr><td>tendrá</td><td>tendrán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to have" (had)]]></f>
+    <b><![CDATA[tenido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to have" (having)]]></f>
+    <b><![CDATA[teniendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to have"]]></f>
+    <b><![CDATA[<table><tr><td>tenga</td><td>tengamos</td></tr><tr><td>tengas</td><td>tengáis</td></tr><tr><td>tenga</td><td>tengan</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to have" (I would have)]]></f>
+    <b><![CDATA[<table><tr><td>tendría</td><td>tendríamos</td></tr><tr><td>tendrías</td><td>tendríais</td></tr><tr><td>tendría</td><td>tendrían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperative of "to have" ]]></f>
+    <b><![CDATA[(tu) ten (vosotros) tened]]></b>
+  </c>
+</root>

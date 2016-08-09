@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[ball-point pen]]></f>
+    <b><![CDATA[el bolígrafo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[box]]></f>
+    <b><![CDATA[la caja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[camera]]></f>
+    <b><![CDATA[la cámara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mobile (phone)]]></f>
+    <b><![CDATA[el celular (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[computer]]></f>
+    <b><![CDATA[la computadora (L Am), el computador (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[e-mail]]></f>
+    <b><![CDATA[correo electrónico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[e-mail address]]></f>
+    <b><![CDATA[dirección de correo electrónico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[compact disk]]></f>
+    <b><![CDATA[el disco compacto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[diskette]]></f>
+    <b><![CDATA[el disquete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stamp]]></f>
+    <b><![CDATA[la estampilla (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[index card]]></f>
+    <b><![CDATA[la ficha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[laser printer]]></f>
+    <b><![CDATA[la impresora láser]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fax number]]></f>
+    <b><![CDATA[número de fax]]></b>
+  </c>
+  <c>
+    <f><![CDATA[telephone number]]></f>
+    <b><![CDATA[el número de teléfono]]></b>
+  </c>
+  <c>
+    <f><![CDATA[computer]]></f>
+    <b><![CDATA[el ordenador (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pack of paper]]></f>
+    <b><![CDATA[el paquete de papel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[surname]]></f>
+    <b><![CDATA[el apellido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to learn]]></f>
+    <b><![CDATA[aprender]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to dance]]></f>
+    <b><![CDATA[bailar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[apartment, flat]]></f>
+    <b><![CDATA[el departamento (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to write]]></f>
+    <b><![CDATA[escribir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[faculty]]></f>
+    <b><![CDATA[la facultad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sailor]]></f>
+    <b><![CDATA[el marinero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ask]]></f>
+    <b><![CDATA[preguntar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to repeat]]></f>
+    <b><![CDATA[repetir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[university]]></f>
+    <b><![CDATA[la universidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[welcome]]></f>
+    <b><![CDATA[bienvenido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Good Luck!]]></f>
+    <b><![CDATA[¡Buena Suerte!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[director, head]]></f>
+    <b><![CDATA[el director]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exactly (time)]]></f>
+    <b><![CDATA[en punto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Dear...]]></f>
+    <b><![CDATA[Estimado...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[time; hour]]></f>
+    <b><![CDATA[la hora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personnel manager]]></f>
+    <b><![CDATA[el jefe / la jefa de personal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[post office]]></f>
+    <b><![CDATA[la oficina de correos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[late]]></f>
+    <b><![CDATA[tarde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job; work]]></f>
+    <b><![CDATA[el trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Kind regards]]></f>
+    <b><![CDATA[Un cordial saludo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[quarter past...]]></f>
+    <b><![CDATA[... y cuarto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[half past...]]></f>
+    <b><![CDATA[... y media]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to drink]]></f>
+    <b><![CDATA[beber]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to eat]]></f>
+    <b><![CDATA[comer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to answer]]></f>
+    <b><![CDATA[contestar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[disability]]></f>
+    <b><![CDATA[la discapacidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[disabled people]]></f>
+    <b><![CDATA[los discapacitados]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to send]]></f>
+    <b><![CDATA[enviar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to study]]></f>
+    <b><![CDATA[estudiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do / to make]]></f>
+    <b><![CDATA[hacer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to read]]></f>
+    <b><![CDATA[leer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to phone, call]]></f>
+    <b><![CDATA[llamar (por teléfono)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to receive]]></f>
+    <b><![CDATA[recibir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to answer]]></f>
+    <b><![CDATA[responder]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to finish (doing)]]></f>
+    <b><![CDATA[terminar (de hacer)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sell]]></f>
+    <b><![CDATA[vender]]></b>
+  </c>
+  <c>
+    <f><![CDATA[housewife]]></f>
+    <b><![CDATA[el (feminine) ama de casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[street cleaner]]></f>
+    <b><![CDATA[el barrendero, la barrendera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look for]]></f>
+    <b><![CDATA[buscar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cafeteria]]></f>
+    <b><![CDATA[la cafetería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lorry driver]]></f>
+    <b><![CDATA[el camionero, la camionera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[road]]></f>
+    <b><![CDATA[la carretera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clinic]]></f>
+    <b><![CDATA[la clínica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(secondary) school]]></f>
+    <b><![CDATA[el colegio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look after]]></f>
+    <b><![CDATA[cuidar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unemployed]]></f>
+    <b><![CDATA[desempleado (L Am) parado (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la empresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nurse]]></f>
+    <b><![CDATA[el enfermero, la enfermera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be unemployed]]></f>
+    <b><![CDATA[estar en paro (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[retired]]></f>
+    <b><![CDATA[jubilado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to clean]]></f>
+    <b><![CDATA[limpiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[workplace]]></f>
+    <b><![CDATA[el lugar de trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unemployed]]></f>
+    <b><![CDATA[parado (Sp) desempleado (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[journalist]]></f>
+    <b><![CDATA[el / la periodista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[police officer]]></f>
+    <b><![CDATA[el /la policía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[occupation, profession]]></f>
+    <b><![CDATA[la profesión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to play (a musical instrument)]]></f>
+    <b><![CDATA[tocar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lift (elevator)]]></f>
+    <b><![CDATA[el ascensor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[classroom]]></f>
+    <b><![CDATA[el (feminine) aula]]></b>
+  </c>
+  <c>
+    <f><![CDATA[office]]></f>
+    <b><![CDATA[el despacho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stairs]]></f>
+    <b><![CDATA[las escaleras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[escalator]]></f>
+    <b><![CDATA[la escalera mecánica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[information desk]]></f>
+    <b><![CDATA[la información]]></b>
+  </c>
+  <c>
+    <f><![CDATA[museum]]></f>
+    <b><![CDATA[el museo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[corridor]]></f>
+    <b><![CDATA[el pasillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[concert hall]]></f>
+    <b><![CDATA[la sala de conciertos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[background, work record]]></f>
+    <b><![CDATA[los antecedentes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advertisement]]></f>
+    <b><![CDATA[el anuncio (Sp) el aviso (L Am)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[full-time]]></f>
+    <b><![CDATA[a tiempo completo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[part-time]]></f>
+    <b><![CDATA[a tiempo parcial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advertisment]]></f>
+    <b><![CDATA[el aviso (L Am) el anuncio (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[commission]]></f>
+    <b><![CDATA[la comisión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la compañía, la empresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[knowledge]]></f>
+    <b><![CDATA[el conocimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contract]]></f>
+    <b><![CDATA[el contrato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[CV]]></f>
+    <b><![CDATA[el currículum vitae]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la empresa, la compañía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[experience]]></f>
+    <b><![CDATA[la experiencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[training]]></f>
+    <b><![CDATA[la formación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[engineer]]></f>
+    <b><![CDATA[el ingeniero, la ingeniera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to need]]></f>
+    <b><![CDATA[necesitar, precisar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to need]]></f>
+    <b><![CDATA[precisar, necesitar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to require]]></f>
+    <b><![CDATA[requerir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[requirements]]></f>
+    <b><![CDATA[los requisitos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salary]]></f>
+    <b><![CDATA[el salario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[temporary]]></f>
+    <b><![CDATA[temporal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[qualifications]]></f>
+    <b><![CDATA[la titulación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sleep]]></f>
+    <b><![CDATA[dormir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job (employment)]]></f>
+    <b><![CDATA[el empleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[interview]]></f>
+    <b><![CDATA[la entrevista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to listen to]]></f>
+    <b><![CDATA[escuchar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrive, get (somewhere)]]></f>
+    <b><![CDATA[llegar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[psychologist]]></f>
+    <b><![CDATA[el psicólogo, la psicóloga]]></b>
+  </c>
+  <c>
+    <f><![CDATA[radio]]></f>
+    <b><![CDATA[la radio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to select, choose]]></f>
+    <b><![CDATA[seleccionar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take]]></f>
+    <b><![CDATA[tomar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to see]]></f>
+    <b><![CDATA[ver]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to watch television]]></f>
+    <b><![CDATA[ver la televisión]]></b>
+  </c>
+</root>

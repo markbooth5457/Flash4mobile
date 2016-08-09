@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Problems, decisions and advice]]></f>
+    <b><![CDATA[Problemas, decisiones y consejos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advice]]></f>
+    <b><![CDATA[el consejo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to advise]]></f>
+    <b><![CDATA[aconsejar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to give advice]]></f>
+    <b><![CDATA[dar consejo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to request advice (of somebody on something)]]></f>
+    <b><![CDATA[pedir(le) consejo (a alguien sobre algo) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to choose]]></f>
+    <b><![CDATA[optar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[option]]></f>
+    <b><![CDATA[la opción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[priority]]></f>
+    <b><![CDATA[la prioridad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[work/unemployment]]></f>
+    <b><![CDATA[empleo / desempleo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[profession]]></f>
+    <b><![CDATA[la profesión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unemployment]]></f>
+    <b><![CDATA[el paro (in Spain = desempleo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be unemployed]]></f>
+    <b><![CDATA[estar desempleado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be in unemployment]]></f>
+    <b><![CDATA[estar en paro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the unemployed]]></f>
+    <b><![CDATA[el parado, la parada (Spain)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to become out of date(?)]]></f>
+    <b><![CDATA[desactualizarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pay]]></f>
+    <b><![CDATA[el sueldo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hours (of work)]]></f>
+    <b><![CDATA[el horario (de trabajo) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personnel]]></f>
+    <b><![CDATA[el personal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[group]]></f>
+    <b><![CDATA[la plantilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[union]]></f>
+    <b><![CDATA[el sindicato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[promotion]]></f>
+    <b><![CDATA[la promoción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to earn (money, pay)]]></f>
+    <b><![CDATA[ganar (dinero, un sueldo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The search for work]]></f>
+    <b><![CDATA[La búsqueda del empleo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vacancy]]></f>
+    <b><![CDATA[la vacante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[offer of employment]]></f>
+    <b><![CDATA[la oferta de empleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[post, position]]></f>
+    <b><![CDATA[la plaza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job]]></f>
+    <b><![CDATA[el puesto de trabajo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to carry out a job]]></f>
+    <b><![CDATA[desempeñar un trabajo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look for work/employment]]></f>
+    <b><![CDATA[buscar trabajo / empleo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to find a job/employment]]></f>
+    <b><![CDATA[encontrar trabajo / empleo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take up (a position)]]></f>
+    <b><![CDATA[acceder (a un puesto)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[employment office]]></f>
+    <b><![CDATA[la oficina de empleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[employment agencies]]></f>
+    <b><![CDATA[las bolsas de trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job application]]></f>
+    <b><![CDATA[la solicitud de empleo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fill in a job application]]></f>
+    <b><![CDATA[rellenar una solicitud]]></b>
+  </c>
+  <c>
+    <f><![CDATA[job application letter]]></f>
+    <b><![CDATA[la carta de solicitud de trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[presentation letter (?)]]></f>
+    <b><![CDATA[la carta de presentación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[curriculum vitae]]></f>
+    <b><![CDATA[el currículum vitae / el currículo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[call (for interview?)]]></f>
+    <b><![CDATA[la convocatoria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aptitude test]]></f>
+    <b><![CDATA[la prueba de aptitud ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[selection test]]></f>
+    <b><![CDATA[la prueba de selección ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrange (an appointment)]]></f>
+    <b><![CDATA[concertar (un cita) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to contract]]></f>
+    <b><![CDATA[contratar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contract (of employment)]]></f>
+    <b><![CDATA[el contrato (de empleo)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Factors (at the time of choosing a profession)]]></f>
+    <b><![CDATA[Factores (a la hora de elegir una profesión) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[intellectual capacity]]></f>
+    <b><![CDATA[la capacidad intelectual ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[preferences/individual tastes]]></f>
+    <b><![CDATA[las preferencias / los gustos individuales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vocation]]></f>
+    <b><![CDATA[la vocación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supply of positions]]></f>
+    <b><![CDATA[la oferta de plazas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the labor market]]></f>
+    <b><![CDATA[el mercado laboral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Personal and professional information]]></f>
+    <b><![CDATA[Información personal y profesional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[professional profile]]></f>
+    <b><![CDATA[el perfil profesional ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personal data]]></f>
+    <b><![CDATA[los datos personales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[academic formation]]></f>
+    <b><![CDATA[la formación académica ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[complementary training]]></f>
+    <b><![CDATA[la formación complementaria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[professional training]]></f>
+    <b><![CDATA[la formación profesional ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[studies]]></f>
+    <b><![CDATA[los estudios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[preparation]]></f>
+    <b><![CDATA[la preparación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[abilities]]></f>
+    <b><![CDATA[las habilidades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advanced training courses]]></f>
+    <b><![CDATA[los cursos de capacitación ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be enabled]]></f>
+    <b><![CDATA[estar capacitado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[retraining course]]></f>
+    <b><![CDATA[el curso de reciclaje ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to retrain]]></f>
+    <b><![CDATA[reciclarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short course]]></f>
+    <b><![CDATA[el cursillo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(university) career]]></f>
+    <b><![CDATA[la carrera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[professional experience]]></f>
+    <b><![CDATA[la experiencia profesional ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[professional objectives]]></f>
+    <b><![CDATA[los objetivos profesionales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hobbies]]></f>
+    <b><![CDATA[los hobbies ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hobbies]]></f>
+    <b><![CDATA[las aficiones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pleasures]]></f>
+    <b><![CDATA[los gustos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Professional profiles]]></f>
+    <b><![CDATA[Perfiles profesionales ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[positive reformulation]]></f>
+    <b><![CDATA[la reformulación positiva ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personal characteristics]]></f>
+    <b><![CDATA[las características personales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(hard) worker]]></f>
+    <b><![CDATA[trabajador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serious]]></f>
+    <b><![CDATA[serio ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[active]]></f>
+    <b><![CDATA[activo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[person in charge]]></f>
+    <b><![CDATA[responsable ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[constant]]></f>
+    <b><![CDATA[constante ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[precise]]></f>
+    <b><![CDATA[puntual ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tolerant]]></f>
+    <b><![CDATA[tolerante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flexible]]></f>
+    <b><![CDATA[flexible ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[developed]]></f>
+    <b><![CDATA[desenvuelto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ambitious]]></f>
+    <b><![CDATA[ambicioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[irresponsible]]></f>
+    <b><![CDATA[irresponsable ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[neglectful]]></f>
+    <b><![CDATA[descuidado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vague]]></f>
+    <b><![CDATA[vago]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sluggish]]></f>
+    <b><![CDATA[perezoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be bad-mannered]]></f>
+    <b><![CDATA[ser un maleducado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[effort]]></f>
+    <b><![CDATA[el esfuerzo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ability to overcome]]></f>
+    <b><![CDATA[la capacidad de superación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ability to adapt]]></f>
+    <b><![CDATA[la capacidad de adaptación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[maturity]]></f>
+    <b><![CDATA[la madurez]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sense of responsibility]]></f>
+    <b><![CDATA[el sentido de responsabilidad ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[autonomy]]></f>
+    <b><![CDATA[la autonomía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[initiative]]></f>
+    <b><![CDATA[la iniciativa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[perseverance]]></f>
+    <b><![CDATA[la perseverancia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[constancy]]></f>
+    <b><![CDATA[la constancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[creativity]]></f>
+    <b><![CDATA[la creatividad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[team working]]></f>
+    <b><![CDATA[el trabajo en equipo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[positive attitude]]></f>
+    <b><![CDATA[la actitud positiva ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dedication]]></f>
+    <b><![CDATA[la dedicación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[confidence in oneself]]></f>
+    <b><![CDATA[la confianza en sí mismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[self-esteem]]></f>
+    <b><![CDATA[la autoestima ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[motivation]]></f>
+    <b><![CDATA[la motivación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be motivated]]></f>
+    <b><![CDATA[estar motivado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(not) to know how to treat the clients]]></f>
+    <b><![CDATA[(no) saber tratar a los clientes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(not) to have experience]]></f>
+    <b><![CDATA[(no) tener experiencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have an appearance]]></f>
+    <b><![CDATA[tener una apariencia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[careful]]></f>
+    <b><![CDATA[cuidada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have ambition]]></f>
+    <b><![CDATA[tener ambición]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Types of letter]]></f>
+    <b><![CDATA[Tipos de carta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[business letter]]></f>
+    <b><![CDATA[la carta comercial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[letter of reservation]]></f>
+    <b><![CDATA[la carta de reserva / reservación (HispAm) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[application letter (for information, for work)]]></f>
+    <b><![CDATA[la carta de solicitud (de información, de empleo) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[claim letter]]></f>
+    <b><![CDATA[la carta de reclamación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Parts of the letter]]></f>
+    <b><![CDATA[Partes de la carta ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[letterhead]]></f>
+    <b><![CDATA[el membrete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[adressee]]></f>
+    <b><![CDATA[el destinatario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[your/our reference]]></f>
+    <b><![CDATA[su / nuestra referencia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[subject]]></f>
+    <b><![CDATA[el asunto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[greeting]]></f>
+    <b><![CDATA[el saludo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[body of the letter]]></f>
+    <b><![CDATA[el cuerpo de la carta ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[goodbye]]></f>
+    <b><![CDATA[la despedida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[signature]]></f>
+    <b><![CDATA[la firma]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sender]]></f>
+    <b><![CDATA[el/la remitente]]></b>
+  </c>
+</root>

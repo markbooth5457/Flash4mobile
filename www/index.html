@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <!--
+        Customize this policy to fit your own app's needs. For more guidance, see:
+            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+        Some notes:
+            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+                * Enable inline JS: add 'unsafe-inline' to default-src
+        -->
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" href="css/app.min.css">
+        <link rel="stylesheet" href="css/flash.css">
+        <link rel="stylesheet" href="css/responsive.css">
+
+        <title>Flash Cards</title>
+    </head>
+    <body>
+
+      <div class="app-page" data-page="home">
+        <div class="app-topbar blue">
+          <div class="left app-button" id="settingsBtn"   >Settings</div>
+          <div class="app-title">Select a topic</div>
+          <div class="right app-button" id="helpBtn" >Help</div>
+        </div>
+        <div class="app-content">
+          <div class="app-section" id="topicDiv">
+            <ul class="app-list" id="topicList">
+            </ul>
+          </div>
+        </div>
+      </div>
+
+        <div class="app-page" data-page="filepage">
+          <div class="app-topbar blue">
+            <div class="left app-button" data-back></div>
+            <div class="app-title">Select a topic</div>
+            <div class="right app-button"  id="fileHelpBtn">Help</div>
+          </div>
+          <div class="app-content">
+            <div class="app-section" id="fileDiv">
+              <ul class="app-list" id="fileList">
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="app-page" data-page="cardpage">
+          <div class="app-topbar blue">
+            <div class="left app-button" data-back ></div>
+            <div class="app-title"><span class='decktitle'></span></div>
+            <div class="right app-button" >Help</div>
+          </div>
+          <div class="app-content">
+            <div class="app-section" id="cardDiv">
+                <div class="card">
+                  <!-- The front and face classes are used to style the front and back of the card -->
+            			<!-- Shows the front of the card. Shown when this page initially loads -->
+            				<div id="front" class="front face">
+            				</div>
+            			<!-- Shows the back of the card. Hidden initially -->
+            				<div id="back" class="back face">
+            				</div>
+                </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="app-page" data-page="helppage">
+          <div class="app-topbar blue">
+            <div class="left app-button" data-back ></div>
+            <div class="app-title">Press to move...<span class='decktitle'></span></div>
+            
+          </div>
+          <div class="app-content">
+            <div class="app-section">
+                <div class="help">
+                  <div class="help row">
+                    <div class="help column">
+                      Backward
+                    </div>
+                    <div class="help column">
+                      Flip
+                    </div>
+                    <div class="help column">
+                      Forward
+                    </div>
+                  </div>
+                  <div class="help row">
+                    <div class="help column">
+                      Flip Backward
+                    </div>
+                    <div class="help column">
+                      Flag
+                    </div>
+                    <div class="help column">
+                      Flip Forward
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="app-page" data-page="settings" >
+          <div class="app-topbar blue">
+            <div class="left app-button" data-back ></div>
+            <div class="app-title">Flash settings</div>
+            <div class="right app-button" >Help</div>
+          </div>
+          <div class="app-content">
+            <div class="app-section" id="settingsDiv">
+              <ul class="app-list">
+                <li>Show both sides at once
+                  <span class="right">
+                    <input id="bothsides" type="checkbox">
+                  </span>
+                </li>
+                <li>Show reverse side first
+                  <span class="right">
+                    <input id="backfirst" type="checkbox">
+                  </span>
+                </li>
+                <li>Show only tagged cards
+                  <span class="right">
+                    <input id="taggedonly" type="checkbox">
+                  </span>
+                </li>
+                <li>Flip cards automatically
+                  <span class="right">
+                    <input id="automate" type="checkbox">
+                  </span>
+                </li>
+                <li>Flip after n seconds
+                  <span class="right">
+                    <input id="delay" type="text" size="1" value="2">
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script src="js/zepto.js"></script>
+        <script src="js/app.min.js"></script>
+        <script src="js/XMLReqObj.js"></script>
+        <script src="js/flashcards.js"></script>
+        <script src="js/iFlash.js"></script>
+        <script src="js/App2flash.js"></script>
+
+
+    </body>
+</html>

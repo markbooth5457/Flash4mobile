@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to go"]]></f>
+    <b><![CDATA[<table><tr><td>voy</td><td>vamos</td></tr><tr><td>vas</td><td>vais</td></tr><tr><td>va</td><td>van</td></tr></table>
+
+]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to go" (I went)]]></f>
+    <b><![CDATA[<table><tr><td>fui</td><td>fuimos</td></tr><tr><td>fuiste</td><td>fuisteis</td></tr><tr><td>fue</td><td>fueron</td></tr></table>
+]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to go" (I used to go, he was going)]]></f>
+    <b><![CDATA[<table><tr><td>iba</td><td>ibamos</td></tr><tr><td>ibas</td><td>ibais</td></tr><tr><td>iba</td><td>iban</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to go"]]></f>
+    <b><![CDATA[<table><tr><td>iré</td><td>iremos</td></tr><tr><td>irás</td><td>iréis</td></tr><tr><td>irá</td><td>irán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to go" (went)]]></f>
+    <b><![CDATA[ido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to go" (going)]]></f>
+    <b><![CDATA[yendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to go"]]></f>
+    <b><![CDATA[<table><tr><td>vaya</td><td>vayamos</td></tr><tr><td>vayas</td><td>vayáis</td></tr><tr><td>vaya</td><td>vayan</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to go" (I would go)]]></f>
+    <b><![CDATA[<table><tr><td>iría</td><td>iríamos</td></tr><tr><td>irías</td><td>iríais</td></tr><tr><td>iría</td><td>irían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperative of "to go" (go!)]]></f>
+    <b><![CDATA[(tu) ve (vosotros) id]]></b>
+  </c>
+</root>

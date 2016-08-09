@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Excuse me, is smoking allowed?]]></f>
+    <b><![CDATA[Perdone, ¿se puede fumar?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[No, it's forbidden]]></f>
+    <b><![CDATA[No, está prohibido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Excuse me, is it alright to take pictures?]]></f>
+    <b><![CDATA[Oiga, ¿se pueden sacar fotos?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, of course]]></f>
+    <b><![CDATA[Sí, por supuesto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Look here]]></f>
+    <b><![CDATA[Mira aquí]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Put your hand (here) (dancing instruction)]]></f>
+    <b><![CDATA[Pon la mano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Take this]]></f>
+    <b><![CDATA[Toma esto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Open the window]]></f>
+    <b><![CDATA[Abre la ventana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Drink mineral water (imperative)]]></f>
+    <b><![CDATA[Beba aqua mineral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Eat plenty of fruit]]></f>
+    <b><![CDATA[Coma mucha fruta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Buy fresh food]]></f>
+    <b><![CDATA[Compre comida fresca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'll wash the clothes]]></f>
+    <b><![CDATA[Lavaré la ropa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'll clean the house]]></f>
+    <b><![CDATA[Limpiaré la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'll water the plants]]></f>
+    <b><![CDATA[Regaré las plantas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How are you feeling?]]></f>
+    <b><![CDATA[¿Cómo te encuentras?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Not very well I have a headache]]></f>
+    <b><![CDATA[No muy bien, me duele la cabeza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've got a temperature]]></f>
+    <b><![CDATA[Tengo fiebre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've got a cough]]></f>
+    <b><![CDATA[Tengo tos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where does it hurt?]]></f>
+    <b><![CDATA[¿Qué te duele?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I've got a sore throat]]></f>
+    <b><![CDATA[Me duele la garganta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you got anything for headaches?]]></f>
+    <b><![CDATA[¿Tiene algo para el dolor de cabeza?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[And what have you got for children?]]></f>
+    <b><![CDATA[Y para los niños, ¿qué tiene?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[There is cough medicine, suppositories and drops]]></f>
+    <b><![CDATA[Hay jarabes, supositorios y gotas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[next week]]></f>
+    <b><![CDATA[la semana que viene]]></b>
+  </c>
+  <c>
+    <f><![CDATA[next year]]></f>
+    <b><![CDATA[el año que viene]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in two months]]></f>
+    <b><![CDATA[dentro de dos meses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in three weeks]]></f>
+    <b><![CDATA[dentro de tres semanas]]></b>
+  </c>
+</root>

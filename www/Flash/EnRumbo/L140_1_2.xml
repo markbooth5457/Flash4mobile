@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Deportes]]></f>
+    <b><![CDATA[Deportes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fan]]></f>
+    <b><![CDATA[el aficionado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exhausting]]></f>
+    <b><![CDATA[agotador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[diving]]></f>
+    <b><![CDATA[el buceo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[canoe]]></f>
+    <b><![CDATA[la canoa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flat racing]]></f>
+    <b><![CDATA[las carreras de caballos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[horse riding]]></f>
+    <b><![CDATA[los paseos a caballo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cycling]]></f>
+    <b><![CDATA[el ciclismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[adventure]]></f>
+    <b><![CDATA[de aventura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exciting]]></f>
+    <b><![CDATA[emocionante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to draw or tie (a game)]]></f>
+    <b><![CDATA[empatar o hacer tablas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[trainer]]></f>
+    <b><![CDATA[el entrenador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to train]]></f>
+    <b><![CDATA[entrenar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[equipment]]></f>
+    <b><![CDATA[el equipo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[climbing]]></f>
+    <b><![CDATA[la escalada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[soccer]]></f>
+    <b><![CDATA[el fútbol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to win]]></f>
+    <b><![CDATA[ganar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to canoe]]></f>
+    <b><![CDATA[hacer canoa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cheat]]></f>
+    <b><![CDATA[hacer trampa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to windsurf]]></f>
+    <b><![CDATA[hacer windsurf]]></b>
+  </c>
+  <c>
+    <f><![CDATA[player]]></f>
+    <b><![CDATA[el jugador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to play at]]></f>
+    <b><![CDATA[jugar a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to swim]]></f>
+    <b><![CDATA[nadar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swimming]]></f>
+    <b><![CDATA[la natación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[team]]></f>
+    <b><![CDATA[el partido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dangerous]]></f>
+    <b><![CDATA[peligroso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lose]]></f>
+    <b><![CDATA[perder]]></b>
+  </c>
+  <c>
+    <f><![CDATA[canoeing]]></f>
+    <b><![CDATA[el piragüismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bunjee jumping]]></f>
+    <b><![CDATA[el puenting]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relaxing]]></f>
+    <b><![CDATA[relajante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hiking]]></f>
+    <b><![CDATA[el senderismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tennis]]></f>
+    <b><![CDATA[el tenis]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beach volleyball]]></f>
+    <b><![CDATA[el voley playa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Board or Table games]]></f>
+    <b><![CDATA[Juegos de mesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chess]]></f>
+    <b><![CDATA[el ajedrez]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cards]]></f>
+    <b><![CDATA[las cartas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dice]]></f>
+    <b><![CDATA[los dados]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drafts or checkers]]></f>
+    <b><![CDATA[las damas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dominoes]]></f>
+    <b><![CDATA[el dominó]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the pieces]]></f>
+    <b><![CDATA[las fichas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Parcheesi or Ludo]]></f>
+    <b><![CDATA[el parchís]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the game]]></f>
+    <b><![CDATA[la partida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the board]]></f>
+    <b><![CDATA[el tablero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Likings and hobbies]]></f>
+    <b><![CDATA[Aficiones y hobbies]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crafts]]></f>
+    <b><![CDATA[la artesanía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cinema]]></f>
+    <b><![CDATA[el cine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dance]]></f>
+    <b><![CDATA[la danza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gardening]]></f>
+    <b><![CDATA[la jardinería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reading]]></f>
+    <b><![CDATA[la lectura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[music]]></f>
+    <b><![CDATA[la música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painting]]></f>
+    <b><![CDATA[la pintura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Trips]]></f>
+    <b><![CDATA[Viajes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[on foot]]></f>
+    <b><![CDATA[a pie]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shelter or hostel]]></f>
+    <b><![CDATA[el albergue]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lodging]]></f>
+    <b><![CDATA[el alojamiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to land]]></f>
+    <b><![CDATA[aterrizar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[airplane ticket]]></f>
+    <b><![CDATA[el billete de avión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to walk]]></f>
+    <b><![CDATA[caminar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take off]]></f>
+    <b><![CDATA[despegar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go by car]]></f>
+    <b><![CDATA[desplazarse en coche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to embark]]></f>
+    <b><![CDATA[embarcar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[by plane]]></f>
+    <b><![CDATA[en avión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[by train]]></f>
+    <b><![CDATA[en tren]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to check in the luggage]]></f>
+    <b><![CDATA[facturar el equipaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to collect the luggage]]></f>
+    <b><![CDATA[recoger el equipaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the schedule]]></f>
+    <b><![CDATA[el horario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unforeseen expenses]]></f>
+    <b><![CDATA[los imprevistos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[arrival]]></f>
+    <b><![CDATA[la llegada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[passport]]></f>
+    <b><![CDATA[el pasaporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guest house]]></f>
+    <b><![CDATA[la pensión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[route]]></f>
+    <b><![CDATA[el recorrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exit]]></f>
+    <b><![CDATA[la salida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave on time]]></f>
+    <b><![CDATA[salir a su hora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrive on time]]></f>
+    <b><![CDATA[llegar a su hora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave late]]></f>
+    <b><![CDATA[salir con retraso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrive late]]></f>
+    <b><![CDATA[llegar con retraso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Clothes]]></f>
+    <b><![CDATA[Ropa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bathing suit]]></f>
+    <b><![CDATA[el bañador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[summer shirt]]></f>
+    <b><![CDATA[la camisa de verano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sun glasses]]></f>
+    <b><![CDATA[las gafas de sol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[light clothes]]></f>
+    <b><![CDATA[la ropa ligera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[towel]]></f>
+    <b><![CDATA[la toalla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dresses]]></f>
+    <b><![CDATA[los vestidos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shoes]]></f>
+    <b><![CDATA[los zapatos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Months]]></f>
+    <b><![CDATA[Meses]]></b>
+  </c>
+  <c>
+    <f><![CDATA[January]]></f>
+    <b><![CDATA[enero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[February]]></f>
+    <b><![CDATA[febrero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[March]]></f>
+    <b><![CDATA[marzo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[April]]></f>
+    <b><![CDATA[abril]]></b>
+  </c>
+  <c>
+    <f><![CDATA[May]]></f>
+    <b><![CDATA[mayo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[June]]></f>
+    <b><![CDATA[junio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[July]]></f>
+    <b><![CDATA[julio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[August]]></f>
+    <b><![CDATA[agosto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[September]]></f>
+    <b><![CDATA[septiembre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[October]]></f>
+    <b><![CDATA[octubre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[November]]></f>
+    <b><![CDATA[noviembre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[December]]></f>
+    <b><![CDATA[diciembre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Seasons]]></f>
+    <b><![CDATA[Estaciones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spring]]></f>
+    <b><![CDATA[la primavera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[summer]]></f>
+    <b><![CDATA[el verano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[autumn]]></f>
+    <b><![CDATA[el otoño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[winter]]></f>
+    <b><![CDATA[el invierno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of objects]]></f>
+    <b><![CDATA[Descripción de objetos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Form]]></f>
+    <b><![CDATA[Forma]]></b>
+  </c>
+  <c>
+    <f><![CDATA[circular]]></f>
+    <b><![CDATA[circular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[square]]></f>
+    <b><![CDATA[cuadrado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cone shaped]]></f>
+    <b><![CDATA[de cono]]></b>
+  </c>
+  <c>
+    <f><![CDATA[star shaped]]></f>
+    <b><![CDATA[de estrella]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rectangular]]></f>
+    <b><![CDATA[rectangular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[round]]></f>
+    <b><![CDATA[redondo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Colour]]></f>
+    <b><![CDATA[Color]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yellow]]></f>
+    <b><![CDATA[amarillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[blue]]></f>
+    <b><![CDATA[azul]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark colours]]></f>
+    <b><![CDATA[colores oscuros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[showy colours]]></f>
+    <b><![CDATA[colores llamativos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[loud colours]]></f>
+    <b><![CDATA[colores chillones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown]]></f>
+    <b><![CDATA[marrón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black]]></f>
+    <b><![CDATA[negro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pink]]></f>
+    <b><![CDATA[rosa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[green]]></f>
+    <b><![CDATA[verde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Material]]></f>
+    <b><![CDATA[Material]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mud]]></f>
+    <b><![CDATA[el barro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cardboard]]></f>
+    <b><![CDATA[el cartón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glass]]></f>
+    <b><![CDATA[el cristal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wood]]></f>
+    <b><![CDATA[la madera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[metal]]></f>
+    <b><![CDATA[el metal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[paper]]></f>
+    <b><![CDATA[el papel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plastic]]></f>
+    <b><![CDATA[el plástico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Kitchen]]></f>
+    <b><![CDATA[Cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[olive oil]]></f>
+    <b><![CDATA[el aceite de oliva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[garlic]]></f>
+    <b><![CDATA[el ajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[meat]]></f>
+    <b><![CDATA[la carne]]></b>
+  </c>
+  <c>
+    <f><![CDATA[onion]]></f>
+    <b><![CDATA[la cebolla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fruit]]></f>
+    <b><![CDATA[la fruta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gazpacho cold soup]]></f>
+    <b><![CDATA[el gazpacho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[egg]]></f>
+    <b><![CDATA[el huevo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[kiwi fruit]]></f>
+    <b><![CDATA[el kiwi]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lemon]]></f>
+    <b><![CDATA[el limón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[apple]]></f>
+    <b><![CDATA[la manzana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[melon]]></f>
+    <b><![CDATA[el melón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orange]]></f>
+    <b><![CDATA[la naranja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[potato]]></f>
+    <b><![CDATA[la patata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fish]]></f>
+    <b><![CDATA[el pescado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pepper]]></f>
+    <b><![CDATA[el pimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salt]]></f>
+    <b><![CDATA[la sal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sangria or punch]]></f>
+    <b><![CDATA[la sangría]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tomato]]></f>
+    <b><![CDATA[el tomate]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vegetable]]></f>
+    <b><![CDATA[la verdura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vinegar]]></f>
+    <b><![CDATA[el vinagre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Recipes]]></f>
+    <b><![CDATA[Recetas de cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lunch]]></f>
+    <b><![CDATA[el almuerzo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to warm up]]></f>
+    <b><![CDATA[calentar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supper]]></f>
+    <b><![CDATA[la cena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cook]]></f>
+    <b><![CDATA[cocer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[food]]></f>
+    <b><![CDATA[la comida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[breakfast]]></f>
+    <b><![CDATA[el desayuno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fry]]></f>
+    <b><![CDATA[freír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ingredients]]></f>
+    <b><![CDATA[los ingredientes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put in the oven]]></f>
+    <b><![CDATA[poner al horno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[preparation]]></f>
+    <b><![CDATA[la preparación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Celebrations and traditions]]></f>
+    <b><![CDATA[Fiestas y tradiciones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[New Year]]></f>
+    <b><![CDATA[el Año Nuevo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to dance]]></f>
+    <b><![CDATA[bailar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to drink]]></f>
+    <b><![CDATA[beber]]></b>
+  </c>
+  <c>
+    <f><![CDATA[carnival]]></f>
+    <b><![CDATA[el carnaval]]></b>
+  </c>
+  <c>
+    <f><![CDATA[float]]></f>
+    <b><![CDATA[la carroza ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to celebrate]]></f>
+    <b><![CDATA[celebrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bullfight]]></f>
+    <b><![CDATA[la corrida de toros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birthday]]></f>
+    <b><![CDATA[el cumpleaños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to give gifts]]></f>
+    <b><![CDATA[dar regalos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Saints day]]></f>
+    <b><![CDATA[el día del santo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to disguise oneself]]></f>
+    <b><![CDATA[disfrazarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to enjoy]]></f>
+    <b><![CDATA[disfrutar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to amuse oneself]]></f>
+    <b><![CDATA[divertirse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to crack jokes]]></f>
+    <b><![CDATA[gastar bromas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mask]]></f>
+    <b><![CDATA[la máscara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Christmas]]></f>
+    <b><![CDATA[la Navidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to paint oneself]]></f>
+    <b><![CDATA[pintarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Kings]]></f>
+    <b><![CDATA[los Reyes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make the rounds]]></f>
+    <b><![CDATA[rondar]]></b>
+  </c>
+</root>

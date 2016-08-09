@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<c>
+<f><![CDATA[semi-detached house]]></f>
+<b><![CDATA[la casa adosada]]></b>
+</c><c>
+<f><![CDATA[country house]]></f>
+<b><![CDATA[la casa de campo]]></b>
+</c><c>
+<f><![CDATA[bungalow]]></f>
+<b><![CDATA[la casa de un piso]]></b>
+</c><c>
+<f><![CDATA[detached house]]></f>
+<b><![CDATA[casa independiente]]></b>
+</c><c>
+<f><![CDATA[air conditioning]]></f>
+<b><![CDATA[aire acondicionado o aire aclimatizado]]></b>
+</c><c>
+<f><![CDATA[balcony]]></f>
+<b><![CDATA[el balcón]]></b>
+</c><c>
+<f><![CDATA[gate]]></f>
+<b><![CDATA[la barrera]]></b>
+</c><c>
+<f><![CDATA[light bulb]]></f>
+<b><![CDATA[la bombilla]]></b>
+</c><c>
+<f><![CDATA[central heating]]></f>
+<b><![CDATA[calefacción central]]></b>
+</c><c>
+<f><![CDATA[house]]></f>
+<b><![CDATA[la casa]]></b>
+</c><c>
+<f><![CDATA[curtain]]></f>
+<b><![CDATA[la cortina]]></b>
+</c><c>
+<f><![CDATA[pane of glass]]></f>
+<b><![CDATA[el cristal]]></b>
+</c><c>
+<f><![CDATA[picture]]></f>
+<b><![CDATA[el cuadro]]></b>
+</c><c>
+<f><![CDATA[rubbish bin]]></f>
+<b><![CDATA[el cubo de la basura]]></b>
+</c><c>
+<f><![CDATA[electricity]]></f>
+<b><![CDATA[la electricidad]]></b>
+</c><c>
+<f><![CDATA[corner (outside)]]></f>
+<b><![CDATA[la esquina]]></b>
+</c><c>
+<f><![CDATA[lamp]]></f>
+<b><![CDATA[la lámpara]]></b>
+</c><c>
+<f><![CDATA[light]]></f>
+<b><![CDATA[la luz ]]></b>
+</c><c>
+<f><![CDATA[furniture]]></f>
+<b><![CDATA[los muebles]]></b>
+</c><c>
+<f><![CDATA[wastepaper basket]]></f>
+<b><![CDATA[la papelera]]></b>
+</c><c>
+<f><![CDATA[wall]]></f>
+<b><![CDATA[la pared]]></b>
+</c><c>
+<f><![CDATA[blinds]]></f>
+<b><![CDATA[la persiana]]></b>
+</c><c>
+<f><![CDATA[the ground floor]]></f>
+<b><![CDATA[la planta baja]]></b>
+</c><c>
+<f><![CDATA[first floor]]></f>
+<b><![CDATA[el primer piso]]></b>
+</c><c>
+<f><![CDATA[door]]></f>
+<b><![CDATA[la puerta]]></b>
+</c><c>
+<f><![CDATA[front door]]></f>
+<b><![CDATA[la puerta principal]]></b>
+</c><c>
+<f><![CDATA[radiator]]></f>
+<b><![CDATA[el radiador]]></b>
+</c><c>
+<f><![CDATA[clock]]></f>
+<b><![CDATA[el reloj]]></b>
+</c><c>
+<f><![CDATA[corner (inside)]]></f>
+<b><![CDATA[el rincón]]></b>
+</c><c>
+<f><![CDATA[floor]]></f>
+<b><![CDATA[el suelo]]></b>
+</c><c>
+<f><![CDATA[ceiling]]></f>
+<b><![CDATA[el techo]]></b>
+</c><c>
+<f><![CDATA[roof]]></f>
+<b><![CDATA[el tejado]]></b>
+</c><c>
+<f><![CDATA[window]]></f>
+<b><![CDATA[la ventana]]></b>
+</c><c>
+<f><![CDATA[dining room]]></f>
+<b><![CDATA[el comedor]]></b>
+</c><c>
+<f><![CDATA[bathroom]]></f>
+<b><![CDATA[el cuarto de baño]]></b>
+</c><c>
+<f><![CDATA[living room]]></f>
+<b><![CDATA[el cuarto de estar]]></b>
+</c><c>
+<f><![CDATA[bedroom]]></f>
+<b><![CDATA[el dormitorio]]></b>
+</c><c>
+<f><![CDATA[stairs]]></f>
+<b><![CDATA[la escalera]]></b>
+</c><c>
+<f><![CDATA[study]]></f>
+<b><![CDATA[el estudio]]></b>
+</c><c>
+<f><![CDATA[garage]]></f>
+<b><![CDATA[el garaje]]></b>
+</c><c>
+<f><![CDATA[room, bedroom]]></f>
+<b><![CDATA[la habitación]]></b>
+</c><c>
+<f><![CDATA[corridor]]></f>
+<b><![CDATA[el pasillo]]></b>
+</c><c>
+<f><![CDATA[patio]]></f>
+<b><![CDATA[el patio]]></b>
+</c><c>
+<f><![CDATA[floor]]></f>
+<b><![CDATA[el piso]]></b>
+</c><c>
+<f><![CDATA[living room]]></f>
+<b><![CDATA[la sala de estar]]></b>
+</c><c>
+<f><![CDATA[living room]]></f>
+<b><![CDATA[el salón]]></b>
+</c><c>
+<f><![CDATA[basement]]></f>
+<b><![CDATA[el sótano]]></b>
+</c><c>
+<f><![CDATA[hall]]></f>
+<b><![CDATA[el vestíbulo]]></b>
+</c><c>
+<f><![CDATA[steel]]></f>
+<b><![CDATA[el acero]]></b>
+</c><c>
+<f><![CDATA[cotton]]></f>
+<b><![CDATA[el algodón]]></b>
+</c><c>
+<f><![CDATA[leather]]></f>
+<b><![CDATA[el cuero]]></b>
+</c><c>
+<f><![CDATA[iron]]></f>
+<b><![CDATA[el hierro]]></b>
+</c><c>
+<f><![CDATA[wool]]></f>
+<b><![CDATA[la lana]]></b>
+</c><c>
+<f><![CDATA[wood]]></f>
+<b><![CDATA[la madera]]></b>
+</c><c>
+<f><![CDATA[nylon]]></f>
+<b><![CDATA[el nilón]]></b>
+</c><c>
+<f><![CDATA[gold]]></f>
+<b><![CDATA[el oro]]></b>
+</c><c>
+<f><![CDATA[leather]]></f>
+<b><![CDATA[la piel]]></b>
+</c><c>
+<f><![CDATA[silver]]></f>
+<b><![CDATA[la plata]]></b>
+</c><c>
+<f><![CDATA[lead]]></f>
+<b><![CDATA[el plomo]]></b>
+</c><c>
+<f><![CDATA[silk]]></f>
+<b><![CDATA[la seda]]></b>
+</c><c>
+<f><![CDATA[glass]]></f>
+<b><![CDATA[el vidrio]]></b>
+</c><c>
+<f><![CDATA[furnished]]></f>
+<b><![CDATA[amueblado]]></b>
+</c><c>
+<f><![CDATA[comfortable]]></f>
+<b><![CDATA[cómodo]]></b>
+</c><c>
+<f><![CDATA[ideal]]></f>
+<b><![CDATA[ideal]]></b>
+</c><c>
+<f><![CDATA[important]]></f>
+<b><![CDATA[importante]]></b>
+</c><c>
+<f><![CDATA[uncomfortable]]></f>
+<b><![CDATA[incómodo]]></b>
+</c><c>
+<f><![CDATA[interior]]></f>
+<b><![CDATA[interior]]></b>
+</c><c>
+<f><![CDATA[luxurious]]></f>
+<b><![CDATA[lujoso]]></b>
+</c><c>
+<f><![CDATA[magnificent]]></f>
+<b><![CDATA[magnífico]]></b>
+</c><c>
+<f><![CDATA[same]]></f>
+<b><![CDATA[mismo]]></b>
+</c><c>
+<f><![CDATA[modern]]></f>
+<b><![CDATA[moderno]]></b>
+</c><c>
+<f><![CDATA[another]]></f>
+<b><![CDATA[otro]]></b>
+</c><c>
+<f><![CDATA[old]]></f>
+<b><![CDATA[viejo]]></b>
+</c><c>
+<f><![CDATA[to shave]]></f>
+<b><![CDATA[afeitarse]]></b>
+</c><c>
+<f><![CDATA[to switch off (e.g. light)]]></f>
+<b><![CDATA[apagar]]></b>
+</c><c>
+<f><![CDATA[to park]]></f>
+<b><![CDATA[aparcar]]></b>
+</c><c>
+<f><![CDATA[to sweep]]></f>
+<b><![CDATA[barrer]]></b>
+</c><c>
+<f><![CDATA[to heat]]></f>
+<b><![CDATA[calentar]]></b>
+</c><c>
+<f><![CDATA[to get married]]></f>
+<b><![CDATA[casarse]]></b>
+</c><c>
+<f><![CDATA[to brush (e.g. teeth, hair)]]></f>
+<b><![CDATA[cepillarse]]></b>
+</c><c>
+<f><![CDATA[to clase]]></f>
+<b><![CDATA[cerrar]]></b>
+</c><c>
+<f><![CDATA[to lock]]></f>
+<b><![CDATA[cerrar con llave]]></b>
+</c><c>
+<f><![CDATA[to cook]]></f>
+<b><![CDATA[cocinar]]></b>
+</c><c>
+<f><![CDATA[to get]]></f>
+<b><![CDATA[coger]]></b>
+</c><c>
+<f><![CDATA[to share]]></f>
+<b><![CDATA[compartir]]></b>
+</c><c>
+<f><![CDATA[to let, to leave]]></f>
+<b><![CDATA[dejar]]></b>
+</c><c>
+<f><![CDATA[to rest]]></f>
+<b><![CDATA[descansar]]></b>
+</c><c>
+<f><![CDATA[to get undressed]]></f>
+<b><![CDATA[desnudarse]]></b>
+</c><c>
+<f><![CDATA[to wake up]]></f>
+<b><![CDATA[despertarse]]></b>
+</c><c>
+<f><![CDATA[to sleep]]></f>
+<b><![CDATA[dormir]]></b>
+</c><c>
+<f><![CDATA[to fall asleep]]></f>
+<b><![CDATA[dormirse]]></b>
+</c><c>
+<f><![CDATA[to have a shower]]></f>
+<b><![CDATA[ducharse]]></b>
+</c><c>
+<f><![CDATA[to switch on the light]]></f>
+<b><![CDATA[encender la luz]]></b>
+</c><c>
+<f><![CDATA[to work (of machinery)]]></f>
+<b><![CDATA[funcionar]]></b>
+</c><c>
+<f><![CDATA[to wash]]></f>
+<b><![CDATA[lavar]]></b>
+</c><c>
+<f><![CDATA[to wash the dishes]]></f>
+<b><![CDATA[lavar los platos]]></b>
+</c><c>
+<f><![CDATA[to get washed]]></f>
+<b><![CDATA[lavarse]]></b>
+</c><c>
+<f><![CDATA[to wash one's hair]]></f>
+<b><![CDATA[lavarse el pelo]]></b>
+</c><c>
+<f><![CDATA[to clean one' s teeth]]></f>
+<b><![CDATA[lavarse los dientes]]></b>
+</c><c>
+<f><![CDATA[to get up]]></f>
+<b><![CDATA[levantarse]]></b>
+</c><c>
+<f><![CDATA[to clean]]></f>
+<b><![CDATA[limpiar]]></b>
+</c><c>
+<f><![CDATA[to get up early]]></f>
+<b><![CDATA[madrugar]]></b>
+</c><c>
+<f><![CDATA[to do the vacuuming]]></f>
+<b><![CDATA[pasar la aspiradora]]></b>
+</c><c>
+<f><![CDATA[to comb one's hair]]></f>
+<b><![CDATA[peinarse]]></b>
+</c><c>
+<f><![CDATA[to iron]]></f>
+<b><![CDATA[planchar]]></b>
+</c><c>
+<f><![CDATA[to lay the table]]></f>
+<b><![CDATA[poner la mesa]]></b>
+</c><c>
+<f><![CDATA[to clear the table]]></f>
+<b><![CDATA[quitar la mesa]]></b>
+</c><c>
+<f><![CDATA[to repair]]></f>
+<b><![CDATA[reparar]]></b>
+</c><c>
+<f><![CDATA[to dry]]></f>
+<b><![CDATA[secar]]></b>
+</c><c>
+<f><![CDATA[to get dressed]]></f>
+<b><![CDATA[vestirse]]></b>
+</c><c>
+<f><![CDATA[carpet]]></f>
+<b><![CDATA[la alfombra]]></b>
+</c><c>
+<f><![CDATA[sideboard]]></f>
+<b><![CDATA[el aparador]]></b>
+</c><c>
+<f><![CDATA[armchair]]></f>
+<b><![CDATA[la butaca]]></b>
+</c><c>
+<f><![CDATA[settee]]></f>
+<b><![CDATA[el canapé]]></b>
+</c><c>
+<f><![CDATA[cassette (player)]]></f>
+<b><![CDATA[el casette]]></b>
+</c><c>
+<f><![CDATA[fireplace]]></f>
+<b><![CDATA[la chimenea]]></b>
+</c><c>
+<f><![CDATA[chest of drawers]]></f>
+<b><![CDATA[la cómoda]]></b>
+</c><c>
+<f><![CDATA[shelf]]></f>
+<b><![CDATA[la estantería]]></b>
+</c><c>
+<f><![CDATA[stereo, hi-fi]]></f>
+<b><![CDATA[el estéreo]]></b>
+</c><c>
+<f><![CDATA[carpet]]></f>
+<b><![CDATA[la moqueta]]></b>
+</c><c>
+<f><![CDATA[painting]]></f>
+<b><![CDATA[la pintura]]></b>
+</c><c>
+<f><![CDATA[radio]]></f>
+<b><![CDATA[el radio]]></b>
+</c><c>
+<f><![CDATA[armchair]]></f>
+<b><![CDATA[el sillón]]></b>
+</c><c>
+<f><![CDATA[settee]]></f>
+<b><![CDATA[el sofá]]></b>
+</c><c>
+<f><![CDATA[TV (set)]]></f>
+<b><![CDATA[el televisor]]></b>
+</c><c>
+<f><![CDATA[video (recorder)]]></f>
+<b><![CDATA[el vídeo]]></b>
+</c><c>
+<f><![CDATA[pillow]]></f>
+<b><![CDATA[la almohada]]></b>
+</c><c>
+<f><![CDATA[drawer]]></f>
+<b><![CDATA[el cajón]]></b>
+</c><c>
+<f><![CDATA[bed]]></f>
+<b><![CDATA[la cama]]></b>
+</c><c>
+<f><![CDATA[double bed]]></f>
+<b><![CDATA[cama de matrimonio]]></b>
+</c><c>
+<f><![CDATA[chest of drawers]]></f>
+<b><![CDATA[la cómoda]]></b>
+</c><c>
+<f><![CDATA[alarm clock]]></f>
+<b><![CDATA[el despertador]]></b>
+</c><c>
+<f><![CDATA[shelf]]></f>
+<b><![CDATA[el estante]]></b>
+</c><c>
+<f><![CDATA[wardrobe]]></f>
+<b><![CDATA[la guardarropa]]></b>
+</c><c>
+<f><![CDATA[blanket]]></f>
+<b><![CDATA[la manta]]></b>
+</c><c>
+<f><![CDATA[computer]]></f>
+<b><![CDATA[el ordenador]]></b>
+</c><c>
+<f><![CDATA[poster]]></f>
+<b><![CDATA[el póster]]></b>
+</c><c>
+<f><![CDATA[sheet]]></f>
+<b><![CDATA[la sábana]]></b>
+</c><c>
+<f><![CDATA[hairdryer]]></f>
+<b><![CDATA[secadora/el secadora de pelo]]></b>
+</c><c>
+<f><![CDATA[dressing table]]></f>
+<b><![CDATA[el tocador]]></b>
+</c><c>
+<f><![CDATA[bath]]></f>
+<b><![CDATA[el baño]]></b>
+</c><c>
+<f><![CDATA[toothbrush]]></f>
+<b><![CDATA[el cepillo de dientes]]></b>
+</c><c>
+<f><![CDATA[shampoo]]></f>
+<b><![CDATA[el champú]]></b>
+</c><c>
+<f><![CDATA[shower]]></f>
+<b><![CDATA[la ducha]]></b>
+</c><c>
+<f><![CDATA[mirror]]></f>
+<b><![CDATA[el espejo]]></b>
+</c><c>
+<f><![CDATA[tap]]></f>
+<b><![CDATA[el grifo]]></b>
+</c><c>
+<f><![CDATA[soap]]></f>
+<b><![CDATA[el jabón]]></b>
+</c><c>
+<f><![CDATA[washbasin]]></f>
+<b><![CDATA[el lavabo]]></b>
+</c><c>
+<f><![CDATA[makeup]]></f>
+<b><![CDATA[maquillaje]]></b>
+</c><c>
+<f><![CDATA[electric shaver]]></f>
+<b><![CDATA[máquina de afeitar]]></b>
+</c><c>
+<f><![CDATA[safety razor]]></f>
+<b><![CDATA[la maquinilla de afeitar]]></b>
+</c><c>
+<f><![CDATA[toothpaste]]></f>
+<b><![CDATA[la pasta de dientes]]></b>
+</c><c>
+<f><![CDATA[comb]]></f>
+<b><![CDATA[el peine]]></b>
+</c><c>
+<f><![CDATA[perfume]]></f>
+<b><![CDATA[el perfume]]></b>
+</c><c>
+<f><![CDATA[scissors]]></f>
+<b><![CDATA[las tijeras]]></b>
+</c><c>
+<f><![CDATA[towel]]></f>
+<b><![CDATA[la toalla]]></b>
+</c><c>
+<f><![CDATA[tin-opener]]></f>
+<b><![CDATA[el abrelatas]]></b>
+</c><c>
+<f><![CDATA[cupboard]]></f>
+<b><![CDATA[el armario]]></b>
+</c><c>
+<f><![CDATA[tray]]></f>
+<b><![CDATA[la bandeja]]></b>
+</c><c>
+<f><![CDATA[saucepan]]></f>
+<b><![CDATA[la cacerola]]></b>
+</c><c>
+<f><![CDATA[kitchen]]></f>
+<b><![CDATA[la cocina]]></b>
+</c><c>
+<f><![CDATA[cooker]]></f>
+<b><![CDATA[la cocina]]></b>
+</c><c>
+<f><![CDATA[gas cooker]]></f>
+<b><![CDATA[la cocina de gas]]></b>
+</c><c>
+<f><![CDATA[electric cooker]]></f>
+<b><![CDATA[cocina eléctrica]]></b>
+</c><c>
+<f><![CDATA[freezer]]></f>
+<b><![CDATA[la congeladora]]></b>
+</c><c>
+<f><![CDATA[sink]]></f>
+<b><![CDATA[el fregadero]]></b>
+</c><c>
+<f><![CDATA[fridge]]></f>
+<b><![CDATA[el frigorífico]]></b>
+</c><c>
+<f><![CDATA[tap]]></f>
+<b><![CDATA[el grifo]]></b>
+</c><c>
+<f><![CDATA[oyen]]></f>
+<b><![CDATA[el horno]]></b>
+</c><c>
+<f><![CDATA[tin]]></f>
+<b><![CDATA[la lata]]></b>
+</c><c>
+<f><![CDATA[washing machine]]></f>
+<b><![CDATA[la lavadora]]></b>
+</c><c>
+<f><![CDATA[dishwasher]]></f>
+<b><![CDATA[el lavaplatos]]></b>
+</c><c>
+<f><![CDATA[table]]></f>
+<b><![CDATA[la mesa]]></b>
+</c><c>
+<f><![CDATA[microwave oven]]></f>
+<b><![CDATA[el microondas]]></b>
+</c><c>
+<f><![CDATA[fridge]]></f>
+<b><![CDATA[la nevera]]></b>
+</c><c>
+<f><![CDATA[smell]]></f>
+<b><![CDATA[el olor]]></b>
+</c><c>
+<f><![CDATA[corkscrew]]></f>
+<b><![CDATA[el sacacorchos]]></b>
+</c><c>
+<f><![CDATA[frying pan]]></f>
+<b><![CDATA[la sartén]]></b>
+</c><c>
+<f><![CDATA[chair]]></f>
+<b><![CDATA[la silla]]></b>
+</c><c>
+<f><![CDATA[cup]]></f>
+<b><![CDATA[la taza]]></b>
+</c><c>
+<f><![CDATA[tree]]></f>
+<b><![CDATA[el árbol]]></b>
+</c><c>
+<f><![CDATA[shrub]]></f>
+<b><![CDATA[el arbusto]]></b>
+</c><c>
+<f><![CDATA[lawn]]></f>
+<b><![CDATA[el césped]]></b>
+</c><c>
+<f><![CDATA[flower]]></f>
+<b><![CDATA[la flor]]></b>
+</c><c>
+<f><![CDATA[grass]]></f>
+<b><![CDATA[la hierba]]></b>
+</c><c>
+<f><![CDATA[leaf]]></f>
+<b><![CDATA[la hoja]]></b>
+</c><c>
+<f><![CDATA[garden]]></f>
+<b><![CDATA[el jardín]]></b>
+</c><c>
+<f><![CDATA[apple tree]]></f>
+<b><![CDATA[el manzano]]></b>
+</c><c>
+<f><![CDATA[wall]]></f>
+<b><![CDATA[el muro]]></b>
+</c><c>
+<f><![CDATA[plant]]></f>
+<b><![CDATA[la planta]]></b>
+</c><c>
+<f><![CDATA[branch]]></f>
+<b><![CDATA[la rama]]></b>
+</c><c>
+<f><![CDATA[rose]]></f>
+<b><![CDATA[la rosa]]></b>
+</c><c>
+<f><![CDATA[path]]></f>
+<b><![CDATA[el sendero]]></b>
+</c><c>
+<f><![CDATA[hedge]]></f>
+<b><![CDATA[el seto vivo]]></b>
+</c><c>
+<f><![CDATA[vacuum cleaner]]></f>
+<b><![CDATA[la aspiradora]]></b>
+</c><c>
+<f><![CDATA[rubbish]]></f>
+<b><![CDATA[la basura]]></b>
+</c><c>
+<f><![CDATA[brush]]></f>
+<b><![CDATA[el cepillo]]></b>
+</c><c>
+<f><![CDATA[stain]]></f>
+<b><![CDATA[la mancha]]></b>
+</c><c>
+<f><![CDATA[order (tidiness)]]></f>
+<b><![CDATA[el orden]]></b>
+</c><c>
+<f><![CDATA[iron]]></f>
+<b><![CDATA[la plancha]]></b>
+</c><c>
+<f><![CDATA[chores]]></f>
+<b><![CDATA[los quehaceres]]></b>
+</c></root>

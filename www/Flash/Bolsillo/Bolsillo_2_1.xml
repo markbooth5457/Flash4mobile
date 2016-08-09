@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Pardon?]]></f>
+    <b><![CDATA[¿Cómo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Sorry? I beg your pardon?]]></f>
+    <b><![CDATA[¿Perdón?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What?]]></f>
+    <b><![CDATA[¿Qué?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you repeat that?]]></f>
+    <b><![CDATA[¿Me lo puede repetir?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which/what street?]]></f>
+    <b><![CDATA[¿Qué calle?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which apartment did you say?]]></f>
+    <b><![CDATA[¿Qué departamento dijo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which/what avenue?]]></f>
+    <b><![CDATA[¿Qué avenida?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Which/what square?]]></f>
+    <b><![CDATA[¿Qué plaza?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What number?]]></f>
+    <b><![CDATA[¿Qué número?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How do you spell that?]]></f>
+    <b><![CDATA[¿Cómo se escribe?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is that spelt with a 'g' or a 'j'?]]></f>
+    <b><![CDATA[¿Se escribe con 'g' o con 'j'?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is that with or without an 'h']]></f>
+    <b><![CDATA[¿Se escribe con 'h' o sin 'h'?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is that with an 'i' or a 'y']]></f>
+    <b><![CDATA[¿Se escribe co 'i latina' o con 'i griega'?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is that with a 'q' or a 'k'?]]></f>
+    <b><![CDATA[¿Se escribe con 'q' o con 'k'?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is that with a 'v' or a 'b'?]]></f>
+    <b><![CDATA[¿Se escribe con 'v' o con 'b'?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time is it?]]></f>
+    <b><![CDATA[¿Qué hora es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's (exactly) twelve o'clock]]></f>
+    <b><![CDATA[Son las doce en punto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's ten past twelve]]></f>
+    <b><![CDATA[Son las doce y diez]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's half past twelve]]></f>
+    <b><![CDATA[Son las doce y media]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's twenty to one]]></f>
+    <b><![CDATA[Es la una menos veinte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's quarter to one]]></f>
+    <b><![CDATA[Es la una menos cuarto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What's your name?]]></f>
+    <b><![CDATA[¿Cómo se llama usted?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What's your phone number?]]></f>
+    <b><![CDATA[¿Cuál es su número de teléfono?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where is your office?]]></f>
+    <b><![CDATA[¿Dónde está su oficina?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What are you doing?]]></f>
+    <b><![CDATA[¿Qué hace usted?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Who is your boss?]]></f>
+    <b><![CDATA[¿Quién es su jefe?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do you do?]]></f>
+    <b><![CDATA[¿En qué trabaja usted?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm a secretary]]></f>
+    <b><![CDATA[Soy secretario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I work as a street cleaner]]></f>
+    <b><![CDATA[Trabajo de barrendero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What is your occupation?]]></f>
+    <b><![CDATA[¿Cuál es su profesión?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm a music teacher]]></f>
+    <b><![CDATA[Soy profesor(a) de música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm unemployed]]></f>
+    <b><![CDATA[Estoy en paro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Do you study or are you working?]]></f>
+    <b><![CDATA[¿Estudias o trabajas?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I study music]]></f>
+    <b><![CDATA[Estudio música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I work for a company]]></f>
+    <b><![CDATA[Trabajo en una empresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where is the concert hall?]]></f>
+    <b><![CDATA[¿Dónde está la sala de conciertos?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's on the ground floor]]></f>
+    <b><![CDATA[Está en la planta baja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's on the first floor]]></f>
+    <b><![CDATA[Está en la primera planta, Está en el primer piso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's next to the lift]]></f>
+    <b><![CDATA[Está junto al ascensor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where is the office for volunteers?]]></f>
+    <b><![CDATA[¿Dónde está la oficina de trabajos voluntarios?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's here on the ground floor]]></f>
+    <b><![CDATA[Está aquí en la planta baja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Go straight along this corridor]]></f>
+    <b><![CDATA[Siga todo recto por este pasillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Go straight on until you reach the stairs]]></f>
+    <b><![CDATA[Siga todo recto hasta las escaleras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's on the right-hand side of the lift]]></f>
+    <b><![CDATA[Está a la derecha del ascensor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's on the left had side of the lift]]></f>
+    <b><![CDATA[Está a la izquierda del ascensor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Take the escalator]]></f>
+    <b><![CDATA[Tome las escaleras mecánicas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time do you go to work?]]></f>
+    <b><![CDATA[¿A qué hora vas a trabajar?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I go to work at half past seven]]></f>
+    <b><![CDATA[Voy a trabajar a las siete y media]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time do you get to work?]]></f>
+    <b><![CDATA[¿A qué hora llegas al trabajo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[At eight (o'clock)]]></f>
+    <b><![CDATA[A las ocho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[At about/around 8 o'clock]]></f>
+    <b><![CDATA[Sobre las ocho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What time do you finish work?]]></f>
+    <b><![CDATA[¿A qué hora terminas de trabajo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Some time around five]]></f>
+    <b><![CDATA[Más o menos a las cinco]]></b>
+  </c>
+</root>

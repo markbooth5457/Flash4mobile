@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Artists and participants of spectacles]]></f>
+    <b><![CDATA[Artistas y participantes de espectáculos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[actor]]></f>
+    <b><![CDATA[el actor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[actress]]></f>
+    <b><![CDATA[la actriz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[apprentice]]></f>
+    <b><![CDATA[el aprendiz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[harlequin]]></f>
+    <b><![CDATA[el arlequín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[artist]]></f>
+    <b><![CDATA[el artista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[witch]]></f>
+    <b><![CDATA[la bruja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[company]]></f>
+    <b><![CDATA[la compañía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[director]]></f>
+    <b><![CDATA[el director]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mime]]></f>
+    <b><![CDATA[el mimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[musician]]></f>
+    <b><![CDATA[el músico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clown]]></f>
+    <b><![CDATA[el payaso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Pierrot]]></f>
+    <b><![CDATA[el Pierrot]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personage]]></f>
+    <b><![CDATA[el personaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[professional]]></f>
+    <b><![CDATA[el profesional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[protagonist]]></f>
+    <b><![CDATA[el protagonista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[public]]></f>
+    <b><![CDATA[el público]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Plastic and visual expression]]></f>
+    <b><![CDATA[Expresión plástica y visual]]></b>
+  </c>
+  <c>
+    <f><![CDATA[watercolor]]></f>
+    <b><![CDATA[la acuarela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pottery]]></f>
+    <b><![CDATA[la alfarería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[do-it-yourself]]></f>
+    <b><![CDATA[el bricolaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ceramics]]></f>
+    <b><![CDATA[la cerámica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painting exhibition]]></f>
+    <b><![CDATA[la exposición de pintura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[photography]]></f>
+    <b><![CDATA[la fotografía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[image]]></f>
+    <b><![CDATA[la imagen]]></b>
+  </c>
+  <c>
+    <f><![CDATA[handicrafts]]></f>
+    <b><![CDATA[las manualidades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[oil]]></f>
+    <b><![CDATA[el óleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painting]]></f>
+    <b><![CDATA[la pintura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[textiles]]></f>
+    <b><![CDATA[los textiles]]></b>
+  </c>
+  <c>
+    <f><![CDATA[music]]></f>
+    <b><![CDATA[música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dance]]></f>
+    <b><![CDATA[el baile]]></b>
+  </c>
+  <c>
+    <f><![CDATA[singer]]></f>
+    <b><![CDATA[el cantante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[classic]]></f>
+    <b><![CDATA[clásico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dance]]></f>
+    <b><![CDATA[la danza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flamenco]]></f>
+    <b><![CDATA[el flamenco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fusion]]></f>
+    <b><![CDATA[la fusión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guitar]]></f>
+    <b><![CDATA[la guitarra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guitarist]]></f>
+    <b><![CDATA[el guitarrista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[interpreter]]></f>
+    <b><![CDATA[el intérprete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[jazz]]></f>
+    <b><![CDATA[el jazz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pop]]></f>
+    <b><![CDATA[el pop]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rock]]></f>
+    <b><![CDATA[el rock]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salsa]]></f>
+    <b><![CDATA[la salsa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[violin]]></f>
+    <b><![CDATA[el violín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spectacle]]></f>
+    <b><![CDATA[Espectáculo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[performance]]></f>
+    <b><![CDATA[la actuación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[alternative]]></f>
+    <b><![CDATA[alternativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[argument]]></f>
+    <b><![CDATA[el argumento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sound track]]></f>
+    <b><![CDATA[la banda sonora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[classic]]></f>
+    <b><![CDATA[clásico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comedy]]></f>
+    <b><![CDATA[la comedia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[concert]]></f>
+    <b><![CDATA[el concierto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drama]]></f>
+    <b><![CDATA[el drama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[special effects]]></f>
+    <b><![CDATA[los efectos especiales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[function]]></f>
+    <b><![CDATA[la función]]></b>
+  </c>
+  <c>
+    <f><![CDATA[puppet theatre]]></f>
+    <b><![CDATA[el guiñol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[script]]></f>
+    <b><![CDATA[el guión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[infantile]]></f>
+    <b><![CDATA[infantil]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mime]]></f>
+    <b><![CDATA[el mimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[musical comedy]]></f>
+    <b><![CDATA[el musical]]></b>
+  </c>
+  <c>
+    <f><![CDATA[play]]></f>
+    <b><![CDATA[la obra de teatro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comedy film]]></f>
+    <b><![CDATA[la película de comedia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[action film]]></f>
+    <b><![CDATA[la película de acción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[romantic film]]></f>
+    <b><![CDATA[la película romántica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[adventure film]]></f>
+    <b><![CDATA[la película de aventuras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[science fiction film]]></f>
+    <b><![CDATA[la película de ciencia ficción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cartoon film]]></f>
+    <b><![CDATA[la película de dibujos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[animated]]></f>
+    <b><![CDATA[animados]]></b>
+  </c>
+  <c>
+    <f><![CDATA[melodrama]]></f>
+    <b><![CDATA[la película de melodrama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[humorous film]]></f>
+    <b><![CDATA[la película de risa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[suspense film]]></f>
+    <b><![CDATA[la película de suspense]]></b>
+  </c>
+  <c>
+    <f><![CDATA[terror film]]></f>
+    <b><![CDATA[la película de terror]]></b>
+  </c>
+  <c>
+    <f><![CDATA[personage]]></f>
+    <b><![CDATA[el personaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[recital]]></f>
+    <b><![CDATA[el recital]]></b>
+  </c>
+  <c>
+    <f><![CDATA[distribution]]></f>
+    <b><![CDATA[el reparto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[running]]></f>
+    <b><![CDATA[el rodaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the ticket office]]></f>
+    <b><![CDATA[la taquilla (de entradas)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drop curtain]]></f>
+    <b><![CDATA[el telón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wardrobe]]></f>
+    <b><![CDATA[el vestuario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[props]]></f>
+    <b><![CDATA[la utilería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of character and style]]></f>
+    <b><![CDATA[Descripción de carácter y estilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[positive]]></f>
+    <b><![CDATA[positiva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pleasant]]></f>
+    <b><![CDATA[agradable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cheerful]]></f>
+    <b><![CDATA[alegre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[audacious]]></f>
+    <b><![CDATA[audaz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[creative]]></f>
+    <b><![CDATA[creativo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[self-assured]]></f>
+    <b><![CDATA[desenfadado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[emblematic]]></f>
+    <b><![CDATA[emblemático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spontaneous]]></f>
+    <b><![CDATA[espontáneo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fresh]]></f>
+    <b><![CDATA[fresco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[innovator]]></f>
+    <b><![CDATA[innovador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[intelligent]]></f>
+    <b><![CDATA[inteligente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[interesting]]></f>
+    <b><![CDATA[interesante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mature]]></f>
+    <b><![CDATA[maduro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modern]]></f>
+    <b><![CDATA[moderno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[purist]]></f>
+    <b><![CDATA[purista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relajante]]></f>
+    <b><![CDATA[relajante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rich]]></f>
+    <b><![CDATA[rico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serene]]></f>
+    <b><![CDATA[sereno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[suggestive]]></f>
+    <b><![CDATA[sugerente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calm]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[negative]]></f>
+    <b><![CDATA[negativa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boring]]></f>
+    <b><![CDATA[aburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[old fashioned]]></f>
+    <b><![CDATA[anticuado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[conformist]]></f>
+    <b><![CDATA[conformista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[confused]]></f>
+    <b><![CDATA[confuso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unpopular]]></f>
+    <b><![CDATA[impopular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[incomprehensible]]></f>
+    <b><![CDATA[incomprensible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[immature]]></f>
+    <b><![CDATA[inmaduro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[poor]]></f>
+    <b><![CDATA[pobre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clumsy]]></f>
+    <b><![CDATA[torpe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Opinion on performances]]></f>
+    <b><![CDATA[Opinión sobre espectáculos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[positive]]></f>
+    <b><![CDATA[positiva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exciting]]></f>
+    <b><![CDATA[emocionante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[charming]]></f>
+    <b><![CDATA[encantador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spectacular]]></f>
+    <b><![CDATA[espectacular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wonderful]]></f>
+    <b><![CDATA[estupendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fantastic]]></f>
+    <b><![CDATA[fantástico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brilliant]]></f>
+    <b><![CDATA[genial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wonderful]]></f>
+    <b><![CDATA[maravilloso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[precious]]></f>
+    <b><![CDATA[precioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supreme]]></f>
+    <b><![CDATA[supremo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[negative]]></f>
+    <b><![CDATA[negativa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dissapointing]]></f>
+    <b><![CDATA[decepcionante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[terrible]]></f>
+    <b><![CDATA[fatal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[horrible]]></f>
+    <b><![CDATA[horrible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[awful]]></f>
+    <b><![CDATA[horroroso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[really bad]]></f>
+    <b><![CDATA[malísimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[terrible]]></f>
+    <b><![CDATA[pésimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[set phrases]]></f>
+    <b><![CDATA[Expresiones hechas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to the sound  of the peseta]]></f>
+    <b><![CDATA[al son de la peseta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[something with character]]></f>
+    <b><![CDATA[algo con solera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make sad]]></f>
+    <b><![CDATA[dar pena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to meet]]></f>
+    <b><![CDATA[darse cita]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make the finishing touches]]></f>
+    <b><![CDATA[darse los últimos toques]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to show a program]]></f>
+    <b><![CDATA[echar un programa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go for a drink]]></f>
+    <b><![CDATA[ir de copas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go out of fashion]]></f>
+    <b><![CDATA[pasar de moda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[for the love of art]]></f>
+    <b><![CDATA[por amor al arte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to raise the curtain]]></f>
+    <b><![CDATA[subir el telón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Materials and products]]></f>
+    <b><![CDATA[Materiales y productos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cruet?]]></f>
+    <b><![CDATA[la alcuza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mud]]></f>
+    <b><![CDATA[el barro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crib?]]></f>
+    <b><![CDATA[el belén]]></b>
+  </c>
+  <c>
+    <f><![CDATA[casserole]]></f>
+    <b><![CDATA[la cazuela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crystal]]></f>
+    <b><![CDATA[el cristal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pitcher]]></f>
+    <b><![CDATA[el jarro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dough]]></f>
+    <b><![CDATA[la masa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painting]]></f>
+    <b><![CDATA[la pintura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[porcelain]]></f>
+    <b><![CDATA[la porcelana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[equipment]]></f>
+    <b><![CDATA[los útiles]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glass]]></f>
+    <b><![CDATA[el vidrio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vinegar bottle]]></f>
+    <b><![CDATA[la vinagrera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Painting styles]]></f>
+    <b><![CDATA[Estilos de pintura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[allegory]]></f>
+    <b><![CDATA[la alegoría]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cannibalism]]></f>
+    <b><![CDATA[la antropofagia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[anthropological]]></f>
+    <b><![CDATA[antropológico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contemporary art]]></f>
+    <b><![CDATA[el arte contemporáneo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cubism]]></f>
+    <b><![CDATA[el cubismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[folkloric]]></f>
+    <b><![CDATA[folklórico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[iconography]]></f>
+    <b><![CDATA[la iconografía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modernism]]></f>
+    <b><![CDATA[el modernismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[postmodernism]]></f>
+    <b><![CDATA[el postmodernismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Verbs of feeling]]></f>
+    <b><![CDATA[Verbos de sentimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to accuse]]></f>
+    <b><![CDATA[acusar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to admire]]></f>
+    <b><![CDATA[admirar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get upset]]></f>
+    <b><![CDATA[enfadarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to enjoy]]></f>
+    <b><![CDATA[gozar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to flee]]></f>
+    <b><![CDATA[huir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to worry]]></f>
+    <b><![CDATA[preocuparse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to repress]]></f>
+    <b><![CDATA[reprimir]]></b>
+  </c>
+</root>

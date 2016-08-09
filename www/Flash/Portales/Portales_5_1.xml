@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[olives]]></f>
+    <b><![CDATA[las aceitunas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[water]]></f>
+    <b><![CDATA[el (fem) agua]]></b>
+  </c>
+  <c>
+    <f><![CDATA[meatballs]]></f>
+    <b><![CDATA[las albóndigas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[peanuts]]></f>
+    <b><![CDATA[los cacahuetes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coffee]]></f>
+    <b><![CDATA[el café]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fried squid]]></f>
+    <b><![CDATA[los calamares fritos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beer]]></f>
+    <b><![CDATA[la cerveza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ham]]></f>
+    <b><![CDATA[el jamón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[milk]]></f>
+    <b><![CDATA[la leche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crisps; chips]]></f>
+    <b><![CDATA[las patatas fritas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cheese]]></f>
+    <b><![CDATA[el queso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[portion]]></f>
+    <b><![CDATA[la ración]]></b>
+  </c>
+  <c>
+    <f><![CDATA[soft drink]]></f>
+    <b><![CDATA[el refresco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small portion of food (served with a drink)]]></f>
+    <b><![CDATA[la tapa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tea]]></f>
+    <b><![CDATA[el té]]></b>
+  </c>
+  <c>
+    <f><![CDATA[red wine]]></f>
+    <b><![CDATA[el vino tinto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[juice (Sp)]]></f>
+    <b><![CDATA[el zumo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rice]]></f>
+    <b><![CDATA[el arroz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(for) starters]]></f>
+    <b><![CDATA[de primero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(for) main course]]></f>
+    <b><![CDATA[de segundo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[steak]]></f>
+    <b><![CDATA[el filete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[creme caramel]]></f>
+    <b><![CDATA[el flan]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fresh fruit]]></f>
+    <b><![CDATA[la fruta del tiempo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Andalusian-style cold soup]]></f>
+    <b><![CDATA[el gazpacho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ice cream]]></f>
+    <b><![CDATA[el helado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[seafood]]></f>
+    <b><![CDATA[el marisco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hake]]></f>
+    <b><![CDATA[le merluza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Valencian rice dish]]></f>
+    <b><![CDATA[la paella]]></b>
+  </c>
+  <c>
+    <f><![CDATA[in batter]]></f>
+    <b><![CDATA[rebozado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traffic jam]]></f>
+    <b><![CDATA[el atasco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine list]]></f>
+    <b><![CDATA[la carta de vinos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[comprehensive]]></f>
+    <b><![CDATA[completo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[curious]]></f>
+    <b><![CDATA[curioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[great, brilliant]]></f>
+    <b><![CDATA[fantástico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unbearable]]></f>
+    <b><![CDATA[insoportable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plans]]></f>
+    <b><![CDATA[los planes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fast, quick]]></f>
+    <b><![CDATA[rápido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[delicious (food)]]></f>
+    <b><![CDATA[rico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traffic]]></f>
+    <b><![CDATA[el tráfico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[varied]]></f>
+    <b><![CDATA[variado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[raw seafood salad (LAm)]]></f>
+    <b><![CDATA[el cebiche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[corn (LAm)]]></f>
+    <b><![CDATA[el choclo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to charge (payment)]]></f>
+    <b><![CDATA[cobrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[consommé]]></f>
+    <b><![CDATA[el consomé]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bill]]></f>
+    <b><![CDATA[la cuenta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pasty, pie]]></f>
+    <b><![CDATA[la empanada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cash]]></f>
+    <b><![CDATA[en efectivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[juice (LAm)]]></f>
+    <b><![CDATA[el jugo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bill]]></f>
+    <b><![CDATA[la nota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pay]]></f>
+    <b><![CDATA[pagar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[green beans (Chi)]]></f>
+    <b><![CDATA[los porotos verdes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mashed potatoes]]></f>
+    <b><![CDATA[el puré de papas (LAm & Canaries) puré de patatas (Sp)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(credit) card]]></f>
+    <b><![CDATA[la tarjeta (de crédito)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[house wine]]></f>
+    <b><![CDATA[el vino de casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[web cam]]></f>
+    <b><![CDATA[la cámara web]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bump (into), collide (with)]]></f>
+    <b><![CDATA[chocar (con)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cut]]></f>
+    <b><![CDATA[cortar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to spill]]></f>
+    <b><![CDATA[derramar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to push]]></f>
+    <b><![CDATA[empujar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to show]]></f>
+    <b><![CDATA[enseñar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to hit ]]></f>
+    <b><![CDATA[golpear]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be good/bad weather]]></f>
+    <b><![CDATA[hacer buen/mal tiempo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be late]]></f>
+    <b><![CDATA[llegar tarde]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to tread on]]></f>
+    <b><![CDATA[pisar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to play music]]></f>
+    <b><![CDATA[poner música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put (in or on)]]></f>
+    <b><![CDATA[poner]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be injured]]></f>
+    <b><![CDATA[resultar herido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[oil]]></f>
+    <b><![CDATA[el aceite]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(stem) glass]]></f>
+    <b><![CDATA[la copa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spoon]]></f>
+    <b><![CDATA[la cuchara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[knife]]></f>
+    <b><![CDATA[el cuchillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to let (someone) have, to lend]]></f>
+    <b><![CDATA[dejar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tablecloth]]></f>
+    <b><![CDATA[el mantel]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mustard]]></f>
+    <b><![CDATA[la mostaza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pepper (spice)]]></f>
+    <b><![CDATA[la pimienta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pass (the salt)]]></f>
+    <b><![CDATA[pasar (la sal)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plate]]></f>
+    <b><![CDATA[el plato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get, serve, pour (wine)]]></f>
+    <b><![CDATA[poner (vino)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salt]]></f>
+    <b><![CDATA[la sal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serviette, napkin]]></f>
+    <b><![CDATA[la servilleta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to serve (wine, salad)]]></f>
+    <b><![CDATA[servir (vino, ensalada)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fork]]></f>
+    <b><![CDATA[el tenedor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bring (the bill)]]></f>
+    <b><![CDATA[traer (la nota)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(non-stemmed) glass]]></f>
+    <b><![CDATA[el vaso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vinegar]]></f>
+    <b><![CDATA[el vinagre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[now]]></f>
+    <b><![CDATA[ahora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to watch whales]]></f>
+    <b><![CDATA[avistar ballenas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to post a letter]]></f>
+    <b><![CDATA[echar una carta (al buzón)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ski]]></f>
+    <b><![CDATA[esquiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do the washing up]]></f>
+    <b><![CDATA[fregar los platos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do the (...) trail]]></f>
+    <b><![CDATA[hacer la ruta (de ...)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go hiking]]></f>
+    <b><![CDATA[hacer senderismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tomorrow]]></f>
+    <b><![CDATA[mañana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ride a horse]]></f>
+    <b><![CDATA[montar a caballo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ride a bicycle]]></f>
+    <b><![CDATA[montar en bicicleta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to surf the Net]]></f>
+    <b><![CDATA[navegar por la Red]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a good time]]></f>
+    <b><![CDATA[pasarlo bien]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to prepare a meal, get a meal ready]]></f>
+    <b><![CDATA[preparar la comida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crafts]]></f>
+    <b><![CDATA[la artesanía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chapel]]></f>
+    <b><![CDATA[la capilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(horse drawn) carriage]]></f>
+    <b><![CDATA[el coche de caballos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stay (n)]]></f>
+    <b><![CDATA[la estancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unforgettable]]></f>
+    <b><![CDATA[inolvidable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mosque]]></f>
+    <b><![CDATA[la mezquita]]></b>
+  </c>
+  <c>
+    <f><![CDATA[national heritage site]]></f>
+    <b><![CDATA[el monumento nacional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[landscape]]></f>
+    <b><![CDATA[el paisaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to spend the holidays]]></f>
+    <b><![CDATA[pasar las vacaciones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to continue the journey]]></f>
+    <b><![CDATA[seguir el viaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fabrics]]></f>
+    <b><![CDATA[los tejidos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[utensils]]></f>
+    <b><![CDATA[los utensilios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fly]]></f>
+    <b><![CDATA[volar]]></b>
+  </c>
+</root>

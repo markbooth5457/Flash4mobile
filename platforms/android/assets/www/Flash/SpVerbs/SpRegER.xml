@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Present tense of "to eat"]]></f>
+    <b><![CDATA[<table><tr><td>como</td><td>comemos</td></tr><tr><td>comes</td><td>coméis</td></tr><tr><td>come</td><td>comen</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Preterite of "to eat" (I ate, you ate, etc.)]]></f>
+    <b><![CDATA[<table><tr><td>comí</td><td>comimos</td></tr><tr><td>comiste</td><td>comisteis</td></tr><tr><td>comió</td><td>comieron</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperfect tense of "to eat" (I used to eat, he was eating)]]></f>
+    <b><![CDATA[<table><tr><td>comía</td><td>comíamos</td></tr><tr><td>comías</td><td>comíais</td></tr><tr><td>comía</td><td>comían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Future tense of "to eat"]]></f>
+    <b><![CDATA[<table><tr><td>comeré</td><td>comeremos</td></tr><tr><td>comerás</td><td>comeréis</td></tr><tr><td>comerá</td><td>comerán</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Past participle of "to eat" (ate)]]></f>
+    <b><![CDATA[comido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gerund of "to eat" (eating)]]></f>
+    <b><![CDATA[comiendo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Present subjunctive of "to eat"]]></f>
+    <b><![CDATA[<table><tr><td>coma</td><td>comamos</td></tr><tr><td>comas</td><td>comáis</td></tr><tr><td>coma</td><td>coman</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Conditional of "to eat" (I would eat)]]></f>
+    <b><![CDATA[<table><tr><td>comería</td><td>comeríamos</td></tr><tr><td>comerías</td><td>comeríais</td></tr><tr><td>comería</td><td>comerían</td></tr></table>]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Imperative of "to eat" (speak!)]]></f>
+    <b><![CDATA[(tu) come (vosotros) comed]]></b>
+  </c>
+</root>

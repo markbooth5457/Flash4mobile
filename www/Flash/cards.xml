@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[<i>a card</i>]]></f>
+    <b><![CDATA[una carta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[another card]]></f>
+    <b><![CDATA[otra carta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[third card]]></f>
+    <b><![CDATA[tercera carta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Card four]]></f>
+    <b><![CDATA[Carta cuatro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Card five]]></f>
+    <b><![CDATA[Carta cinco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Card six]]></f>
+    <b><![CDATA[Carta seis]]></b>
+  </c>
+</root>

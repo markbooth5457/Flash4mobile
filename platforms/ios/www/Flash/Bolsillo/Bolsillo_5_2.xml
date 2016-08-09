@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[What is it like?]]></f>
+    <b><![CDATA[¿Cómo es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It is large and red]]></f>
+    <b><![CDATA[Es grande y rojo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What colour is it?]]></f>
+    <b><![CDATA[¿De qué color es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It is red]]></f>
+    <b><![CDATA[es rojo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What size is it?]]></f>
+    <b><![CDATA[¿Qué tamaño tiene?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It is very big]]></f>
+    <b><![CDATA[es muy grande]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What is it made of?]]></f>
+    <b><![CDATA[¿De qué es? o ¿De qué material es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[it is (made of) plastic]]></f>
+    <b><![CDATA[es de plástico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What did you do yesterday?]]></f>
+    <b><![CDATA[¿Qué hiciste ayer?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where did you go last night?]]></f>
+    <b><![CDATA[Adónde fuiste anoche?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I went to the cinema]]></f>
+    <b><![CDATA[fui al cine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Where were you last night?]]></f>
+    <b><![CDATA[¿Dónde estuviste anoche?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I was at the cinema]]></f>
+    <b><![CDATA[Estuve en el cine]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Merry Christmas!]]></f>
+    <b><![CDATA[¡Feliz Navidad!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Happy New Year!]]></f>
+    <b><![CDATA[¡Feliz Año Nuevo!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Happy saint's day!]]></f>
+    <b><![CDATA[¡Feliz santo!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Happy birthday!]]></f>
+    <b><![CDATA[¡Feliz cumpleaños!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Happy wedding anniversary!]]></f>
+    <b><![CDATA[¡Feliz aniversario de bodas!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Congratulations!]]></f>
+    <b><![CDATA[¡Enhorabuena!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Many happy returns/congratulations]]></f>
+    <b><![CDATA[¡Felicidades!]]></b>
+  </c>
+</root>

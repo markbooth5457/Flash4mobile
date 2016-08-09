@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Periods of time and times of history]]></f>
+    <b><![CDATA[Periodos de tiempo y épocas de la historia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[decade]]></f>
+    <b><![CDATA[la década]]></b>
+  </c>
+  <c>
+    <f><![CDATA[century]]></f>
+    <b><![CDATA[el siglo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[millenium]]></f>
+    <b><![CDATA[el milenio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[time]]></f>
+    <b><![CDATA[la época ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[period]]></f>
+    <b><![CDATA[el periodo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[era]]></f>
+    <b><![CDATA[la era]]></b>
+  </c>
+  <c>
+    <f><![CDATA[age]]></f>
+    <b><![CDATA[la edad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stage]]></f>
+    <b><![CDATA[la etapa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[antiquity]]></f>
+    <b><![CDATA[la antigüedad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Middle Ages]]></f>
+    <b><![CDATA[la Edad Media]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pre-Hispanic / pre-Columbian period]]></f>
+    <b><![CDATA[la época precolombina / prehispánica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the colonial era]]></f>
+    <b><![CDATA[la época colonial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reconquering of Spain]]></f>
+    <b><![CDATA[la Reconquista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the conquest of America]]></f>
+    <b><![CDATA[la conquista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonization]]></f>
+    <b><![CDATA[la colonización]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Warlike conflicts]]></f>
+    <b><![CDATA[Conflictos bélicos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[invasion]]></f>
+    <b><![CDATA[la invasión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[battle]]></f>
+    <b><![CDATA[la batalla ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fight]]></f>
+    <b><![CDATA[la lucha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fight]]></f>
+    <b><![CDATA[luchar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[defeat]]></f>
+    <b><![CDATA[la derrota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to win]]></f>
+    <b><![CDATA[vencer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to defeat]]></f>
+    <b><![CDATA[derrotar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to dominate]]></f>
+    <b><![CDATA[dominar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to row]]></f>
+    <b><![CDATA[remar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to conquer]]></f>
+    <b><![CDATA[conquistar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the conquerors]]></f>
+    <b><![CDATA[los conquistadores ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the conquered ones]]></f>
+    <b><![CDATA[los conquistados ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to settle down]]></f>
+    <b><![CDATA[establecerse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be based]]></f>
+    <b><![CDATA[asentarse ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to colonize]]></f>
+    <b><![CDATA[colonizar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spanish medieval history and pre-Columbian American]]></f>
+    <b><![CDATA[Historia medieval española y precolombina americana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[history]]></f>
+    <b><![CDATA[la historia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[civilization]]></f>
+    <b><![CDATA[la civilización ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[culture]]></f>
+    <b><![CDATA[la cultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[town]]></f>
+    <b><![CDATA[el pueblo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[noble]]></f>
+    <b><![CDATA[los nobles ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[servants]]></f>
+    <b><![CDATA[los siervos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Romans]]></f>
+    <b><![CDATA[los romanos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Arabs]]></f>
+    <b><![CDATA[los árabes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Jews]]></f>
+    <b><![CDATA[los judíos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Christians]]></f>
+    <b><![CDATA[los cristianos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Spanish muslim]]></f>
+    <b><![CDATA[hispanomusulmán]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Muslim]]></f>
+    <b><![CDATA[musulmán]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Sephardic Jew]]></f>
+    <b><![CDATA[sefardí / sefardita ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exiled jew]]></f>
+    <b><![CDATA[ladino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Hebrew]]></f>
+    <b><![CDATA[hebreo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pre-Hispanic]]></f>
+    <b><![CDATA[prehispánico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pre-Columbian]]></f>
+    <b><![CDATA[precolombino ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Mayans]]></f>
+    <b><![CDATA[los mayas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Incas]]></f>
+    <b><![CDATA[los incas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Aztecs]]></f>
+    <b><![CDATA[los aztecas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Andean]]></f>
+    <b><![CDATA[andino ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[architecture]]></f>
+    <b><![CDATA[la arquitectura ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[agriculture]]></f>
+    <b><![CDATA[la agricultura ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[astronomy]]></f>
+    <b><![CDATA[la astronomía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calendar]]></f>
+    <b><![CDATA[el calendario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[religion]]></f>
+    <b><![CDATA[la religión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[social organization]]></f>
+    <b><![CDATA[la organización social ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[social hierarchy]]></f>
+    <b><![CDATA[la jerarquía social]]></b>
+  </c>
+  <c>
+    <f><![CDATA[culture]]></f>
+    <b><![CDATA[el cultivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cultivate]]></f>
+    <b><![CDATA[cultivar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to domesticate (plants)]]></f>
+    <b><![CDATA[domesticar (plantas) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[maize]]></f>
+    <b><![CDATA[el maíz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Pope]]></f>
+    <b><![CDATA[la papa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[writing]]></f>
+    <b><![CDATA[la escritura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the concept of zero]]></f>
+    <b><![CDATA[el concepto del cero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Political and administrative organization]]></f>
+    <b><![CDATA[Organización política y administrativa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[border]]></f>
+    <b><![CDATA[la frontera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[kingdom]]></f>
+    <b><![CDATA[el reino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[empire]]></f>
+    <b><![CDATA[el imperio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[republic]]></f>
+    <b><![CDATA[la república ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[republican]]></f>
+    <b><![CDATA[republicano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[democracy]]></f>
+    <b><![CDATA[la democracia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[democratic]]></f>
+    <b><![CDATA[democrático ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[democrat]]></f>
+    <b><![CDATA[demócrata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colony]]></f>
+    <b><![CDATA[la colonia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonial]]></f>
+    <b><![CDATA[colonial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[colonialism]]></f>
+    <b><![CDATA[el colonialismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the monarchy]]></f>
+    <b><![CDATA[la monarquía ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[monarchist]]></f>
+    <b><![CDATA[monárquico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bureaucracy]]></f>
+    <b><![CDATA[la burocracia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bureaucratic]]></f>
+    <b><![CDATA[burocrático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Medieval districts and cities]]></f>
+    <b><![CDATA[Barrios y ciudades medievales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[castle]]></f>
+    <b><![CDATA[el castillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stronghold]]></f>
+    <b><![CDATA[la fortaleza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wall]]></f>
+    <b><![CDATA[la muralla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ruins]]></f>
+    <b><![CDATA[las ruinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the district (Arab, Jewish, Christian)]]></f>
+    <b><![CDATA[el barrio (árabe, judío, cristiano)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[patio]]></f>
+    <b><![CDATA[el patio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[facade]]></f>
+    <b><![CDATA[la fachada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coat of arms]]></f>
+    <b><![CDATA[el escudo nobiliario ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[synagogue]]></f>
+    <b><![CDATA[la sinagoga]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cathedral]]></f>
+    <b><![CDATA[la catedral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[church]]></f>
+    <b><![CDATA[la iglesia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Stories and narrations]]></f>
+    <b><![CDATA[Cuentos y narraciones ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[prince]]></f>
+    <b><![CDATA[el príncipe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[princess]]></f>
+    <b><![CDATA[la princesa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[king]]></f>
+    <b><![CDATA[el rey]]></b>
+  </c>
+  <c>
+    <f><![CDATA[queen]]></f>
+    <b><![CDATA[la reina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[palace]]></f>
+    <b><![CDATA[el palacio ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[forest]]></f>
+    <b><![CDATA[el bosque ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fairy godmother]]></f>
+    <b><![CDATA[el hada madrina ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[witch]]></f>
+    <b><![CDATA[la bruja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stepmother]]></f>
+    <b><![CDATA[la madrastra ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[genie]]></f>
+    <b><![CDATA[el genio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fable]]></f>
+    <b><![CDATA[la fábula]]></b>
+  </c>
+  <c>
+    <f><![CDATA[story]]></f>
+    <b><![CDATA[el cuento ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[legend]]></f>
+    <b><![CDATA[la leyenda ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[anecdote]]></f>
+    <b><![CDATA[la anécdota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[myth]]></f>
+    <b><![CDATA[el mito ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[novel]]></f>
+    <b><![CDATA[la novela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[poem]]></f>
+    <b><![CDATA[el poema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to recount or tell (stories, anecdotes)]]></f>
+    <b><![CDATA[contar (cuentos, anécdotas) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to invent (a story)]]></f>
+    <b><![CDATA[inventar (un cuento)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Physical description and character]]></f>
+    <b><![CDATA[Descripción física y de carácter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[arrogant]]></f>
+    <b><![CDATA[altivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cheerful]]></f>
+    <b><![CDATA[alegre ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[likeable]]></f>
+    <b><![CDATA[simpático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[disdainful]]></f>
+    <b><![CDATA[desdeñoso ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amiable]]></f>
+    <b><![CDATA[amable ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[untrustwothy]]></f>
+    <b><![CDATA[desconfiado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[worker, hard working]]></f>
+    <b><![CDATA[trabajador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hospitable]]></f>
+    <b><![CDATA[hospitalario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stingy, mean, miserly]]></f>
+    <b><![CDATA[tacaño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[proud]]></f>
+    <b><![CDATA[orgulloso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[loving (of)]]></f>
+    <b><![CDATA[amante (de)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fan (of)]]></f>
+    <b><![CDATA[aficionado (a)]]></b>
+  </c>
+</root>

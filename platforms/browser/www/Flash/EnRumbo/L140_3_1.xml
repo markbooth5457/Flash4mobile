@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Fishing industry]]></f>
+    <b><![CDATA[Industria pesquera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the port (fishing)]]></f>
+    <b><![CDATA[el puerto (pesquero)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fishing]]></f>
+    <b><![CDATA[la pesca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fisherman]]></f>
+    <b><![CDATA[el pescador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[frozen foods]]></f>
+    <b><![CDATA[los congelados]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fisherman]]></f>
+    <b><![CDATA[el pescadero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fishing fleet]]></f>
+    <b><![CDATA[la flota pesquera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boat]]></f>
+    <b><![CDATA[el barco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vessel or craft]]></f>
+    <b><![CDATA[la embarcación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the disembarkation]]></f>
+    <b><![CDATA[el desembarco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the fishing industry]]></f>
+    <b><![CDATA[la industria pesquera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[catch]]></f>
+    <b><![CDATA[la captura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fish meal]]></f>
+    <b><![CDATA[la harina de pescado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the bounty of the oceans]]></f>
+    <b><![CDATA[la riqueza marina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[net]]></f>
+    <b><![CDATA[la red]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the fishing sector]]></f>
+    <b><![CDATA[el sector pesquero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[canning]]></f>
+    <b><![CDATA[la conserva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fish]]></f>
+    <b><![CDATA[pescado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[seafood]]></f>
+    <b><![CDATA[el marisco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crab]]></f>
+    <b><![CDATA[el cangrejo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[squid]]></f>
+    <b><![CDATA[el calamar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sardine]]></f>
+    <b><![CDATA[la sardina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[anchovy]]></f>
+    <b><![CDATA[la anchoa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hake]]></f>
+    <b><![CDATA[la merluza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cod]]></f>
+    <b><![CDATA[el bacalao]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tuna]]></f>
+    <b><![CDATA[el atún]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swordfish]]></f>
+    <b><![CDATA[el pez espada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Labor and commercial world]]></f>
+    <b><![CDATA[Mundo laboral y comercial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to buy]]></f>
+    <b><![CDATA[comprar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sell]]></f>
+    <b><![CDATA[vender]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to distribute (letters)]]></f>
+    <b><![CDATA[repartir (cartas)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pay or salary]]></f>
+    <b><![CDATA[el sueldo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get employment]]></f>
+    <b><![CDATA[entrar a trabajar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave work]]></f>
+    <b><![CDATA[salir de trabajar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the economy]]></f>
+    <b><![CDATA[la economía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unemployment]]></f>
+    <b><![CDATA[el paro / desempleo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to export]]></f>
+    <b><![CDATA[exportar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to import]]></f>
+    <b><![CDATA[importar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[export]]></f>
+    <b><![CDATA[la exportación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[import]]></f>
+    <b><![CDATA[la importación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[commerce]]></f>
+    <b><![CDATA[el comercio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[consumption]]></f>
+    <b><![CDATA[el consumo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the consumer]]></f>
+    <b><![CDATA[el consumidor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to consume]]></f>
+    <b><![CDATA[consumir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[internal demand]]></f>
+    <b><![CDATA[la demanda interna]]></b>
+  </c>
+  <c>
+    <f><![CDATA[external demand]]></f>
+    <b><![CDATA[la demanda externa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Gross Internal Product]]></f>
+    <b><![CDATA[el Producto Interior Bruto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[production]]></f>
+    <b><![CDATA[la producción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to produce]]></f>
+    <b><![CDATA[producir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Stores]]></f>
+    <b><![CDATA[Tiendas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pastry shop]]></f>
+    <b><![CDATA[la pastelería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shoe shop]]></f>
+    <b><![CDATA[la zapatería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hat shop]]></f>
+    <b><![CDATA[la sombrerería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glazier's]]></f>
+    <b><![CDATA[la cristalería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bookstore]]></f>
+    <b><![CDATA[la librería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[butcher's]]></f>
+    <b><![CDATA[la carnicería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[carpenter's workshop]]></f>
+    <b><![CDATA[la carpintería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[delicatessen]]></f>
+    <b><![CDATA[la charcutería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news stand]]></f>
+    <b><![CDATA[el quiosco de prensa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Professions]]></f>
+    <b><![CDATA[Profesiones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fisherman]]></f>
+    <b><![CDATA[el pescador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[politician]]></f>
+    <b><![CDATA[el político]]></b>
+  </c>
+  <c>
+    <f><![CDATA[general manager]]></f>
+    <b><![CDATA[el director general]]></b>
+  </c>
+  <c>
+    <f><![CDATA[news vender]]></f>
+    <b><![CDATA[el quiosquero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mailman]]></f>
+    <b><![CDATA[el cartero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[writer]]></f>
+    <b><![CDATA[el escritor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nurse]]></f>
+    <b><![CDATA[el enfermero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[doctor]]></f>
+    <b><![CDATA[el médico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[taxi driver]]></f>
+    <b><![CDATA[el taxista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[engineer]]></f>
+    <b><![CDATA[el ingeniero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[judge]]></f>
+    <b><![CDATA[el juez]]></b>
+  </c>
+  <c>
+    <f><![CDATA[architect]]></f>
+    <b><![CDATA[el arquitecto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[servant]]></f>
+    <b><![CDATA[el criado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[employee]]></f>
+    <b><![CDATA[el empleado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[employee]]></f>
+    <b><![CDATA[el dependiente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the police]]></f>
+    <b><![CDATA[la policía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[policeman]]></f>
+    <b><![CDATA[el policía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Architecture and urbanism]]></f>
+    <b><![CDATA[Arquitectura y urbanismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[building]]></f>
+    <b><![CDATA[el edificio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[construction]]></f>
+    <b><![CDATA[la construcción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[facade]]></f>
+    <b><![CDATA[la fachada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tile roof]]></f>
+    <b><![CDATA[el tejado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[concrete]]></f>
+    <b><![CDATA[el concreto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[concrete]]></f>
+    <b><![CDATA[el hormigón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(neo) classic style ]]></f>
+    <b><![CDATA[el estilo (neo)clásico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modernist]]></f>
+    <b><![CDATA[el estilo moderno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[residence]]></f>
+    <b><![CDATA[la residencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[inhabitant]]></f>
+    <b><![CDATA[el habitante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[public transport]]></f>
+    <b><![CDATA[el transporte público]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vehicle]]></f>
+    <b><![CDATA[el vehículo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lamppost]]></f>
+    <b><![CDATA[la farola]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rubbish]]></f>
+    <b><![CDATA[la basura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Languages]]></f>
+    <b><![CDATA[Lenguas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Catalan]]></f>
+    <b><![CDATA[catalán]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Gallego]]></f>
+    <b><![CDATA[gallego]]></b>
+  </c>
+  <c>
+    <f><![CDATA[euskera]]></f>
+    <b><![CDATA[euskera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Castilian Spanish]]></f>
+    <b><![CDATA[español/castellano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[welsh]]></f>
+    <b><![CDATA[gaélico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Welshman]]></f>
+    <b><![CDATA[galés]]></b>
+  </c>
+  <c>
+    <f><![CDATA[quechua]]></f>
+    <b><![CDATA[quechua]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aymará]]></f>
+    <b><![CDATA[aymará]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Nahuatl]]></f>
+    <b><![CDATA[náhuatl]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guaraní]]></f>
+    <b><![CDATA[guaraní]]></b>
+  </c>
+</root>

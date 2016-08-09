@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[attic]]></f>
+    <b><![CDATA[el ático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[balcony]]></f>
+    <b><![CDATA[el balcón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toliet; bathroom]]></f>
+    <b><![CDATA[el baño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[house]]></f>
+    <b><![CDATA[el chalet]]></b>
+  </c>
+  <c>
+    <f><![CDATA[kitchen]]></f>
+    <b><![CDATA[la cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dining room]]></f>
+    <b><![CDATA[el comedor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bathroom]]></f>
+    <b><![CDATA[el cuarto de baño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bedroom]]></f>
+    <b><![CDATA[el dormitorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hall (entrance)]]></f>
+    <b><![CDATA[la entrada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[garage]]></f>
+    <b><![CDATA[el garaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[room]]></f>
+    <b><![CDATA[la habitación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[corridor]]></f>
+    <b><![CDATA[el pasillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[patio]]></f>
+    <b><![CDATA[el patio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flat, apartment]]></f>
+    <b><![CDATA[el piso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ground floor]]></f>
+    <b><![CDATA[la planta baja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[living room]]></f>
+    <b><![CDATA[la sala de estar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[living room]]></f>
+    <b><![CDATA[el salón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[terrace, (large) balcony]]></f>
+    <b><![CDATA[la terraza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[housing; home, dwelling]]></f>
+    <b><![CDATA[la vivienda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lively]]></f>
+    <b><![CDATA[alegre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spacious]]></f>
+    <b><![CDATA[amplio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[horrible, awful]]></f>
+    <b><![CDATA[horrible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[garden]]></f>
+    <b><![CDATA[el jardín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pretty]]></f>
+    <b><![CDATA[lindo (LAm)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark]]></f>
+    <b><![CDATA[oscuro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[useful]]></f>
+    <b><![CDATA[práctico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[simple]]></f>
+    <b><![CDATA[sencillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rug, carpet]]></f>
+    <b><![CDATA[la alfombra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[furnished]]></f>
+    <b><![CDATA[amueblado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cupboard, wardrobe]]></f>
+    <b><![CDATA[el armario]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bed]]></f>
+    <b><![CDATA[la cama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chest of drawers]]></f>
+    <b><![CDATA[la cómoda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[desk]]></f>
+    <b><![CDATA[el escritorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mirror]]></f>
+    <b><![CDATA[el espejo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shelves; bookcase, bookshelves]]></f>
+    <b><![CDATA[la estantería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lamp]]></f>
+    <b><![CDATA[la lámpara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coffee table]]></f>
+    <b><![CDATA[la mesa de centro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[poster]]></f>
+    <b><![CDATA[el póster]]></b>
+  </c>
+  <c>
+    <f><![CDATA[door]]></f>
+    <b><![CDATA[la puerta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lounge-diner]]></f>
+    <b><![CDATA[el salón-comedor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[armchair]]></f>
+    <b><![CDATA[el sillón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sofa-bed]]></f>
+    <b><![CDATA[el sofá-cama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[window]]></f>
+    <b><![CDATA[la ventana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vacuum cleaner]]></f>
+    <b><![CDATA[la aspiradora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[coffee maker]]></f>
+    <b><![CDATA[la cafetera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cooker, stove (also kitchen)]]></f>
+    <b><![CDATA[la cocina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[freezer]]></f>
+    <b><![CDATA[el congelador]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(electrical) appliances]]></f>
+    <b><![CDATA[los electrodomésticos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fridge, refrigerator]]></f>
+    <b><![CDATA[el frigorífico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[oven]]></f>
+    <b><![CDATA[el horno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[washing machine]]></f>
+    <b><![CDATA[la lavadora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dishwasher]]></f>
+    <b><![CDATA[el lavaplatos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[microwave]]></f>
+    <b><![CDATA[el microondas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fridge, refrigerator]]></f>
+    <b><![CDATA[la nevera, el frigorifico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[iron]]></f>
+    <b><![CDATA[la plancha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tumble drier]]></f>
+    <b><![CDATA[la secadora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[agriculture]]></f>
+    <b><![CDATA[la agricultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yellow]]></f>
+    <b><![CDATA[amarillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[harmonious]]></f>
+    <b><![CDATA[armonioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[austere]]></f>
+    <b><![CDATA[austero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[classical]]></f>
+    <b><![CDATA[clásico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[contemporary]]></f>
+    <b><![CDATA[contemporáneo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elegant]]></f>
+    <b><![CDATA[elegante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spectacular]]></f>
+    <b><![CDATA[espectacular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[functional]]></f>
+    <b><![CDATA[funcional]]></b>
+  </c>
+  <c>
+    <f><![CDATA[place]]></f>
+    <b><![CDATA[el lugar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I like ...]]></f>
+    <b><![CDATA[me gusta ...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[original]]></f>
+    <b><![CDATA[original]]></b>
+  </c>
+  <c>
+    <f><![CDATA[district]]></f>
+    <b><![CDATA[el distrito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sculpture]]></f>
+    <b><![CDATA[la escultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[taxes]]></f>
+    <b><![CDATA[los impuestos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[insect]]></f>
+    <b><![CDATA[el insecto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to interest]]></f>
+    <b><![CDATA[interesar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I love...]]></f>
+    <b><![CDATA[me encanta...]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to bother]]></f>
+    <b><![CDATA[molestar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dog]]></f>
+    <b><![CDATA[el perro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[river]]></f>
+    <b><![CDATA[el río]]></b>
+  </c>
+  <c>
+    <f><![CDATA[noise]]></f>
+    <b><![CDATA[el ruido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[theatre]]></f>
+    <b><![CDATA[el teatro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[area, district]]></f>
+    <b><![CDATA[la zona]]></b>
+  </c>
+  <c>
+    <f><![CDATA[department store(s)]]></f>
+    <b><![CDATA[los almacenes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mud]]></f>
+    <b><![CDATA[el barro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[convent]]></f>
+    <b><![CDATA[el convento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[period]]></f>
+    <b><![CDATA[la época]]></b>
+  </c>
+  <c>
+    <f><![CDATA[style]]></f>
+    <b><![CDATA[el estilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[iron]]></f>
+    <b><![CDATA[el hierro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brick]]></f>
+    <b><![CDATA[la ladrillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wood]]></f>
+    <b><![CDATA[la madera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[museum]]></f>
+    <b><![CDATA[el museo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[straw]]></f>
+    <b><![CDATA[la paja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stone]]></f>
+    <b><![CDATA[la piedra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pure]]></f>
+    <b><![CDATA[puro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[century]]></f>
+    <b><![CDATA[el siglo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[it ought to, it must]]></f>
+    <b><![CDATA[debe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sea]]></f>
+    <b><![CDATA[el mar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mountain]]></f>
+    <b><![CDATA[la montaña]]></b>
+  </c>
+  <c>
+    <f><![CDATA[porch]]></f>
+    <b><![CDATA[el porche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[it has to, it must]]></f>
+    <b><![CDATA[tiene que]]></b>
+  </c>
+</root>

@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Description of places]]></f>
+    <b><![CDATA[Descripción de lugares]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Cardinal points]]></f>
+    <b><![CDATA[Puntos cardinales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[north]]></f>
+    <b><![CDATA[el norte ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[south]]></f>
+    <b><![CDATA[el sur ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[east]]></f>
+    <b><![CDATA[el este]]></b>
+  </c>
+  <c>
+    <f><![CDATA[west]]></f>
+    <b><![CDATA[el oeste]]></b>
+  </c>
+  <c>
+    <f><![CDATA[city]]></f>
+    <b><![CDATA[la ciudad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[avenue]]></f>
+    <b><![CDATA[la avenida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[district]]></f>
+    <b><![CDATA[el barrio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a church]]></f>
+    <b><![CDATA[una iglesia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a monument]]></f>
+    <b><![CDATA[un monumento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[port]]></f>
+    <b><![CDATA[el puerto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the urban area]]></f>
+    <b><![CDATA[el casco urbano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a busy city]]></f>
+    <b><![CDATA[una ciudad bulliciosa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cosmopolitan]]></f>
+    <b><![CDATA[cosmopolita ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[modern]]></f>
+    <b><![CDATA[moderna]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a colorful town]]></f>
+    <b><![CDATA[un pueblo pintoresco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calm]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[a beautiful landscape]]></f>
+    <b><![CDATA[un paisaje precioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Geographic terms]]></f>
+    <b><![CDATA[Términos geográficos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the sea]]></f>
+    <b><![CDATA[el mar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mountain]]></f>
+    <b><![CDATA[la montaña]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the autonomous regions]]></f>
+    <b><![CDATA[las comunidades autónomas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[province]]></f>
+    <b><![CDATA[la provincia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[region]]></f>
+    <b><![CDATA[la región]]></b>
+  </c>
+  <c>
+    <f><![CDATA[capital]]></f>
+    <b><![CDATA[la capital]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Personal identification]]></f>
+    <b><![CDATA[Identificación personal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Full name]]></f>
+    <b><![CDATA[Nombre y apellidos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I am Tomás Rubio]]></f>
+    <b><![CDATA[me llamo Tomás Rubio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Age]]></f>
+    <b><![CDATA[Edad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I am thirty years old]]></f>
+    <b><![CDATA[tengo treinta años]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Birthplace]]></f>
+    <b><![CDATA[Lugar de nacimiento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I am from Toledo]]></f>
+    <b><![CDATA[soy de Toledo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Marital status]]></f>
+    <b><![CDATA[Estado civil ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unmarried]]></f>
+    <b><![CDATA[soltero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[married]]></f>
+    <b><![CDATA[casado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[separated]]></f>
+    <b><![CDATA[separado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[divorced]]></f>
+    <b><![CDATA[divorciado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[widower]]></f>
+    <b><![CDATA[viudo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I am unmarried]]></f>
+    <b><![CDATA[Estoy soltero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Profession]]></f>
+    <b><![CDATA[Profesión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I am a doctor]]></f>
+    <b><![CDATA[Soy médico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Daily routine]]></f>
+    <b><![CDATA[Rutina diaria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to awake]]></f>
+    <b><![CDATA[despertarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rise]]></f>
+    <b><![CDATA[levantarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lie down]]></f>
+    <b><![CDATA[acostarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fall asleep]]></f>
+    <b><![CDATA[dormirse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to get oneself ready]]></f>
+    <b><![CDATA[arreglarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wash oneself]]></f>
+    <b><![CDATA[lavarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[breakfast]]></f>
+    <b><![CDATA[el desayuno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have breakfast]]></f>
+    <b><![CDATA[desayunar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[meal or food]]></f>
+    <b><![CDATA[la comida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to eat]]></f>
+    <b><![CDATA[comer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[supper]]></f>
+    <b><![CDATA[la cena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have supper]]></f>
+    <b><![CDATA[cenar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to do the shopping]]></f>
+    <b><![CDATA[hacer la compra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave home]]></f>
+    <b><![CDATA[salir de casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to arrive home]]></f>
+    <b><![CDATA[llegar a casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go to work]]></f>
+    <b><![CDATA[ir al trabajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to prepare the meal]]></f>
+    <b><![CDATA[preparar la comida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wash the dishes]]></f>
+    <b><![CDATA[fregar los platos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to clean the house]]></f>
+    <b><![CDATA[limpiar la casa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to iron the clothes]]></f>
+    <b><![CDATA[planchar la ropa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[The family]]></f>
+    <b><![CDATA[La familia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandparents]]></f>
+    <b><![CDATA[los abuelos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandfather]]></f>
+    <b><![CDATA[el abuelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandmother]]></f>
+    <b><![CDATA[la abuela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[parents]]></f>
+    <b><![CDATA[los padres ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[father]]></f>
+    <b><![CDATA[el padre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mother]]></f>
+    <b><![CDATA[la madre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[husband]]></f>
+    <b><![CDATA[el marido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[woman]]></f>
+    <b><![CDATA[la mujer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[children]]></f>
+    <b><![CDATA[los hijos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[daughters]]></f>
+    <b><![CDATA[las hijas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brothers]]></f>
+    <b><![CDATA[los hermanos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sisters]]></f>
+    <b><![CDATA[las hermanas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[uncles]]></f>
+    <b><![CDATA[los tíos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aunts]]></f>
+    <b><![CDATA[las tías]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nephews]]></f>
+    <b><![CDATA[los sobrinos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nieces]]></f>
+    <b><![CDATA[las sobrinas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cousins]]></f>
+    <b><![CDATA[los primos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Physical descriptions]]></f>
+    <b><![CDATA[Descripciones físicas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be fat]]></f>
+    <b><![CDATA[ser gordo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[thin]]></f>
+    <b><![CDATA[delgado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tall]]></f>
+    <b><![CDATA[alto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short]]></f>
+    <b><![CDATA[bajo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a moustache]]></f>
+    <b><![CDATA[tener bigote]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beard]]></f>
+    <b><![CDATA[barba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have blond hair]]></f>
+    <b><![CDATA[tener el pelo rubio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown]]></f>
+    <b><![CDATA[castaño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black]]></f>
+    <b><![CDATA[negro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gray]]></f>
+    <b><![CDATA[gris]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[long]]></f>
+    <b><![CDATA[largo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[short]]></f>
+    <b><![CDATA[corto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be bald]]></f>
+    <b><![CDATA[ser calvo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have dark skin]]></f>
+    <b><![CDATA[tener la piel oscura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark skinned or tanned]]></f>
+    <b><![CDATA[morena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clear]]></f>
+    <b><![CDATA[clara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white]]></f>
+    <b><![CDATA[blanca]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have blue eyes]]></f>
+    <b><![CDATA[tener los ojos azules]]></b>
+  </c>
+  <c>
+    <f><![CDATA[green]]></f>
+    <b><![CDATA[verdes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brown]]></f>
+    <b><![CDATA[castaños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dark]]></f>
+    <b><![CDATA[oscuros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[black]]></f>
+    <b><![CDATA[negros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[large]]></f>
+    <b><![CDATA[grandes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[small]]></f>
+    <b><![CDATA[pequeños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have a straight nose]]></f>
+    <b><![CDATA[tener la nariz recta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wear glasses]]></f>
+    <b><![CDATA[llevar gafas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look like]]></f>
+    <b><![CDATA[parecerse a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[he has his mothers eyes]]></f>
+    <b><![CDATA[se parece a su madre en los ojos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Description of character]]></f>
+    <b><![CDATA[Descripción de carácter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be]]></f>
+    <b><![CDATA[ser]]></b>
+  </c>
+  <c>
+    <f><![CDATA[boring]]></f>
+    <b><![CDATA[aburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aggressive]]></f>
+    <b><![CDATA[agresivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[amiable]]></f>
+    <b><![CDATA[amable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[unpleasant]]></f>
+    <b><![CDATA[antipático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[capricious]]></f>
+    <b><![CDATA[caprichoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[affectionate]]></f>
+    <b><![CDATA[cariñoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[untidy]]></f>
+    <b><![CDATA[desordenado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[egoistic]]></f>
+    <b><![CDATA[egoísta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[generous]]></f>
+    <b><![CDATA[generoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[impulsive]]></f>
+    <b><![CDATA[impulsivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tidy]]></f>
+    <b><![CDATA[ordenado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reserved]]></f>
+    <b><![CDATA[reservado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serious]]></f>
+    <b><![CDATA[serio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[likeable]]></f>
+    <b><![CDATA[simpático]]></b>
+  </c>
+  <c>
+    <f><![CDATA[timid]]></f>
+    <b><![CDATA[tímido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[calm]]></f>
+    <b><![CDATA[tranquilo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Transport]]></f>
+    <b><![CDATA[Transporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traffic]]></f>
+    <b><![CDATA[el tráfico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bicycle]]></f>
+    <b><![CDATA[la bicicleta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bike]]></f>
+    <b><![CDATA[la bici]]></b>
+  </c>
+  <c>
+    <f><![CDATA[car]]></f>
+    <b><![CDATA[el coche]]></b>
+  </c>
+  <c>
+    <f><![CDATA[highway]]></f>
+    <b><![CDATA[la carretera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rush hour]]></f>
+    <b><![CDATA[la hora punta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[smoke]]></f>
+    <b><![CDATA[el humo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pollution]]></f>
+    <b><![CDATA[la polución]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stress]]></f>
+    <b><![CDATA[el estrés]]></b>
+  </c>
+</root>

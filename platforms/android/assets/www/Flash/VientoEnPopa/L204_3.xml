@@ -1,0 +1,1367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[Agriculture]]></f>
+    <b><![CDATA[Agricultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[agriculturist, farmer]]></f>
+    <b><![CDATA[el agricultor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[agriculture, farming]]></f>
+    <b><![CDATA[agrícola]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cultivate]]></f>
+    <b><![CDATA[cultivar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cultivation]]></f>
+    <b><![CDATA[el cultivo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to work]]></f>
+    <b><![CDATA[labrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to harvest]]></f>
+    <b><![CDATA[cosechar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the harvest]]></f>
+    <b><![CDATA[la cosecha]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fodder, feed]]></f>
+    <b><![CDATA[el pienso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[food]]></f>
+    <b><![CDATA[el alimento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[feeding]]></f>
+    <b><![CDATA[la alimentación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to feed]]></f>
+    <b><![CDATA[alimentar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[edible]]></f>
+    <b><![CDATA[comestible]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the climate]]></f>
+    <b><![CDATA[el clima ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the ground]]></f>
+    <b><![CDATA[el suelo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the quality of the ground]]></f>
+    <b><![CDATA[la calidad del suelo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[weeds]]></f>
+    <b><![CDATA[las malas hierbas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plagues, blight, pests]]></f>
+    <b><![CDATA[las plagas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[raw material]]></f>
+    <b><![CDATA[la materia prima]]></b>
+  </c>
+  <c>
+    <f><![CDATA[resources (natural, economic)]]></f>
+    <b><![CDATA[los recursos (naturales, económicos)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cost (economic, environmental)]]></f>
+    <b><![CDATA[el coste (económico, medioambiental)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[waste products]]></f>
+    <b><![CDATA[los desperdicios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[toxic]]></f>
+    <b><![CDATA[tóxico ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ecological]]></f>
+    <b><![CDATA[ecológico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[environmental]]></f>
+    <b><![CDATA[ambiental]]></b>
+  </c>
+  <c>
+    <f><![CDATA[energetic]]></f>
+    <b><![CDATA[energético]]></b>
+  </c>
+  <c>
+    <f><![CDATA[savage]]></f>
+    <b><![CDATA[salvaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[agricultural products]]></f>
+    <b><![CDATA[productos agrícolas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fruit]]></f>
+    <b><![CDATA[el fruto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fruit]]></f>
+    <b><![CDATA[la fruta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cereals]]></f>
+    <b><![CDATA[los cereales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vegetables, garden produce]]></f>
+    <b><![CDATA[la hortaliza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sugar cane]]></f>
+    <b><![CDATA[la caña de azúcar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tobacco]]></f>
+    <b><![CDATA[el tabaco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[potato]]></f>
+    <b><![CDATA[la patata / papa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rice]]></f>
+    <b><![CDATA[el arroz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sweet potato]]></f>
+    <b><![CDATA[la batata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fruits]]></f>
+    <b><![CDATA[frutas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orange]]></f>
+    <b><![CDATA[la naranja ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lemon]]></f>
+    <b><![CDATA[el limón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[blackberry]]></f>
+    <b><![CDATA[la mora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pineapple]]></f>
+    <b><![CDATA[la piña]]></b>
+  </c>
+  <c>
+    <f><![CDATA[peach]]></f>
+    <b><![CDATA[el melocotón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[strawberry]]></f>
+    <b><![CDATA[la fresa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[raspberry]]></f>
+    <b><![CDATA[la frambuesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pear]]></f>
+    <b><![CDATA[la pera ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[papaya]]></f>
+    <b><![CDATA[la papaya]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flowers]]></f>
+    <b><![CDATA[flores ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[carnation]]></f>
+    <b><![CDATA[el clavel ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[violet]]></f>
+    <b><![CDATA[la violeta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rose]]></f>
+    <b><![CDATA[la rosa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lily]]></f>
+    <b><![CDATA[la azucena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orange blossom]]></f>
+    <b><![CDATA[el azahar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[jasmine]]></f>
+    <b><![CDATA[el jazmín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[spices]]></f>
+    <b><![CDATA[especias ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vanilla]]></f>
+    <b><![CDATA[la vainilla ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cinnamon]]></f>
+    <b><![CDATA[la canela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clove]]></f>
+    <b><![CDATA[el clavo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[liquorice]]></f>
+    <b><![CDATA[el regaliz]]></b>
+  </c>
+  <c>
+    <f><![CDATA[plant]]></f>
+    <b><![CDATA[la planta ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[root]]></f>
+    <b><![CDATA[la raíz ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stem]]></f>
+    <b><![CDATA[el tallo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leaf]]></f>
+    <b><![CDATA[la hoja ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flower]]></f>
+    <b><![CDATA[la flor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grain]]></f>
+    <b><![CDATA[el grano ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tubercle]]></f>
+    <b><![CDATA[el tubérculo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flowerpot]]></f>
+    <b><![CDATA[la maceta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shrub]]></f>
+    <b><![CDATA[el arbusto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine]]></f>
+    <b><![CDATA[el vino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grape]]></f>
+    <b><![CDATA[la uva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pip (of grape)]]></f>
+    <b><![CDATA[el grano (de uva) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bunch]]></f>
+    <b><![CDATA[el racimo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pulp]]></f>
+    <b><![CDATA[la pulpa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skin]]></f>
+    <b><![CDATA[la piel ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pip, seed]]></f>
+    <b><![CDATA[la pepita ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stem, stalk]]></f>
+    <b><![CDATA[el rabillo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the production of the wine]]></f>
+    <b><![CDATA[la producción del vino ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to produce]]></f>
+    <b><![CDATA[producir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[production]]></f>
+    <b><![CDATA[producción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[productive]]></f>
+    <b><![CDATA[productivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the production process]]></f>
+    <b><![CDATA[el proceso productivo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to produce (wine)]]></f>
+    <b><![CDATA[elaborar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[production]]></f>
+    <b><![CDATA[la elaboración]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grape growing]]></f>
+    <b><![CDATA[la viticultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[winemaking]]></f>
+    <b><![CDATA[la vinicultura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the grape grower]]></f>
+    <b><![CDATA[el viticultor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[winecellar]]></f>
+    <b><![CDATA[la bodega]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grapevine]]></f>
+    <b><![CDATA[la vid]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vineyard]]></f>
+    <b><![CDATA[el viñedo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grape harvest]]></f>
+    <b><![CDATA[la vendimia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to harvest]]></f>
+    <b><![CDATA[vendimiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grape picker]]></f>
+    <b><![CDATA[los vendimiadores]]></b>
+  </c>
+  <c>
+    <f><![CDATA[collection]]></f>
+    <b><![CDATA[la recogida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the reception (of the grape in the warehouse)]]></f>
+    <b><![CDATA[la recepción (de la uva en la bodega)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the treading of the grape]]></f>
+    <b><![CDATA[el pisado de la uva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to press]]></f>
+    <b><![CDATA[prensar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the pressings of the grape]]></f>
+    <b><![CDATA[el prensado de la uva ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to grind]]></f>
+    <b><![CDATA[moler]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the extraction of must]]></f>
+    <b><![CDATA[la extracción del mosto ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[juice (?)]]></f>
+    <b><![CDATA[el caldo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[juice]]></f>
+    <b><![CDATA[el zumo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to filter]]></f>
+    <b><![CDATA[filtrar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to decant]]></f>
+    <b><![CDATA[trasvasar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fermentation]]></f>
+    <b><![CDATA[la fermentación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[growth]]></f>
+    <b><![CDATA[la crianza]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(oak) barrel]]></f>
+    <b><![CDATA[la barrica (de roble) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cask, barrel]]></f>
+    <b><![CDATA[la cuba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bottle]]></f>
+    <b><![CDATA[la botella]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bottling]]></f>
+    <b><![CDATA[el embotellado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[label]]></f>
+    <b><![CDATA[la etiqueta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[labeling]]></f>
+    <b><![CDATA[el etiquetado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cork]]></f>
+    <b><![CDATA[el corcho]]></b>
+  </c>
+  <c>
+    <f><![CDATA[corkscrew]]></f>
+    <b><![CDATA[el sacacorchos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine bottle (with long spout)]]></f>
+    <b><![CDATA[el porrón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wine tasting]]></f>
+    <b><![CDATA[la cata del vino]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to taste]]></f>
+    <b><![CDATA[catar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the tasting card]]></f>
+    <b><![CDATA[la ficha de cata]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glass]]></f>
+    <b><![CDATA[la copa ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glass]]></f>
+    <b><![CDATA[el vidrio ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clarity]]></f>
+    <b><![CDATA[la limpidez ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clean]]></f>
+    <b><![CDATA[limpio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[brilliant]]></f>
+    <b><![CDATA[brillante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cloudy]]></f>
+    <b><![CDATA[turbio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have body]]></f>
+    <b><![CDATA[tener mucho cuerpo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(to be a) complex (wine)]]></f>
+    <b><![CDATA[(ser un vino) complejo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the shade/nuance]]></f>
+    <b><![CDATA[el matiz (los matices) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hint]]></f>
+    <b><![CDATA[la nota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[types of wines]]></f>
+    <b><![CDATA[tipos de vinos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[red (wine)]]></f>
+    <b><![CDATA[el (vino) tinto ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[white (wine)]]></f>
+    <b><![CDATA[el (vino) blanco ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[rosé (wine)]]></f>
+    <b><![CDATA[el (vino) rosado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[claret]]></f>
+    <b><![CDATA[el (vino) clarete ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sparkling wine]]></f>
+    <b><![CDATA[el (vino) espumoso ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sparkling wine]]></f>
+    <b><![CDATA[el cava]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dry]]></f>
+    <b><![CDATA[seco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sweet]]></f>
+    <b><![CDATA[dulce]]></b>
+  </c>
+  <c>
+    <f><![CDATA[generous]]></f>
+    <b><![CDATA[generoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the senses]]></f>
+    <b><![CDATA[los sentidos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sight]]></f>
+    <b><![CDATA[la vista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sense of smell]]></f>
+    <b><![CDATA[el olfato]]></b>
+  </c>
+  <c>
+    <f><![CDATA[taste]]></f>
+    <b><![CDATA[el gusto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aroma]]></f>
+    <b><![CDATA[el aroma]]></b>
+  </c>
+  <c>
+    <f><![CDATA[scent]]></f>
+    <b><![CDATA[el olor ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[touch]]></f>
+    <b><![CDATA[el tacto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flavours]]></f>
+    <b><![CDATA[los sabores ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salty]]></f>
+    <b><![CDATA[salado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sweet]]></f>
+    <b><![CDATA[dulce ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[acid]]></f>
+    <b><![CDATA[ácido ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bitter]]></f>
+    <b><![CDATA[amargo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shades of colors]]></f>
+    <b><![CDATA[matices de colores ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reddish]]></f>
+    <b><![CDATA[rojizo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orangy]]></f>
+    <b><![CDATA[anaranjado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yellowish]]></f>
+    <b><![CDATA[amarillento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[greenish]]></f>
+    <b><![CDATA[verdoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bluish]]></f>
+    <b><![CDATA[azulado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[violet]]></f>
+    <b><![CDATA[violáceo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bruised, blue]]></f>
+    <b><![CDATA[amoratado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Projects and research]]></f>
+    <b><![CDATA[Proyectos e investigación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[project]]></f>
+    <b><![CDATA[el proyecto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[experiment]]></f>
+    <b><![CDATA[el experimento ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[test]]></f>
+    <b><![CDATA[la prueba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[trial]]></f>
+    <b><![CDATA[el ensayo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[research]]></f>
+    <b><![CDATA[la investigación ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[researcher]]></f>
+    <b><![CDATA[el investigador ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[development]]></f>
+    <b><![CDATA[el desarrollo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[objective]]></f>
+    <b><![CDATA[el objetivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aim]]></f>
+    <b><![CDATA[el fin]]></b>
+  </c>
+  <c>
+    <f><![CDATA[intention]]></f>
+    <b><![CDATA[el propósito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[result]]></f>
+    <b><![CDATA[el resultado ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[data]]></f>
+    <b><![CDATA[los datos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[step]]></f>
+    <b><![CDATA[el paso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stage]]></f>
+    <b><![CDATA[la etapa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[improvement]]></f>
+    <b><![CDATA[la mejora]]></b>
+  </c>
+  <c>
+    <f><![CDATA[increase]]></f>
+    <b><![CDATA[el aumento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reduction]]></f>
+    <b><![CDATA[la reducción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[benefit]]></f>
+    <b><![CDATA[el beneficio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advantage]]></f>
+    <b><![CDATA[la ventaja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[advances]]></f>
+    <b><![CDATA[los avances ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to develop]]></f>
+    <b><![CDATA[desarrollar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to process]]></f>
+    <b><![CDATA[procesar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to experiment]]></f>
+    <b><![CDATA[experimentar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to prove]]></f>
+    <b><![CDATA[probar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to verify]]></f>
+    <b><![CDATA[comprobar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to demonstrate]]></f>
+    <b><![CDATA[demostrar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to dedicate oneself (to)]]></f>
+    <b><![CDATA[dedicarse (a) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pursue]]></f>
+    <b><![CDATA[perseguir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to try]]></f>
+    <b><![CDATA[pretender ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to obtain, achieve]]></f>
+    <b><![CDATA[lograr ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to obtain]]></f>
+    <b><![CDATA[obtener]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to obtain]]></f>
+    <b><![CDATA[conseguir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to carry out, bring to fruition]]></f>
+    <b><![CDATA[llevar a cabo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fulfill]]></f>
+    <b><![CDATA[cumplir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to adopt]]></f>
+    <b><![CDATA[adoptar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to extrapolate]]></f>
+    <b><![CDATA[extrapolar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to approach]]></f>
+    <b><![CDATA[abordar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to disclose]]></f>
+    <b><![CDATA[divulgar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to make aware]]></f>
+    <b><![CDATA[concienciar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Biotechnology]]></f>
+    <b><![CDATA[Biotecnología ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[gene]]></f>
+    <b><![CDATA[el gen]]></b>
+  </c>
+  <c>
+    <f><![CDATA[genetic]]></f>
+    <b><![CDATA[genético]]></b>
+  </c>
+  <c>
+    <f><![CDATA[genetic manipulation]]></f>
+    <b><![CDATA[la manipulación genética ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[genetic engineering]]></f>
+    <b><![CDATA[la ingeniería genética ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[transgenetic]]></f>
+    <b><![CDATA[la transgenia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[transgenetic]]></f>
+    <b><![CDATA[transgenético]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clone]]></f>
+    <b><![CDATA[el clon]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cloning]]></f>
+    <b><![CDATA[la clonación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to clone]]></f>
+    <b><![CDATA[clonar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[properties]]></f>
+    <b><![CDATA[las propiedades ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[test tube]]></f>
+    <b><![CDATA[la probeta ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chemistry]]></f>
+    <b><![CDATA[químico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to transform]]></f>
+    <b><![CDATA[transformar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to change (become)]]></f>
+    <b><![CDATA[convertir( se) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to pass (by, through)]]></f>
+    <b><![CDATA[pasar (por) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to constitute]]></f>
+    <b><![CDATA[constituir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to introduce]]></f>
+    <b><![CDATA[introducir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to adopt]]></f>
+    <b><![CDATA[adoptar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to modify]]></f>
+    <b><![CDATA[modificar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to isolate]]></f>
+    <b><![CDATA[aislar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to generate]]></f>
+    <b><![CDATA[generar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to damage]]></f>
+    <b><![CDATA[dañar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to perish]]></f>
+    <b><![CDATA[perecer ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to ingest]]></f>
+    <b><![CDATA[ingerir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to destroy]]></f>
+    <b><![CDATA[destruir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Medicine]]></f>
+    <b><![CDATA[Medicina ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[temperature]]></f>
+    <b><![CDATA[la temperatura ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fever]]></f>
+    <b><![CDATA[la fiebre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[symptoms]]></f>
+    <b><![CDATA[los síntomas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[medicine]]></f>
+    <b><![CDATA[el medicamento ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cure]]></f>
+    <b><![CDATA[la cura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[therapy]]></f>
+    <b><![CDATA[la terapia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chemotherapy]]></f>
+    <b><![CDATA[la quimioterapia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vaccine]]></f>
+    <b><![CDATA[la vacuna]]></b>
+  </c>
+  <c>
+    <f><![CDATA[vaccination]]></f>
+    <b><![CDATA[la vacunación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[injection]]></f>
+    <b><![CDATA[la inyección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[immunization]]></f>
+    <b><![CDATA[la inmunización ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[antibodies]]></f>
+    <b><![CDATA[los anticuerpos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[inoculation]]></f>
+    <b><![CDATA[la inoculación ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[antibodies]]></f>
+    <b><![CDATA[los anticuerpos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aerosols]]></f>
+    <b><![CDATA[los aerosoles]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drops]]></f>
+    <b><![CDATA[las gotas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[capsules]]></f>
+    <b><![CDATA[las cápsulas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tablets]]></f>
+    <b><![CDATA[las pastillas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[protection]]></f>
+    <b><![CDATA[la protección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[effect]]></f>
+    <b><![CDATA[el efecto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[consequence]]></f>
+    <b><![CDATA[la consecuencia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[implications]]></f>
+    <b><![CDATA[las implicaciones ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[risk]]></f>
+    <b><![CDATA[el riesgo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[healthy]]></f>
+    <b><![CDATA[sano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[innocuous]]></f>
+    <b><![CDATA[inocuo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[resistant]]></f>
+    <b><![CDATA[resistente ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[immune]]></f>
+    <b><![CDATA[inmune]]></b>
+  </c>
+  <c>
+    <f><![CDATA[injectable]]></f>
+    <b><![CDATA[inyectable ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[preventive]]></f>
+    <b><![CDATA[preventivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[immunized]]></f>
+    <b><![CDATA[inmunizador ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[infectious (diseases)]]></f>
+    <b><![CDATA[infecciosas (enfermedades) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[secondary (effects)]]></f>
+    <b><![CDATA[secundarios (efectos) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nasal]]></f>
+    <b><![CDATA[nasales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[orals]]></f>
+    <b><![CDATA[bucales]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to alleviate]]></f>
+    <b><![CDATA[aliviar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to prevent]]></f>
+    <b><![CDATA[prevenir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cure]]></f>
+    <b><![CDATA[curar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to heal]]></f>
+    <b><![CDATA[sanar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to protect]]></f>
+    <b><![CDATA[proteger ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to vaccinate]]></f>
+    <b><![CDATA[vacunar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to immunize]]></f>
+    <b><![CDATA[inmunizar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to inject]]></f>
+    <b><![CDATA[inyectar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to inoculate]]></f>
+    <b><![CDATA[inocular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to avoid]]></f>
+    <b><![CDATA[evitar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[diseases]]></f>
+    <b><![CDATA[enfermedades]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cancer]]></f>
+    <b><![CDATA[el cáncer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tumor]]></f>
+    <b><![CDATA[el tumor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[smallpox]]></f>
+    <b><![CDATA[la viruela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[typhus]]></f>
+    <b><![CDATA[el tifus]]></b>
+  </c>
+  <c>
+    <f><![CDATA[typhoid fever]]></f>
+    <b><![CDATA[las fiebres tifoideas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[malaria]]></f>
+    <b><![CDATA[el paludismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[malaria]]></f>
+    <b><![CDATA[la malaria]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tuberculosis]]></f>
+    <b><![CDATA[la tuberculosis]]></b>
+  </c>
+  <c>
+    <f><![CDATA[AIDS]]></f>
+    <b><![CDATA[el sida / SIDA]]></b>
+  </c>
+  <c>
+    <f><![CDATA[influenza]]></f>
+    <b><![CDATA[la gripe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pneumonia]]></f>
+    <b><![CDATA[la neumonía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hepatitis]]></f>
+    <b><![CDATA[la hepatitis]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tetanous]]></f>
+    <b><![CDATA[el tétanos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cholera]]></f>
+    <b><![CDATA[el cólera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[salmonela]]></f>
+    <b><![CDATA[la(s) salmonela(s) ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[yellow fever]]></f>
+    <b><![CDATA[la fiebre amarilla ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[disentry]]></f>
+    <b><![CDATA[la disentería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Inexplicable phenomena]]></f>
+    <b><![CDATA[Fenómenos inexplicables]]></b>
+  </c>
+  <c>
+    <f><![CDATA[parapsychological phenomena]]></f>
+    <b><![CDATA[fenómenos parapsicológicos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[astral]]></f>
+    <b><![CDATA[astral]]></b>
+  </c>
+  <c>
+    <f><![CDATA[psychic]]></f>
+    <b><![CDATA[psíquico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[magnetic fields]]></f>
+    <b><![CDATA[los campos magnéticos ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sonambulism]]></f>
+    <b><![CDATA[el sonambulismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[necromancy]]></f>
+    <b><![CDATA[la nigromancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chiromancy]]></f>
+    <b><![CDATA[la quiromancia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[inhabitants of other planets]]></f>
+    <b><![CDATA[habitantes de otros planetas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[extraterrestrials]]></f>
+    <b><![CDATA[los extraterrestres]]></b>
+  </c>
+  <c>
+    <f><![CDATA[aliens]]></f>
+    <b><![CDATA[los alienígenas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flying saucer]]></f>
+    <b><![CDATA[el platillo volante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ufo (unidentified flying object)]]></f>
+    <b><![CDATA[el ovni (objeto volador no identificado)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to crash]]></f>
+    <b><![CDATA[estrellarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[credulous or skeptical?]]></f>
+    <b><![CDATA[¿crédulo o escéptico? ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[frightened]]></f>
+    <b><![CDATA[miedoso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[credulous]]></f>
+    <b><![CDATA[crédulo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skeptic]]></f>
+    <b><![CDATA[escéptico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[serious]]></f>
+    <b><![CDATA[serio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[overwhelmed]]></f>
+    <b><![CDATA[atónito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nonbelieving]]></f>
+    <b><![CDATA[no creérselo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to believe]]></f>
+    <b><![CDATA[fiarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to incline towards]]></f>
+    <b><![CDATA[inclinarse a]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(un)certainty]]></f>
+    <b><![CDATA[la (in)certidumbre ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[incredulity]]></f>
+    <b><![CDATA[la incredulidad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[skepticism]]></f>
+    <b><![CDATA[el escepticismo ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[doubt]]></f>
+    <b><![CDATA[la duda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[conviction]]></f>
+    <b><![CDATA[la convicción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be sure]]></f>
+    <b><![CDATA[estar seguro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be convinced]]></f>
+    <b><![CDATA[estar convencido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cards]]></f>
+    <b><![CDATA[las cartas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[deck]]></f>
+    <b><![CDATA[la baraja ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[stick, rod]]></f>
+    <b><![CDATA[el palo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[golds]]></f>
+    <b><![CDATA[oros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[glasses]]></f>
+    <b><![CDATA[copas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[swords]]></f>
+    <b><![CDATA[espadas ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clubs]]></f>
+    <b><![CDATA[bastos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bet]]></f>
+    <b><![CDATA[la apuesta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[predictions]]></f>
+    <b><![CDATA[predicciones ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to predict]]></f>
+    <b><![CDATA[predecir ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to anticipate]]></f>
+    <b><![CDATA[prever]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to intuit]]></f>
+    <b><![CDATA[intuir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to augur]]></f>
+    <b><![CDATA[augurar ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to predict]]></f>
+    <b><![CDATA[vaticinar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[favorable]]></f>
+    <b><![CDATA[favorable]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be prone (to)]]></f>
+    <b><![CDATA[ser propenso (a)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[opportune]]></f>
+    <b><![CDATA[oportuno ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[adverse]]></f>
+    <b><![CDATA[adverso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Emotions]]></f>
+    <b><![CDATA[Emociones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to mount in rage]]></f>
+    <b><![CDATA[montar en cólera ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to appear]]></f>
+    <b><![CDATA[poner cara de ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[anger]]></f>
+    <b><![CDATA[la ira]]></b>
+  </c>
+  <c>
+    <f><![CDATA[envy]]></f>
+    <b><![CDATA[la envidia ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shame]]></f>
+    <b><![CDATA[la vergüenza ]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bad temper]]></f>
+    <b><![CDATA[el mal humor]]></b>
+  </c>
+</root>

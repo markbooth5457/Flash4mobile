@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[What are you (singular) going to have?]]></f>
+    <b><![CDATA[¿Qué va a tomar?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What would you (plural) like to have?]]></f>
+    <b><![CDATA[¿Qué desean tomar?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[A beer and a cheese tapa for me]]></f>
+    <b><![CDATA[Para mí una cerveza y una tapa de queso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Nothing for me]]></f>
+    <b><![CDATA[Para mí nada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Excuse me, waiter, please!]]></f>
+    <b><![CDATA[¡Oiga! ¡Camarero, por favor!]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Excuse me waiter, when you have a minute]]></f>
+    <b><![CDATA[¡Oiga, camarero! Cuando pueda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Could I have the bill, please (formal)]]></f>
+    <b><![CDATA[¿Me puede traer la cuenta, por favor? o ¿Me trae la nota, por favor?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Is it possible to pay by card?]]></f>
+    <b><![CDATA[¿Se puede pagar con tarjeta?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How much is it? (informal)]]></f>
+    <b><![CDATA[¿Cuánto es?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can I pay, please? (informal)]]></f>
+    <b><![CDATA[¿Me cobra?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[What do I owe you? (informal)]]></f>
+    <b><![CDATA[¿Qué le debo?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm sorry]]></f>
+    <b><![CDATA[lo siento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm sorry, mum, I didn't mean to (informal)]]></f>
+    <b><![CDATA[Perdona, mamá. Ha sido sin querer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It doesn't matter, don't worry (informal)]]></f>
+    <b><![CDATA[No pasa nada, no te preocupes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Sorry]]></f>
+    <b><![CDATA[Perdón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[I'm sorry, I'm very sorry (formal)]]></f>
+    <b><![CDATA[Lo siento, lo siento mucho, señor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Sorry, madam, I didn't mean to (formal)]]></f>
+    <b><![CDATA[Perdone, señora. Ha sido sin querer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[It's nothing, don't worry (formal)]]></f>
+    <b><![CDATA[No es nada, no se preocupe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you pass me the salt?]]></f>
+    <b><![CDATA[¿Me pasas la sal?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, certainly]]></f>
+    <b><![CDATA[Sí, claro]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you pour me a drop of wine?]]></f>
+    <b><![CDATA[¿Me sirves un poco de vino?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Of course]]></f>
+    <b><![CDATA[Por supuesto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you pass me an orange?]]></f>
+    <b><![CDATA[¿Me das una naranja?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Yes, OK]]></f>
+    <b><![CDATA[Sí, vale]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you lend me you calculator?]]></f>
+    <b><![CDATA[¿Me dejas tu calculadora?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Can you lend me your camera?]]></f>
+    <b><![CDATA[¿Me prestas tu cámara fotográfica?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Of course, here you are]]></f>
+    <b><![CDATA[¡Cómo no! Toma]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you ever been to Chiloé?]]></f>
+    <b><![CDATA[¿Has estado alguna vez en Chiloé?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Have you ever eaten curanto?]]></f>
+    <b><![CDATA[¿Has comido alguna vez curanto?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[How many times have you visited Patagonia?]]></f>
+    <b><![CDATA[¿Cuántas veces has visitado la Patagonia?]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Only once]]></f>
+    <b><![CDATA[Solo una vez]]></b>
+  </c>
+</root>

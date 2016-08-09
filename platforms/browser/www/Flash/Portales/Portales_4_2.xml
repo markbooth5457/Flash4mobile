@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[bored]]></f>
+    <b><![CDATA[aburrido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[frightened]]></f>
+    <b><![CDATA[asustado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tired]]></f>
+    <b><![CDATA[cansado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[happy]]></f>
+    <b><![CDATA[contento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[depressed]]></f>
+    <b><![CDATA[deprimido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[disappointed]]></f>
+    <b><![CDATA[decepcionado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to feel]]></f>
+    <b><![CDATA[encontrarse]]></b>
+  </c>
+  <c>
+    <f><![CDATA[angry]]></f>
+    <b><![CDATA[enfadado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be well]]></f>
+    <b><![CDATA[estar bien]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be ill, unwell, in a bad way]]></f>
+    <b><![CDATA[estar mal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[awful]]></f>
+    <b><![CDATA[fatal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[great]]></f>
+    <b><![CDATA[fenomenal]]></b>
+  </c>
+  <c>
+    <f><![CDATA[busy]]></f>
+    <b><![CDATA[ocupado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[worried]]></f>
+    <b><![CDATA[preocupado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[so-so]]></f>
+    <b><![CDATA[regular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relaxed]]></f>
+    <b><![CDATA[relajado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[surprised]]></f>
+    <b><![CDATA[sorprendido]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sad/upset]]></f>
+    <b><![CDATA[triste]]></b>
+  </c>
+  <c>
+    <f><![CDATA[accident]]></f>
+    <b><![CDATA[el accidente]]></b>
+  </c>
+  <c>
+    <f><![CDATA[service area, services]]></f>
+    <b><![CDATA[el (fem) área de servicios]]></b>
+  </c>
+  <c>
+    <f><![CDATA[crossroads]]></f>
+    <b><![CDATA[el cruce]]></b>
+  </c>
+  <c>
+    <f><![CDATA[bend]]></f>
+    <b><![CDATA[la curva]]></b>
+  </c>
+  <c>
+    <f><![CDATA[petrol station]]></f>
+    <b><![CDATA[la gasolinera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[directions]]></f>
+    <b><![CDATA[las indicaciones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[laundry]]></f>
+    <b><![CDATA[la lavandería]]></b>
+  </c>
+  <c>
+    <f><![CDATA[roundabout]]></f>
+    <b><![CDATA[la rotonda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[exit (of roads)]]></f>
+    <b><![CDATA[la salida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[traffic light(s)]]></f>
+    <b><![CDATA[el semáforo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tent]]></f>
+    <b><![CDATA[la tienda (de campaña)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[snacks]]></f>
+    <b><![CDATA[los aperitivos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(playing) cards]]></f>
+    <b><![CDATA[las cartas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to build]]></f>
+    <b><![CDATA[construir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to count]]></f>
+    <b><![CDATA[contar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wrap (up)]]></f>
+    <b><![CDATA[envolver]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(greetings) card]]></f>
+    <b><![CDATA[la felicitación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to blow up (inflate)]]></f>
+    <b><![CDATA[inflar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to clean]]></f>
+    <b><![CDATA[limpiar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to drive (LAm)]]></f>
+    <b><![CDATA[manejar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to laugh]]></f>
+    <b><![CDATA[reír]]></b>
+  </c>
+  <c>
+    <f><![CDATA[birthday cake]]></f>
+    <b><![CDATA[tarta de cumpleaños]]></b>
+  </c>
+  <c>
+    <f><![CDATA[candles]]></f>
+    <b><![CDATA[las velas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[public library]]></f>
+    <b><![CDATA[la biblioteca pública]]></b>
+  </c>
+  <c>
+    <f><![CDATA[biography]]></f>
+    <b><![CDATA[la biografía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[catalogue]]></f>
+    <b><![CDATA[el catálogo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[science fiction]]></f>
+    <b><![CDATA[la ciencia ficción]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tape]]></f>
+    <b><![CDATA[la cinta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look up (reference books)]]></f>
+    <b><![CDATA[consultar (libros de referencia)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[essay]]></f>
+    <b><![CDATA[el ensayo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[history book]]></f>
+    <b><![CDATA[el libro de historia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[novel]]></f>
+    <b><![CDATA[la novela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[newspaper]]></f>
+    <b><![CDATA[el periódico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[poetry]]></f>
+    <b><![CDATA[la poesía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lend]]></f>
+    <b><![CDATA[prestar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reference]]></f>
+    <b><![CDATA[la referencia]]></b>
+  </c>
+  <c>
+    <f><![CDATA[travel books]]></f>
+    <b><![CDATA[relatos de viajes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[magazine]]></f>
+    <b><![CDATA[la revista]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to borrow/take out books]]></f>
+    <b><![CDATA[sacar libros]]></b>
+  </c>
+  <c>
+    <f><![CDATA[reading room]]></f>
+    <b><![CDATA[la sala de lectura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to chat (on the net)]]></f>
+    <b><![CDATA[chatear]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Internet connection]]></f>
+    <b><![CDATA[la conexión a internet]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to print]]></f>
+    <b><![CDATA[imprimir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[the Web]]></f>
+    <b><![CDATA[la Red]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to send]]></f>
+    <b><![CDATA[mandar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[text messages]]></f>
+    <b><![CDATA[los mensajes de texto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Web page]]></f>
+    <b><![CDATA[la página web]]></b>
+  </c>
+  <c>
+    <f><![CDATA[screen]]></f>
+    <b><![CDATA[la pantalla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[keyboard]]></f>
+    <b><![CDATA[el teclado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ink]]></f>
+    <b><![CDATA[la tinta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cliff]]></f>
+    <b><![CDATA[el acantilado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sand]]></f>
+    <b><![CDATA[la arena]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to walk]]></f>
+    <b><![CDATA[caminar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hill]]></f>
+    <b><![CDATA[la colina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go for a walk]]></f>
+    <b><![CDATA[dar un paseo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[steep]]></f>
+    <b><![CDATA[empinado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go on a trip]]></f>
+    <b><![CDATA[hacer una excursión]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go shopping]]></f>
+    <b><![CDATA[ir de compras]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to swim]]></f>
+    <b><![CDATA[nadar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[shore]]></f>
+    <b><![CDATA[la orilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beach]]></f>
+    <b><![CDATA[la playa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sunbathe]]></f>
+    <b><![CDATA[tomar el sol]]></b>
+  </c>
+  <c>
+    <f><![CDATA[accordion]]></f>
+    <b><![CDATA[el acordeón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[band]]></f>
+    <b><![CDATA[la banda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sing]]></f>
+    <b><![CDATA[cantar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[clarinet]]></f>
+    <b><![CDATA[el clarinete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to drive (Sp)]]></f>
+    <b><![CDATA[conducir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to rehearse, practise]]></f>
+    <b><![CDATA[ensayar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flute]]></f>
+    <b><![CDATA[la flauta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[guitar]]></f>
+    <b><![CDATA[la guitarra]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cry]]></f>
+    <b><![CDATA[llorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[music]]></f>
+    <b><![CDATA[la música]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tuba]]></f>
+    <b><![CDATA[la tuba]]></b>
+  </c>
+  <c>
+    <f><![CDATA[violin]]></f>
+    <b><![CDATA[el violín]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sailing boat]]></f>
+    <b><![CDATA[la barco de vela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fishing rod]]></f>
+    <b><![CDATA[la caña de pescar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[desert]]></f>
+    <b><![CDATA[el desierto]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mine]]></f>
+    <b><![CDATA[la mina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to sail]]></f>
+    <b><![CDATA[navegar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[oasis]]></f>
+    <b><![CDATA[el oasis]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wave]]></f>
+    <b><![CDATA[el ola]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sunshade]]></f>
+    <b><![CDATA[la sombrilla]]></b>
+  </c>
+</root>

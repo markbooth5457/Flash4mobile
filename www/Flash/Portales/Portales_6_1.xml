@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <c>
+    <f><![CDATA[auditorium]]></f>
+    <b><![CDATA[el auditorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to turn down the radio]]></f>
+    <b><![CDATA[bajar la radio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to run]]></f>
+    <b><![CDATA[correr]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(art) studio]]></f>
+    <b><![CDATA[el estudio de bellas artes]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to smoke]]></f>
+    <b><![CDATA[fumar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[range]]></f>
+    <b><![CDATA[la gama]]></b>
+  </c>
+  <c>
+    <f><![CDATA[photographic laboratory]]></f>
+    <b><![CDATA[el laboratorio de fotografías]]></b>
+  </c>
+  <c>
+    <f><![CDATA[telephone call]]></f>
+    <b><![CDATA[la llamada teléfonica]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cry]]></f>
+    <b><![CDATA[llorar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be in a bad mood]]></f>
+    <b><![CDATA[estar de mal humor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to look at]]></f>
+    <b><![CDATA[mirar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to go to the bathroom]]></f>
+    <b><![CDATA[pasar al cuarto de baño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to play loud music]]></f>
+    <b><![CDATA[poner música alta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to have visitors]]></f>
+    <b><![CDATA[recibir visitas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take photographs]]></f>
+    <b><![CDATA[sacar fotos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to touch]]></f>
+    <b><![CDATA[tocar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[dance]]></f>
+    <b><![CDATA[el baile]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lower one's arms]]></f>
+    <b><![CDATA[bajar los brazos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[waist]]></f>
+    <b><![CDATA[la cadera]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to (give a) kiss]]></f>
+    <b><![CDATA[dar un beso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take a step]]></f>
+    <b><![CDATA[dar un paso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to (do a) spin]]></f>
+    <b><![CDATA[dar una vuelta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to breathe out]]></f>
+    <b><![CDATA[espirar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to breathe in]]></f>
+    <b><![CDATA[inspirar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to raise, lift]]></f>
+    <b><![CDATA[levantar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[step (movement)]]></f>
+    <b><![CDATA[el paso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[relax]]></f>
+    <b><![CDATA[relajar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[take a deep breath]]></f>
+    <b><![CDATA[respira hondo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to tense]]></f>
+    <b><![CDATA[tensionar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take (somebody's) hand]]></f>
+    <b><![CDATA[tomar la mano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[needle]]></f>
+    <b><![CDATA[la aguja]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hole]]></f>
+    <b><![CDATA[el agujero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to press (a button)]]></f>
+    <b><![CDATA[apretar (un boton)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(camera) film]]></f>
+    <b><![CDATA[el carrete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to plug in]]></f>
+    <b><![CDATA[enchufar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to focus]]></f>
+    <b><![CDATA[enfocar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sewing machine]]></f>
+    <b><![CDATA[la máquina de coser]]></b>
+  </c>
+  <c>
+    <f><![CDATA[typewriter]]></f>
+    <b><![CDATA[la máquina de escribir]]></b>
+  </c>
+  <c>
+    <f><![CDATA[camera]]></f>
+    <b><![CDATA[la máquina de fotos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put in]]></f>
+    <b><![CDATA[meter]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(camera) lens]]></f>
+    <b><![CDATA[el objetivo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wind on the film]]></f>
+    <b><![CDATA[pasar el carrete]]></b>
+  </c>
+  <c>
+    <f><![CDATA[battery]]></f>
+    <b><![CDATA[la pila]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put on a record]]></f>
+    <b><![CDATA[poner un disco]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to try out]]></f>
+    <b><![CDATA[probar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take off]]></f>
+    <b><![CDATA[quitar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[grandfather clock]]></f>
+    <b><![CDATA[le reloj de pie]]></b>
+  </c>
+  <c>
+    <f><![CDATA[lid]]></f>
+    <b><![CDATA[la tapa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[record player]]></f>
+    <b><![CDATA[el tocadiscos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to take something down]]></f>
+    <b><![CDATA[bajar algo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to put out the rubbish]]></f>
+    <b><![CDATA[bajar/sacar la basura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lock]]></f>
+    <b><![CDATA[cerrar con llave]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to cut off (the water, gas)]]></f>
+    <b><![CDATA[cortar (el aqua, el gas)]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leather]]></f>
+    <b><![CDATA[el cuero]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to leave a message]]></f>
+    <b><![CDATA[dejar un mensaje]]></b>
+  </c>
+  <c>
+    <f><![CDATA[handmade]]></f>
+    <b><![CDATA[hecho a mano]]></b>
+  </c>
+  <c>
+    <f><![CDATA[wool]]></f>
+    <b><![CDATA[la lana]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be heavy (to weigh)]]></f>
+    <b><![CDATA[pesar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to try (e.g a dish)]]></f>
+    <b><![CDATA[probar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to travel through/explore]]></f>
+    <b><![CDATA[recorrer]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to travel]]></f>
+    <b><![CDATA[viajar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to visit]]></f>
+    <b><![CDATA[visitar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Mayor]]></f>
+    <b><![CDATA[el alcalde / la alcaldesa]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to enlarge]]></f>
+    <b><![CDATA[ampliar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[autonomous region]]></f>
+    <b><![CDATA[la autonomía]]></b>
+  </c>
+  <c>
+    <f><![CDATA[chamber]]></f>
+    <b><![CDATA[la cámara]]></b>
+  </c>
+  <c>
+    <f><![CDATA[congress]]></f>
+    <b><![CDATA[el congreso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to create]]></f>
+    <b><![CDATA[crear]]></b>
+  </c>
+  <c>
+    <f><![CDATA[decentralized]]></f>
+    <b><![CDATA[descentralizado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[member of parliament]]></f>
+    <b><![CDATA[el diputado/ la diputada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[elections]]></f>
+    <b><![CDATA[las elecciones]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(parliamentary) seat]]></f>
+    <b><![CDATA[el escaño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wash up]]></f>
+    <b><![CDATA[fregar los platos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[government]]></f>
+    <b><![CDATA[el gobierno]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to wash]]></f>
+    <b><![CDATA[lavar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to tidy]]></f>
+    <b><![CDATA[ordenar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[(political) party]]></f>
+    <b><![CDATA[el partido político]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to plant]]></f>
+    <b><![CDATA[plantar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[politics]]></f>
+    <b><![CDATA[la política]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to water]]></f>
+    <b><![CDATA[regar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[Senate]]></f>
+    <b><![CDATA[el senado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to vote]]></f>
+    <b><![CDATA[votar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be cold]]></f>
+    <b><![CDATA[tener frío]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be hot]]></f>
+    <b><![CDATA[tener calor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to be hungry]]></f>
+    <b><![CDATA[tener hambre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to feel sick]]></f>
+    <b><![CDATA[tener náuseas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to feel sleepy]]></f>
+    <b><![CDATA[tener sueño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[surgery (place)]]></f>
+    <b><![CDATA[la consulta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pain, ache]]></f>
+    <b><![CDATA[el dolor]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pregnant]]></f>
+    <b><![CDATA[embarazada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[back]]></f>
+    <b><![CDATA[la espalda]]></b>
+  </c>
+  <c>
+    <f><![CDATA[temperature, fever]]></f>
+    <b><![CDATA[la fiebre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[abscess (on tooth)]]></f>
+    <b><![CDATA[un flemón]]></b>
+  </c>
+  <c>
+    <f><![CDATA[throat]]></f>
+    <b><![CDATA[la garganta]]></b>
+  </c>
+  <c>
+    <f><![CDATA[flu]]></f>
+    <b><![CDATA[la gripe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[hunger]]></f>
+    <b><![CDATA[el (fem) hambre]]></b>
+  </c>
+  <c>
+    <f><![CDATA[infection]]></f>
+    <b><![CDATA[la infección]]></b>
+  </c>
+  <c>
+    <f><![CDATA[back tooth, molar]]></f>
+    <b><![CDATA[la muela]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nausea]]></f>
+    <b><![CDATA[la náusea]]></b>
+  </c>
+  <c>
+    <f><![CDATA[ears (hearing)]]></f>
+    <b><![CDATA[los oídos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cold (sickness)]]></f>
+    <b><![CDATA[el resfriado]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to feel sleepy]]></f>
+    <b><![CDATA[tener sueño]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cough]]></f>
+    <b><![CDATA[la tos]]></b>
+  </c>
+  <c>
+    <f><![CDATA[painkiller]]></f>
+    <b><![CDATA[el analgésico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[antibiotics]]></f>
+    <b><![CDATA[el antibiótico]]></b>
+  </c>
+  <c>
+    <f><![CDATA[beneficial, good]]></f>
+    <b><![CDATA[beneficioso]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sedative]]></f>
+    <b><![CDATA[el calmante]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cream]]></f>
+    <b><![CDATA[la crema]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to stimulate]]></f>
+    <b><![CDATA[estimular]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drop]]></f>
+    <b><![CDATA[la gota]]></b>
+  </c>
+  <c>
+    <f><![CDATA[herbs]]></f>
+    <b><![CDATA[las hierbas]]></b>
+  </c>
+  <c>
+    <f><![CDATA[sunstroke]]></f>
+    <b><![CDATA[la insolación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cough mixture]]></f>
+    <b><![CDATA[el jarabe]]></b>
+  </c>
+  <c>
+    <f><![CDATA[tablet]]></f>
+    <b><![CDATA[la pastilla]]></b>
+  </c>
+  <c>
+    <f><![CDATA[harmful, detrimental]]></f>
+    <b><![CDATA[perjudicial]]></b>
+  </c>
+  <c>
+    <f><![CDATA[mosquito bite]]></f>
+    <b><![CDATA[la picadura de mosquito]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cream, ointment]]></f>
+    <b><![CDATA[la pomada]]></b>
+  </c>
+  <c>
+    <f><![CDATA[suppository]]></f>
+    <b><![CDATA[el supositorio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to use]]></f>
+    <b><![CDATA[utilizar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to fit]]></f>
+    <b><![CDATA[caber]]></b>
+  </c>
+  <c>
+    <f><![CDATA[cure]]></f>
+    <b><![CDATA[la cura]]></b>
+  </c>
+  <c>
+    <f><![CDATA[pollution]]></f>
+    <b><![CDATA[la contaminación]]></b>
+  </c>
+  <c>
+    <f><![CDATA[drugs]]></f>
+    <b><![CDATA[la droga]]></b>
+  </c>
+  <c>
+    <f><![CDATA[life expectancy]]></f>
+    <b><![CDATA[la esperanza de vida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[fundamentalism]]></f>
+    <b><![CDATA[el fundamentalismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to win]]></f>
+    <b><![CDATA[ganar]]></b>
+  </c>
+  <c>
+    <f><![CDATA[medicine]]></f>
+    <b><![CDATA[el medicamento]]></b>
+  </c>
+  <c>
+    <f><![CDATA[medicine]]></f>
+    <b><![CDATA[la medicina]]></b>
+  </c>
+  <c>
+    <f><![CDATA[nationalism]]></f>
+    <b><![CDATA[el nacionalismo]]></b>
+  </c>
+  <c>
+    <f><![CDATA[leisure (time)]]></f>
+    <b><![CDATA[el ocio]]></b>
+  </c>
+  <c>
+    <f><![CDATA[to lose]]></f>
+    <b><![CDATA[perder]]></b>
+  </c>
+  <c>
+    <f><![CDATA[society]]></f>
+    <b><![CDATA[la sociedad]]></b>
+  </c>
+  <c>
+    <f><![CDATA[transport]]></f>
+    <b><![CDATA[el transporte]]></b>
+  </c>
+  <c>
+    <f><![CDATA[life]]></f>
+    <b><![CDATA[la vida]]></b>
+  </c>
+  <c>
+    <f><![CDATA[return]]></f>
+    <b><![CDATA[la vuelta]]></b>
+  </c>
+</root>
