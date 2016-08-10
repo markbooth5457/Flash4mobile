@@ -6,8 +6,8 @@ window.addEventListener('orientationchange', function() {
   document.body.className = cl;
 }, false);
 // global variables
-var deck = new CardDeck(flashShowFunction);
-var cardFolder = "Flash/";
+var deck = new CardDeck();
+var cardFolder = "xml/";
 var seeit = false;
 var topicItems = {};
 var topicName; // carries from one page to next for some reason?
@@ -21,25 +21,25 @@ var delay = 2; // how many secs to delay automation
 // displays current card object for Flash
 function flashShowFunction()
 {
-  var curCard = this.getCard();	// get current card
+  var curCard = deck.getCard();	// get current card
   if(curCard.flag) tag = "---";
   else tag = "";
-  this.first = ($("#backfirst").checked) ? 1 : 0;
-  if(this.first == 0 && !both)
+  deck.first = ($("#backfirst").checked) ? 1 : 0;
+  if(deck.first == 0 && !both)
   {
     setFront("<p>"+curCard.frontText+"</p><p>"+tag+"</p>");
     setBack("<p>"+curCard.backText+"</p><p>"+tag+"</p>");
   }
-  if (!this.first == 0 && !both)
+  if (!deck.first == 0 && !both)
   {
     setBack("<p>"+curCard.frontText+"</p><p>"+tag+"</p>");
     setFront("<p>"+curCard.backText+"</p><p>"+tag+"</p>");
   }
-  if (this.first == 0 && both)
+  if (deck.first == 0 && both)
   {
     setFront("<p>"+curCard.frontText + "</p><p>" + curCard.backText+"</p><p>"+tag+"</p>");
   }
-  if (!this.first == 0 && both)
+  if (!deck.first == 0 && both)
   {
     setFront("<p>"+curCard.backText + "</p><p>" + curCard.frontText+"</p><p>"+tag+"</p>");
   }
@@ -123,7 +123,7 @@ function liFileSelected(event)
 function buildDeckFromXML(xml)
 {
   stopAuto();
-  deck = new CardDeck(flashShowFunction); // assum Flash, but change later
+  deck = new CardDeck(); // assum Flash, but change later
   var items = xml.getElementsByTagName("c");
   var front;
   var back;
@@ -145,7 +145,7 @@ function restore() // deck from local storage
 {
   var front;
   var back;
-  deck = new CardDeck(flashShowFunction);
+  deck = new CardDeck();
   // loop through localstorage
   // and set front and back elements
   for (var i = 0; i < localStorage.length; i++)
@@ -180,6 +180,7 @@ function marked()
 function flip(event)
 {
   stopAuto();
+  // start by deciding which part of the card has been clicked
   var element = event.currentTarget;
   var x = Math.abs(event.offsetX);
   var y = Math.abs(event.offsetY);
@@ -202,22 +203,12 @@ function flip(event)
   }
   if (middle && top)
   {
-    // if(element.className == 'card')
-    // {
-    //   element.className =  'card flipped';
-    //   deck.side == 1;
-    // }
-    // else
-    // {
-    //   element.className =  'card';
-    //   deck.side == 0;
-    // }
     deck.side = 1 - deck.side;
     $(element).toggleClass("flipped");
   }
   if (middle && bottom)
   {
-    deck.flag();
+    deck.flagToggle();
   }
   if(bottom && left)
   {
@@ -236,12 +227,14 @@ function flip(event)
         deck.backward();
       }
     }
-
   }
   if(bottom && right)
   {
     forwardFlip(element);
   }
+  //now show the new card... showFunc
+  flashShowFunction();
+
 }
 
 function forwardFlip(element)
